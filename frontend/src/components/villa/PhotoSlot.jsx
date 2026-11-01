@@ -3,7 +3,7 @@ import { Camera } from "lucide-react";
 export const PhotoSlot = ({ photo, alt, label, className = "", testId }) =>
   photo ? (
     <figure className={`relative m-0 overflow-hidden bg-[#1a120c] ${className}`} data-testid={testId}>
-      <img src={photo.src} alt={alt} loading="lazy" className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-[1.03]" />
+      <img src={photo.src} alt={alt} loading="lazy" className="w-full h-full object-contain transition-transform duration-700 group-hover:scale-[1.03]" />
       <figcaption className="absolute bottom-0 inset-x-0 px-3 py-1.5 text-[0.72rem] font-body italic text-white/90 bg-gradient-to-t from-black/70 to-transparent">
         {photo.page ? <a href={photo.page} target="_blank" rel="noreferrer" className="hover:text-[var(--gold-soft)]">{photo.credit}</a> : photo.credit}
       </figcaption>
