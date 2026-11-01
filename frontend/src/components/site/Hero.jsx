@@ -3,9 +3,9 @@ import { HeroText } from "./HeroText";
 import { MosaicPanel } from "./MosaicPanel";
 
 export const Hero = ({ t }) => (
-  <section id="top" data-testid="hero-section" className="relative bg-[var(--ink)] pt-[86px] sm:pt-[104px] xl:pt-0">
-    <div className="xl:flex xl:items-stretch">
-      <div className="relative xl:w-[72vw]">
+  <section id="top" data-testid="hero-section" className="relative bg-[var(--ink)] pt-[86px] sm:pt-[104px] lg:pt-0">
+    <div className="lg:flex lg:items-stretch lg:w-[calc(var(--u)*100)] lg:mx-auto">
+      <div className="relative lg:w-[calc(var(--u)*72)]">
         <motion.div
           initial={{ clipPath: "inset(0 100% 0 0)" }}
           animate={{ clipPath: "inset(0 0% 0 0)" }}
@@ -21,8 +21,8 @@ export const Hero = ({ t }) => (
             fetchpriority="high"
           />
         </motion.div>
-        <div aria-hidden className="hidden xl:block absolute inset-y-0 left-0 w-[45%] pointer-events-none bg-gradient-to-r from-[rgba(20,8,4,0.38)] to-transparent" />
-        <img src="/img/flower-spray.png" alt="" aria-hidden className="hidden xl:block pointer-events-none absolute -left-[2.4vw] bottom-0 h-[30%] w-auto z-10 opacity-90" />
+        <div aria-hidden className="hidden lg:block absolute inset-y-0 left-0 w-[45%] pointer-events-none bg-gradient-to-r from-[rgba(20,8,4,0.38)] to-transparent" />
+        <img src="/img/flower-spray.png" alt="" aria-hidden className="hidden lg:block pointer-events-none absolute -left-[calc(var(--u)*2.4)] bottom-0 h-[30%] w-auto z-10 opacity-90" />
         <HeroText t={t} />
       </div>
       <MosaicPanel t={t} />

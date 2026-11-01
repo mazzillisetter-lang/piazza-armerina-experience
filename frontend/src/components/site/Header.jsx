@@ -39,11 +39,11 @@ export const Header = ({ lang, setLang, t }) => {
       animate={{ y: 0, opacity: 1 }}
       transition={{ duration: 0.9, ease: [0.22, 1, 0.36, 1], delay: 0.2 }}
       data-testid="site-header"
-      className={`fixed top-0 inset-x-0 z-50 transition-[background-color,padding] duration-500 ${scrolled ? "bg-[rgba(18,9,7,0.9)] backdrop-blur-xl py-2" : "bg-[rgba(18,9,7,0.55)] xl:bg-transparent py-2.5 xl:py-[1vw]"}`}
+      className={`fixed top-0 inset-x-0 z-50 transition-[background-color,padding] duration-500 ${scrolled ? "bg-[rgba(18,9,7,0.9)] backdrop-blur-xl py-2" : "bg-[rgba(18,9,7,0.55)] lg:bg-transparent py-2.5 lg:py-[calc(var(--u)*1)]"}`}
     >
-      <div className="px-4 sm:px-8 xl:px-[3vw] flex items-center justify-between gap-3">
+      <div className="px-4 sm:px-8 lg:px-[calc(var(--u)*3)] lg:max-w-[calc(var(--u)*100)] mx-auto flex items-center justify-between gap-3">
         <Logo />
-        <nav className="hidden xl:flex items-center gap-[2.2vw] font-body text-[1.25vw] 2xl:text-[1.3vw] text-white text-shadow-soft">
+        <nav className="hidden xl:flex items-center gap-[2.2vw] font-body text-[calc(var(--u)*1.25)] text-white text-shadow-soft">
           {t.nav.map((m, i) => (
             <a key={m} href={HREFS[i]} data-testid={`header-nav-link-${i}`} className="link-gold whitespace-nowrap">{m}</a>
           ))}
@@ -66,7 +66,7 @@ export const Header = ({ lang, setLang, t }) => {
             animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0, y: -10 }}
             transition={{ duration: 0.3 }}
-            className="absolute right-4 sm:right-8 xl:right-[3vw] top-full mt-2 w-64 rounded-2xl bg-[#1a0f0b]/95 backdrop-blur-xl border border-[var(--gold)]/40 p-3"
+            className="absolute right-4 sm:right-8 lg:right-[calc(var(--u)*3)] top-full mt-2 w-64 rounded-2xl bg-[#1a0f0b]/95 backdrop-blur-xl border border-[var(--gold)]/40 p-3"
           >
             {t.nav.map((m, i) => (
               <a key={m} href={HREFS[i]} onClick={() => setOpen(false)} data-testid={`menu-panel-link-${i}`} className="block px-4 py-2.5 rounded-xl font-body text-lg text-white hover:bg-[var(--gold)]/15 hover:text-[var(--gold-soft)] transition-colors">{m}</a>
