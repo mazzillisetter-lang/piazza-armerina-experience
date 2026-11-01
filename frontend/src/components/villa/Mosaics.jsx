@@ -5,7 +5,11 @@ import { PhotoSlot } from "./PhotoSlot";
 
 const Card = ({ m, ui, i }) => (
   <motion.article initial={{ opacity: 0, y: 26 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, amount: 0.12 }} transition={{ duration: 0.8, delay: (i % 3) * 0.08 }} className="group flex flex-col bg-[#17100b] border border-[var(--gold)]/20 hover:border-[var(--gold)]/55 transition-colors" data-testid={`mosaic-card-${m.key}`}>
-    <PhotoSlot photo={m.photo} alt={m.title} label={ui.photoSoon} className="aspect-[4/3] w-full" testId={`mosaic-photo-${m.key}`} />
+    <div className={m.photos?.length > 1 ? "grid grid-cols-2 gap-1" : ""}>
+      {(m.photos?.length ? m.photos : [m.photo]).map((photo, j) => (
+        <PhotoSlot key={`${m.key}-${j}`} photo={photo} alt={`${m.title}${j ? ` — dettaglio ${j + 1}` : ""}`} label={ui.photoSoon} className={`w-full ${m.photos?.length > 1 ? "aspect-[4/3]" : "aspect-[4/3]"}`} testId={`mosaic-photo-${m.key}-${j}`} />
+      ))}
+    </div>
     <div className="p-6 flex flex-col flex-1">
       <p className="flex items-center gap-1.5 font-body text-sm text-[var(--gold)]"><MapPin className="w-4 h-4" />{m.where}</p>
       <h3 className="mt-2 font-display font-bold text-2xl text-white leading-tight">{m.title}</h3>
