@@ -9,7 +9,7 @@
   --line: rgba(217, 174, 95, 0.22);
 }
 
-@media (min-width: 1024px) { :root { --u: min(1vw, 1.9vh); } }
+@media (min-width: 1024px) { :root { --u: 1vw; } }
 html, body { background: var(--ink); overflow-x: clip; }
 body { font-family: "Crimson Pro", serif; color: var(--cream); font-size: 1.06rem; }
 ::selection { background: var(--gold); color: var(--ink); }
@@ -34,23 +34,14 @@ body { font-family: "Crimson Pro", serif; color: var(--cream); font-size: 1.06re
 .mosaic-panel { background: radial-gradient(70% 50% at 50% 30%, rgba(200,95,45,.35), transparent 70%), var(--ink); }
 @media (min-width: 1024px) {
   .mosaic-panel { background: transparent; }
-  .mosaic-ext {
-    background:
-      linear-gradient(90deg, rgba(0,0,0,0) 0%, rgba(22,11,8,.28) 100%),
-      linear-gradient(180deg, #9a9ba8 0%, #8a909f 5%, #414d6f 11%, #bc765d 16%, #9f6a60 21%, #d07253 26%, #a6676f 31%, #3f4666 36%, #574438 41%, #3b3436 46%, #2e2724 52%, #7a5432 57%, #6a5349 63%, #7b534e 68%, #8f655a 73%, #664c48 78%, #71574d 84%, #5b443b 89%, #5d3627 94%, #49251e 100%);
-    opacity: .96;
-    -webkit-mask-image: linear-gradient(90deg, transparent 0, #000 calc(var(--u)*6));
-    mask-image: linear-gradient(90deg, transparent 0, #000 calc(var(--u)*6));
-  }
-  .mosaic-streak { opacity: .55; mix-blend-mode: soft-light; background-size: 3600% 100%; background-position: right center; }
+  .pano-box { height: min(56.25vw, max(46vw, calc(100vh - 10.2vw))); }
+  .pano-box img { object-position: 50% 62%; }
 }
-.mosaic-streak { display: none; }
 .pano-warm { filter: sepia(.1) saturate(1.1) contrast(1.03) brightness(1.03) hue-rotate(-3deg); }
 @media (min-width: 1024px) {
-  .mosaic-streak { display: block; }
   .mosaic-panel .mosaic-mask {
-    -webkit-mask-image: linear-gradient(90deg, transparent 0%, #000 26%), linear-gradient(180deg, transparent 0%, #000 8%);
-    mask-image: linear-gradient(90deg, transparent 0%, #000 26%), linear-gradient(180deg, transparent 0%, #000 8%);
+    -webkit-mask-image: linear-gradient(90deg, transparent 0%, #000 30%), linear-gradient(180deg, transparent 0%, #000 7%);
+    mask-image: linear-gradient(90deg, transparent 0%, #000 30%), linear-gradient(180deg, transparent 0%, #000 7%);
   }
 }
 .mosaic-mask {
