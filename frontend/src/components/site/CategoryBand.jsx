@@ -23,7 +23,7 @@ export const CategoryBand = ({ t }) => (
       <path fill="currentColor" d="M0 0h1200v4l-18 5-26-6-31 7-22-5-37 6-28-4-33 5-24-6-35 7-27-5-30 4-36-6-25 7-33-5-29 5-38-6-21 6-34-5-27 5-31-7-26 6-35-4-24 5-37-6-28 6-30-5-33 7-22-6-36 5-27-4-31 6-25-7-34 5-29-4-23 6-38-5-26 4-33-6-28 7-31-5-24 4-36-6-27 7-30-5-35 4-22-5-33 6-26-6-31 5-29-4-25 6-14-3z" />
     </svg>
     <div className="lg:max-w-[calc(var(--u)*100)] mx-auto px-4 sm:px-8 lg:px-[calc(var(--u)*1.5)] pt-9 pb-8 sm:pt-12 sm:pb-12 lg:pt-[calc(var(--u)*1.7)] lg:pb-[calc(var(--u)*1.4)]">
-      <ul className="grid grid-cols-3 lg:grid-cols-9 gap-y-6 lg:gap-y-0">
+      <ul className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-9 gap-y-6 lg:gap-y-0">
         {t.bandShort.map((label, i) => (
           <motion.li
             key={KEYS[i]}
@@ -31,7 +31,7 @@ export const CategoryBand = ({ t }) => (
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true, amount: 0.1 }}
             transition={{ duration: 0.7, delay: i * 0.06, ease: [0.22, 1, 0.36, 1] }}
-            className={`band-item ${i % 3 !== 0 ? "max-lg:border-l" : ""} ${i !== 0 ? "lg:border-l" : ""}`}
+            className={`band-item ${i % 2 === 1 ? "max-sm:border-l" : ""} ${i === 8 ? "max-sm:col-span-2" : ""} ${i % 3 !== 0 ? "sm:max-lg:border-l" : ""} ${i !== 0 ? "lg:border-l" : ""}`}
           >
             <a href="#esplora" data-testid={`category-${KEYS[i]}`} className="group flex flex-col items-center text-center px-2 py-1">
               <span className="flex items-end gap-1 h-12 sm:h-16 lg:h-[calc(var(--u)*2.9)] transition-transform duration-500 group-hover:-translate-y-1.5">

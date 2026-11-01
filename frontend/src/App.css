@@ -9,6 +9,7 @@
   --line: rgba(217, 174, 95, 0.22);
 }
 
+@media (min-width: 768px) { :root { --u: 1.2vw; } }
 @media (min-width: 1024px) { :root { --u: 1vw; } }
 html, body { background: var(--ink); overflow-x: clip; }
 body { font-family: "Crimson Pro", serif; color: var(--cream); font-size: 1.06rem; }
@@ -29,16 +30,16 @@ body { font-family: "Crimson Pro", serif; color: var(--cream); font-size: 1.06re
   transition: transform .35s ease, box-shadow .35s ease;
 }
 .btn-hero:hover { transform: translateY(-2px); box-shadow: inset 0 1px 0 rgba(255,240,200,.6), 0 18px 40px -12px rgba(240,170,60,.9); }
-@media (min-width: 1024px) { .btn-hero { font-size: calc(var(--u)*1.4); padding: calc(var(--u)*0.75) calc(var(--u)*2); gap: calc(var(--u)*0.9); } }
+@media (min-width: 768px) { .btn-hero { font-size: calc(var(--u)*1.4); padding: calc(var(--u)*0.75) calc(var(--u)*2); gap: calc(var(--u)*0.9); } }
 
-.mosaic-panel { background: radial-gradient(70% 50% at 50% 30%, rgba(200,95,45,.35), transparent 70%), var(--ink); }
-@media (min-width: 1024px) {
-  .mosaic-panel { background: transparent; }
+.pano-box { height: clamp(640px, 100svh, 860px); }
+.pano-box img { object-position: 45% 50%; }
+@media (min-width: 768px) {
   .pano-box { height: min(56.25vw, max(46vw, calc(100vh - 10.2vw))); }
   .pano-box img { object-position: 50% 62%; }
 }
 .pano-warm { filter: sepia(.1) saturate(1.1) contrast(1.03) brightness(1.03) hue-rotate(-3deg); }
-@media (min-width: 1024px) {
+@media (min-width: 768px) {
   .mosaic-panel .mosaic-mask {
     -webkit-mask-image: linear-gradient(90deg, transparent 0%, #000 24%), linear-gradient(180deg, transparent 0%, #000 12%);
     mask-image: linear-gradient(90deg, transparent 0%, #000 24%), linear-gradient(180deg, transparent 0%, #000 12%);

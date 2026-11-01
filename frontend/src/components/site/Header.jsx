@@ -39,7 +39,7 @@ export const Header = ({ lang, setLang, t }) => {
       animate={{ y: 0, opacity: 1 }}
       transition={{ duration: 0.9, ease: [0.22, 1, 0.36, 1], delay: 0.2 }}
       data-testid="site-header"
-      className={`fixed top-0 inset-x-0 z-50 transition-[background-color,padding] duration-500 ${scrolled ? "bg-[rgba(18,9,7,0.9)] backdrop-blur-xl py-2" : "bg-[rgba(18,9,7,0.55)] lg:bg-transparent py-2.5 lg:py-[calc(var(--u)*1)]"}`}
+      className={`fixed top-0 inset-x-0 z-50 transition-[background-color,padding] duration-500 ${scrolled ? "bg-[rgba(18,9,7,0.9)] backdrop-blur-xl py-2" : "bg-transparent py-2.5 lg:py-[calc(var(--u)*1)]"}`}
     >
       <div className="px-4 sm:px-8 lg:px-[calc(var(--u)*3)] lg:max-w-[calc(var(--u)*100)] mx-auto flex items-center justify-between gap-3">
         <Logo />
