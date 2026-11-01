@@ -67,6 +67,9 @@ body { font-family: "Crimson Pro", serif; color: var(--cream); font-size: 1.06re
 }
 .band-item { border-color: rgba(90,55,25,.35); }
 .no-scrollbar { scrollbar-width: none; }
+.map-btn { display: grid; place-items: center; width: 2.5rem; height: 2.5rem; border-radius: 999px; background: rgba(255,255,255,.1); color: #fff; transition: background-color .3s ease; }
+.map-btn:hover { background: rgba(217,174,95,.35); }
+.map-btn:disabled { opacity: .35; }
 .no-scrollbar::-webkit-scrollbar { display: none; }
 
 .text-gold-grad {
