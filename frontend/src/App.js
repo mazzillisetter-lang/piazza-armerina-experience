@@ -3,6 +3,9 @@ import Lenis from "lenis";
 import "lenis/dist/lenis.css";
 import "@/App.css";
 import { T, LANGS } from "@/i18n";
+import { H } from "@/i18n-hero";
+import { Toaster } from "@/components/ui/sonner";
+import { CategoryBand } from "@/components/site/CategoryBand";
 import { Header } from "@/components/site/Header";
 import { Hero } from "@/components/site/Hero";
 import { Marquee } from "@/components/site/Marquee";
@@ -17,7 +20,7 @@ const initialLang = () => {
 
 function App() {
   const [lang, setLang] = useState(initialLang);
-  const t = T[lang];
+  const t = { ...T[lang], ...H[lang] };
 
   useEffect(() => {
     localStorage.setItem("pa-lang", lang);
@@ -37,11 +40,13 @@ function App() {
       <Header lang={lang} setLang={setLang} t={t} />
       <main>
         <Hero t={t} />
+        <CategoryBand t={t} />
         <Marquee />
         <Intro t={t} />
         <Explore t={t} />
       </main>
       <Footer t={t} />
+      <Toaster position="bottom-center" />
     </div>
   );
 }

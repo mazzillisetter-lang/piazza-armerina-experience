@@ -8,7 +8,7 @@ const reveal = {
 };
 
 export const Intro = ({ t }) => (
-  <section className="bg-[var(--cream)] text-[var(--ink)] py-24 sm:py-32 lg:py-40" data-testid="intro-section">
+  <section id="benvenuti" className="parchment text-[var(--ink)] py-24 sm:py-32 lg:py-40" data-testid="intro-section">
     <div className="max-w-[1440px] mx-auto px-5 sm:px-8 lg:px-12 grid lg:grid-cols-12 gap-10 lg:gap-16">
       <motion.div {...reveal} className="lg:col-span-5">
         <p className="kicker kicker-dark mb-6 flex items-center gap-4"><span className="h-px w-10 bg-[var(--terracotta)]" />{t.introKicker}</p>

@@ -15,6 +15,13 @@ User choices: lingue IT/EN/DE/FR/ES; schede senza foto (icone, numeri, tipografi
 - Hero: masked line reveal title, Pinyon Script tagline, panorama full uncropped (w-full h-auto), mosaic card on right with subtle 3D tilt, parallax roman numeral
 - Slow gold editorial marquee, cream intro section, 9-card bento (4x3 grid), footer with "anteprima in attesa di approvazione"
 
+## Update (2026-11-01) — Rebuild from user reference screenshot
+- Hero rebuilt as HTML/CSS: panorama full (72vw, natural ratio, no crop) with title/tagline/lead/CTA/video button overlaid on left (xl+); mosaic panel on right (28vw) with cursive words Storia/Arte/Natura/Sapori/Persone and decorative bougainvillea (AI-generated decorative flowers, not monuments)
+- Header: logo, 7 nav links, search (toast "in arrivo"), language dropdown with flags, gold hamburger menu panel
+- Parchment band with 9 clickable categories (lucide icons); Intro section now parchment
+- Fonts: Playfair Display, Crimson Pro, Great Vibes
+- Placeholders: "Guarda il video" and search show "disponibile a breve" toast
+
 ## Backlog
 - P0: user approval of homepage design
 - P1: build the 9 section pages; replace card placeholders with user's photos

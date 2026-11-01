@@ -1,21 +1,21 @@
 export const LogoMark = ({ className = "w-9 h-9" }) => (
-  <svg viewBox="0 0 48 48" className={className} aria-hidden="true">
-    <circle cx="24" cy="24" r="22.5" fill="none" stroke="currentColor" strokeWidth="1.2" />
-    <path d="M24 7v4M22.2 9h3.6" stroke="currentColor" strokeWidth="1.2" strokeLinecap="round" />
-    <path d="M17 22c0-4.4 3.1-8.5 7-9.6 3.9 1.1 7 5.2 7 9.6z" fill="currentColor" />
-    <path d="M13 38V25h22v13" fill="none" stroke="currentColor" strokeWidth="1.2" />
-    <path d="M15.5 22.5h17" stroke="currentColor" strokeWidth="1.2" />
-    <path d="M21 38v-6a3 3 0 0 1 6 0v6" fill="none" stroke="currentColor" strokeWidth="1.2" />
-    <path d="M10 38h28" stroke="currentColor" strokeWidth="1.2" strokeLinecap="round" />
+  <svg viewBox="0 0 48 40" className={className} aria-hidden="true" fill="currentColor">
+    <path d="M24 2v4M22.4 3.6h3.2" stroke="currentColor" strokeWidth="1.4" strokeLinecap="round" />
+    <path d="M18.5 15c0-3.6 2.4-6.8 5.5-7.8 3.1 1 5.5 4.2 5.5 7.8z" />
+    <rect x="16.5" y="15.6" width="15" height="2.2" />
+    <path d="M17 18.5h14V38H27v-6a3 3 0 0 0-6 0v6h-4z" />
+    <path d="M6 22.5l5-4 5 4V38H6z" />
+    <path d="M32 22.5l5-4 5 4V38H32z" />
+    <rect x="9.6" y="27" width="2.8" height="4.5" rx="1.4" fill="#000" fillOpacity=".35" />
+    <rect x="35.6" y="27" width="2.8" height="4.5" rx="1.4" fill="#000" fillOpacity=".35" />
+    <rect x="3" y="38" width="42" height="1.6" />
   </svg>
 );
 
 export const Logo = () => (
-  <a href="#top" data-testid="header-logo-link" className="flex items-center gap-3 text-[var(--gold)] group">
-    <LogoMark className="w-8 h-8 sm:w-9 sm:h-9 shrink-0 transition-transform duration-700 group-hover:rotate-[360deg]" />
-    <span className="leading-none">
-      <span className="block font-display text-[1.05rem] sm:text-[1.35rem] whitespace-nowrap text-[var(--cream)] tracking-wide">Piazza Armerina</span>
-      <span className="block text-[0.62rem] uppercase tracking-[0.42em] text-[var(--gold)] mt-1">Experience</span>
-    </span>
+  <a href="#top" data-testid="header-logo-link" className="flex flex-col items-center text-[var(--gold)] group shrink-0">
+    <LogoMark className="w-9 h-8 sm:w-12 sm:h-10 xl:w-[3vw] xl:h-[2.5vw] transition-transform duration-700 group-hover:-translate-y-0.5" />
+    <span className="font-display font-bold text-[0.95rem] sm:text-[1.45rem] xl:text-[1.5vw] leading-none tracking-[0.02em] text-white uppercase mt-1 text-shadow-soft whitespace-nowrap">Piazza Armerina</span>
+    <span className="text-[0.55rem] sm:text-[0.72rem] xl:text-[0.7vw] uppercase tracking-[0.42em] text-[var(--gold)] mt-1 pl-[0.42em] font-body">Experience</span>
   </a>
 );
