@@ -22,7 +22,7 @@ export const HeroText = ({ t }) => (
     <h1 data-testid="hero-title" className="font-display font-bold text-[2.55rem] sm:text-6xl lg:text-[calc(var(--u)*3.4)] leading-[1] mt-3 lg:mt-[calc(var(--u)*0.6)] text-shadow-hero">
       <Line delay={0.45}>Piazza Armerina</Line>
     </h1>
-    <p data-testid="hero-tagline" className="font-display italic font-bold text-[2.05rem] sm:text-5xl lg:text-[calc(var(--u)*2.5)] leading-[1.06] mt-2 lg:mt-[calc(var(--u)*0.5)] drop-gold">
+    <p data-testid="hero-tagline" className="font-display italic font-bold text-[2.05rem] sm:text-5xl lg:text-[calc(var(--u)*2.6)] leading-[1.06] lg:leading-[1.02] mt-2 lg:mt-[calc(var(--u)*0.6)] drop-gold">
       {t.taglineLines.map((l, i) => (
         <Line key={l} delay={0.65 + i * 0.12}><span className="text-gold-grad">{l}</span></Line>
       ))}

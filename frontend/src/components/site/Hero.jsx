@@ -17,12 +17,12 @@ export const Hero = ({ t }) => (
             alt="Panorama di Piazza Armerina al tramonto con la Cattedrale e Palazzo Trigona"
             width="1672"
             height="941"
-            className="block w-full h-auto"
+            className="block w-full h-auto pano-warm"
             fetchpriority="high"
           />
         </motion.div>
         <div aria-hidden className="hidden lg:block absolute inset-y-0 left-0 w-[45%] pointer-events-none bg-gradient-to-r from-[rgba(20,8,4,0.38)] to-transparent" />
-        <img src="/img/flower-spray.png" alt="" aria-hidden className="hidden lg:block pointer-events-none absolute -left-[calc(var(--u)*2.4)] bottom-0 h-[30%] w-auto z-10 opacity-90" />
+        <img src="/img/flower-spray.png" alt="" aria-hidden className="hidden lg:block pointer-events-none absolute -left-[calc(var(--u)*2.4)] bottom-0 h-[20%] w-auto z-10 opacity-90" />
         <HeroText t={t} />
       </div>
       <MosaicPanel t={t} />

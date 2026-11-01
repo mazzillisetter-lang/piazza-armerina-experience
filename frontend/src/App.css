@@ -39,13 +39,20 @@ body { font-family: "Crimson Pro", serif; color: var(--cream); font-size: 1.06re
       linear-gradient(90deg, rgba(0,0,0,0) 0%, rgba(22,11,8,.28) 100%),
       linear-gradient(180deg, #9a9ba8 0%, #8a909f 5%, #414d6f 11%, #bc765d 16%, #9f6a60 21%, #d07253 26%, #a6676f 31%, #3f4666 36%, #574438 41%, #3b3436 46%, #2e2724 52%, #7a5432 57%, #6a5349 63%, #7b534e 68%, #8f655a 73%, #664c48 78%, #71574d 84%, #5b443b 89%, #5d3627 94%, #49251e 100%);
     opacity: .96;
-    -webkit-mask-image: linear-gradient(90deg, transparent 0, #000 calc(var(--u)*3.5));
-    mask-image: linear-gradient(90deg, transparent 0, #000 calc(var(--u)*3.5));
+    -webkit-mask-image: linear-gradient(90deg, transparent 0, #000 calc(var(--u)*6));
+    mask-image: linear-gradient(90deg, transparent 0, #000 calc(var(--u)*6));
   }
   .mosaic-streak { opacity: .55; mix-blend-mode: soft-light; background-size: 3600% 100%; background-position: right center; }
 }
 .mosaic-streak { display: none; }
-@media (min-width: 1024px) { .mosaic-streak { display: block; } }
+.pano-warm { filter: sepia(.1) saturate(1.1) contrast(1.03) brightness(1.03) hue-rotate(-3deg); }
+@media (min-width: 1024px) {
+  .mosaic-streak { display: block; }
+  .mosaic-panel .mosaic-mask {
+    -webkit-mask-image: linear-gradient(90deg, transparent 0%, #000 26%), linear-gradient(180deg, transparent 0%, #000 8%);
+    mask-image: linear-gradient(90deg, transparent 0%, #000 26%), linear-gradient(180deg, transparent 0%, #000 8%);
+  }
+}
 .mosaic-mask {
   -webkit-mask-image: linear-gradient(90deg, transparent 0%, #000 20%, #000 86%, transparent 100%), linear-gradient(180deg, transparent 0%, #000 16%, #000 84%, transparent 100%);
   -webkit-mask-composite: source-in;
