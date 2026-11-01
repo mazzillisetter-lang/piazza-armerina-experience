@@ -12,10 +12,39 @@ import { Marquee } from "@/components/site/Marquee";
 import { Intro } from "@/components/site/Intro";
 import { Explore } from "@/components/site/Explore";
 import { Footer } from "@/components/site/Footer";
+import { BrowserRouter, Routes, Route, useLocation } from "react-router-dom";
+import VillaRomana from "@/pages/VillaRomana";
 
 const initialLang = () => {
   const saved = localStorage.getItem("pa-lang");
   return LANGS.includes(saved) ? saved : "it";
+};
+
+const Home = ({ t }) => (
+  <main>
+    <Hero t={t} />
+    <CategoryBand t={t} />
+    <Marquee />
+    <Intro t={t} />
+    <Explore t={t} />
+  </main>
+);
+
+const Shell = ({ lang, setLang, t }) => {
+  const { pathname } = useLocation();
+  const isHome = pathname === "/";
+  return (
+    <div className="site grain">
+      <Header lang={lang} setLang={setLang} t={t} base={isHome ? "" : "/"} />
+      <Routes>
+        <Route path="/" element={<Home t={t} />} />
+        <Route path="/villa-romana-del-casale" element={<VillaRomana lang={lang} />} />
+        <Route path="*" element={<Home t={t} />} />
+      </Routes>
+      <Footer t={t} />
+      <Toaster position="bottom-center" />
+    </div>
+  );
 };
 
 function App() {
@@ -36,18 +65,9 @@ function App() {
   }, []);
 
   return (
-    <div className="site grain">
-      <Header lang={lang} setLang={setLang} t={t} />
-      <main>
-        <Hero t={t} />
-        <CategoryBand t={t} />
-        <Marquee />
-        <Intro t={t} />
-        <Explore t={t} />
-      </main>
-      <Footer t={t} />
-      <Toaster position="bottom-center" />
-    </div>
+    <BrowserRouter>
+      <Shell lang={lang} setLang={setLang} t={t} />
+    </BrowserRouter>
   );
 }
 

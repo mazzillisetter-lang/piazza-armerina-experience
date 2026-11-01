@@ -10,8 +10,8 @@ const Card = ({ data, i, soon }) => {
   const big = i === 0;
   return (
     <motion.a
-      href="#esplora"
-      onClick={(e) => e.preventDefault()}
+      href={i === 0 ? "/villa-romana-del-casale" : "#esplora"}
+      onClick={(e) => { if (i !== 0) e.preventDefault(); }}
       data-testid={`nav-card-${KEYS[i]}`}
       initial={{ opacity: 0, y: 30 }}
       whileInView={{ opacity: 1, y: 0 }}

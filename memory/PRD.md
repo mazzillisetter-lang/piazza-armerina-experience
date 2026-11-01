@@ -22,6 +22,12 @@ User choices: lingue IT/EN/DE/FR/ES; schede senza foto (icone, numeri, tipografi
 - Fonts: Playfair Display, Crimson Pro, Great Vibes
 - Placeholders: "Guarda il video" and search show "disponibile a breve" toast
 
+## Update (2026-11-01) — Pagina Villa Romana del Casale
+- Route /villa-romana-del-casale (react-router), linked from homepage band (Villa) and Explore card
+- Sections: hero (photo placeholder), Storia + "Lo sapevi che", 7 mosaic cards, percorso (8 steps + official map placeholder), Organizza la visita (PRACTICAL in src/content/villa.js, official links), Dopo la Villa
+- Photos: 4 Wikimedia Commons images with attribution (Grande Caccia PD, Bikini CC BY 2.5, Polifemo CC BY-SA 2.0, Piccolo Circo CC BY-SA 4.0) + user's mosaic (scena erotica); Terme, Scene mitologiche, hero panorama = placeholders
+- Multilingual: UI labels in 5 langs; long texts IT only (fallback + note banner)
+
 ## Backlog
 - P0: user approval of homepage design
 - P1: build the 9 section pages; replace card placeholders with user's photos

@@ -24,7 +24,7 @@ const LangMenu = ({ lang, setLang }) => (
   </DropdownMenu>
 );
 
-export const Header = ({ lang, setLang, t }) => {
+export const Header = ({ lang, setLang, t, base = "" }) => {
   const [scrolled, setScrolled] = useState(false);
   const [open, setOpen] = useState(false);
   useEffect(() => {
@@ -42,10 +42,10 @@ export const Header = ({ lang, setLang, t }) => {
       className={`fixed top-0 inset-x-0 z-50 transition-[background-color,padding] duration-500 ${scrolled ? "bg-[rgba(18,9,7,0.9)] backdrop-blur-xl py-2" : "bg-transparent py-2.5 lg:py-[calc(var(--u)*1)]"}`}
     >
       <div className="px-4 sm:px-8 lg:px-[calc(var(--u)*3)] lg:max-w-[calc(var(--u)*100)] mx-auto flex items-center justify-between gap-3">
-        <Logo />
+        <Logo href={base ? "/" : "#top"} />
         <nav className="hidden xl:flex items-center gap-[2.2vw] font-body text-[calc(var(--u)*1.25)] text-white text-shadow-soft">
           {t.nav.map((m, i) => (
-            <a key={m} href={HREFS[i]} data-testid={`header-nav-link-${i}`} className="link-gold whitespace-nowrap">{m}</a>
+            <a key={m} href={base + HREFS[i]} data-testid={`header-nav-link-${i}`} className="link-gold whitespace-nowrap">{m}</a>
           ))}
         </nav>
         <div className="flex items-center gap-2 sm:gap-3">
@@ -69,7 +69,7 @@ export const Header = ({ lang, setLang, t }) => {
             className="absolute right-4 sm:right-8 lg:right-[calc(var(--u)*3)] top-full mt-2 w-64 rounded-2xl bg-[#1a0f0b]/95 backdrop-blur-xl border border-[var(--gold)]/40 p-3"
           >
             {t.nav.map((m, i) => (
-              <a key={m} href={HREFS[i]} onClick={() => setOpen(false)} data-testid={`menu-panel-link-${i}`} className="block px-4 py-2.5 rounded-xl font-body text-lg text-white hover:bg-[var(--gold)]/15 hover:text-[var(--gold-soft)] transition-colors">{m}</a>
+              <a key={m} href={base + HREFS[i]} onClick={() => setOpen(false)} data-testid={`menu-panel-link-${i}`} className="block px-4 py-2.5 rounded-xl font-body text-lg text-white hover:bg-[var(--gold)]/15 hover:text-[var(--gold-soft)] transition-colors">{m}</a>
             ))}
           </motion.nav>
         )}

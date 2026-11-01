@@ -1,0 +1,81 @@
+// Contenuti della pagina Villa Romana del Casale. Le informazioni pratiche sono in PRACTICAL: aggiornarle qui.
+export const OFFICIAL = {
+  park: { label: "Sito ufficiale della Villa Romana del Casale", url: "https://www.villaromanadelcasale.it/" },
+  comune: { label: "Comune di Piazza Armerina", url: "https://www.comune.piazzaarmerina.en.it/" },
+  unesco: { label: "Scheda UNESCO (World Heritage List)", url: "https://whc.unesco.org/en/list/832" },
+  maps: { label: "Apri in Google Maps", url: "https://www.google.com/maps/search/?api=1&query=Villa+Romana+del+Casale+Piazza+Armerina" },
+};
+
+export const UI = {
+  it: { nav: ["Storia", "Mosaici", "Percorso", "Visita", "Dopo la Villa"], home: "Home", back: "Torna alla homepage", didYouKnow: "Lo sapevi che…?", photoSoon: "Fotografia da inserire", where: "Dove", source: "Fonte", verify: "Da verificare sul sito ufficiale", updated: "Ultimo aggiornamento", mapSlot: "Mappa ufficiale del Parco", mapSlotText: "Spazio riservato alla planimetria ufficiale del Parco Archeologico. Non pubblichiamo mappe non verificate.", routeNote: "Sequenza indicativa: sul posto il percorso segue le passerelle e può variare.", translating: "" },
+  en: { nav: ["History", "Mosaics", "Route", "Plan your visit", "After the Villa"], home: "Home", back: "Back to homepage", didYouKnow: "Did you know…?", photoSoon: "Photo coming soon", where: "Where", source: "Source", verify: "Check on the official website", updated: "Last update", mapSlot: "Official Park map", mapSlotText: "Reserved for the official plan of the Archaeological Park. We do not publish unverified maps.", routeNote: "Indicative sequence: on site the route follows the walkways and may vary.", translating: "Full English text coming soon — content shown in Italian." },
+  de: { nav: ["Geschichte", "Mosaike", "Rundgang", "Besuch planen", "Nach der Villa"], home: "Start", back: "Zur Startseite", didYouKnow: "Wussten Sie…?", photoSoon: "Foto folgt", where: "Wo", source: "Quelle", verify: "Auf der offiziellen Website prüfen", updated: "Letzte Aktualisierung", mapSlot: "Offizieller Parkplan", mapSlotText: "Platz für den offiziellen Plan des Archäologischen Parks.", routeNote: "Richtwert: Vor Ort folgt der Rundgang den Stegen und kann abweichen.", translating: "Deutsche Übersetzung folgt — Inhalte auf Italienisch." },
+  fr: { nav: ["Histoire", "Mosaïques", "Parcours", "Préparer la visite", "Après la Villa"], home: "Accueil", back: "Retour à l'accueil", didYouKnow: "Le saviez-vous… ?", photoSoon: "Photo à venir", where: "Où", source: "Source", verify: "À vérifier sur le site officiel", updated: "Dernière mise à jour", mapSlot: "Plan officiel du Parc", mapSlotText: "Espace réservé au plan officiel du Parc archéologique.", routeNote: "Séquence indicative : sur place, le parcours suit les passerelles et peut varier.", translating: "Traduction française à venir — contenu affiché en italien." },
+  es: { nav: ["Historia", "Mosaicos", "Recorrido", "Organiza la visita", "Después de la Villa"], home: "Inicio", back: "Volver al inicio", didYouKnow: "¿Sabías que…?", photoSoon: "Fotografía próximamente", where: "Dónde", source: "Fuente", verify: "Verificar en la web oficial", updated: "Última actualización", mapSlot: "Mapa oficial del Parque", mapSlotText: "Espacio reservado al plano oficial del Parque Arqueológico.", routeNote: "Secuencia indicativa: in situ el recorrido sigue las pasarelas y puede variar.", translating: "Traducción al español próximamente — contenido en italiano." },
+};
+
+const it = {
+  heroKicker: "Patrimonio dell'Umanità UNESCO · Piazza Armerina",
+  heroTitle: "Villa Romana del Casale",
+  heroTagline: "Un viaggio nel cuore dell'antica Roma",
+  heroLead: "Una residenza tardo-antica che custodisce uno dei più straordinari tappeti di mosaici del mondo romano, a pochi chilometri dal centro di Piazza Armerina.",
+  heroPhoto: "Fotografia panoramica della Villa",
+  historyKicker: "Scopri la storia",
+  historyTitle: "Sedici secoli tra splendore e silenzio",
+  history: [
+    { title: "Una dimora del IV secolo", text: "La villa fu costruita nella prima metà del IV secolo d.C., sui resti di una villa rustica più antica. Ingresso monumentale, terme, un grande peristilio, sale di rappresentanza e appartamenti privati: tutto era pensato per stupire gli ospiti." },
+    { title: "Residenza e latifondo", text: "Non era soltanto una casa di lusso. La villa era il cuore di un vasto latifondo agricolo: qui il proprietario riceveva, amministrava le sue terre e celebrava il proprio prestigio attraverso l'arte dei mosaici." },
+    { title: "Un proprietario misterioso", text: "Chi abitava la villa? Nessuna iscrizione lo dice con certezza. Gli studiosi hanno pensato a un imperatore, come Massimiano, oppure a un esponente di altissimo rango dell'aristocrazia senatoria romana. Il mistero resta aperto." },
+    { title: "Sepolta e ritrovata", text: "Abitata ancora nel Medioevo, la villa fu poi coperta da una frana di fango che ne protesse i pavimenti. Dopo i primi ritrovamenti dell'Ottocento, gli scavi scientifici iniziarono nel Novecento, con Paolo Orsi e poi Gino Vinicio Gentili, che negli anni Cinquanta riportò alla luce gran parte dei mosaici." },
+  ],
+  facts: [
+    "I mosaici della villa coprono una superficie di circa 3.500 metri quadrati.",
+    "Dal 1997 la Villa Romana del Casale è iscritta nella Lista del Patrimonio Mondiale UNESCO.",
+    "Il mosaico delle «ragazze in bikini» fu realizzato sopra un pavimento geometrico più antico, di cui si vede ancora una parte.",
+  ],
+  mosaicsKicker: "Esplora i mosaici",
+  mosaicsTitle: "Storie di pietra e colore",
+  mosaicsLead: "Le scene più celebri della villa, raccontate in modo semplice. Ogni scheda indica l'ambiente in cui si trova il mosaico.",
+  mosaics: [
+    { key: "grande-caccia", title: "Corridoio della Grande Caccia", where: "Ambulacro della Grande Caccia", text: "Un corridoio lungo oltre sessanta metri racconta la cattura e il trasporto di animali esotici — leoni, tigri, elefanti, antilopi — destinati agli spettacoli di Roma. Alle estremità compaiono le personificazioni di terre lontane.", photo: { src: "/img/villa/grande-caccia.jpg", credit: "Foto storica, pubblico dominio", page: "https://commons.wikimedia.org/wiki/File:Mosaico_della_grande_caccia_01.jpg" } },
+    { key: "ragazze", title: "Le Ragazze in Bikini", where: "Sala delle Dieci Ragazze", text: "Dieci giovani donne in abiti sportivi si allenano: lancio del disco, corsa, gioco della palla, pesi. Una premia la vincitrice con una corona e un ramo di palma. È il mosaico più famoso della villa.", photo: { src: "/img/villa/ragazze-bikini.jpg", credit: "Clemensfranz, CC BY 2.5, via Wikimedia Commons", page: "https://commons.wikimedia.org/wiki/File:Villa_Romana_del_Casale_Bikini_Maedchen_modified.jpg" } },
+    { key: "polifemo", title: "Ulisse e Polifemo", where: "Vestibolo di Polifemo", text: "Ulisse offre una coppa di vino al ciclope Polifemo, raffigurato qui con tre occhi, seduto davanti alla sua grotta. L'episodio dell'Odissea diventa una scena viva, piena di tensione.", photo: { src: "/img/villa/polifemo.jpg", credit: "Rino Porrovecchio, CC BY-SA 2.0, via Wikimedia Commons", page: "https://commons.wikimedia.org/wiki/File:Villa_romana_del_Casale_-_Mosaici_del_Vestibolo_di_Polifemo_(7831474200).jpg" } },
+    { key: "piccolo-circo", title: "Il Piccolo Circo", where: "Vestibolo del Piccolo Circo", text: "Bambini alla guida di piccoli carri trainati da uccelli gareggiano attorno alla spina del circo: una divertente versione in miniatura delle grandi corse del Circo Massimo.", photo: { src: "/img/villa/piccolo-circo.jpg", credit: "Codex, CC BY-SA 4.0, via Wikimedia Commons", page: "https://commons.wikimedia.org/wiki/File:Piccolo_Circo.jpg" } },
+    { key: "terme", title: "I mosaici delle terme", where: "Complesso termale", text: "Nelle terme il lusso diventava benessere. Nella palestra un grande mosaico mostra una corsa di quadrighe nel Circo Massimo; altri ambienti raccontano scene marine e momenti della cura del corpo.", photo: null },
+    { key: "mito", title: "Le scene mitologiche", where: "Triclinio e appartamenti", text: "Nel grande triclinio le Fatiche di Ercole e i giganti colpiti dalle frecce animano il pavimento con corpi possenti e drammatici. Negli appartamenti tornano miti come Arione e Orfeo.", photo: null },
+    { key: "erotica", title: "La scena erotica", where: "Cubicolo della scena erotica", text: "Al centro di un medaglione incorniciato da una ghirlanda di foglie, una coppia si abbraccia. Un'immagine intima e delicata, rara nella decorazione della villa.", photo: { src: "/img/mosaico.jpg", credit: "Fotografia originale fornita da Piazza Armerina Experience", page: null } },
+  ],
+  routeKicker: "Percorso di visita",
+  routeTitle: "Dall'ingresso agli appartamenti",
+  route: [
+    { title: "Ingresso monumentale", text: "L'arco d'ingresso e l'atrio introducono alla villa e alla sua scenografia." },
+    { title: "Le terme", text: "Palestra, frigidarium e ambienti riscaldati: il complesso del benessere." },
+    { title: "Il peristilio", text: "Il grande cortile porticato con giardino e fontana, cuore della residenza." },
+    { title: "Corridoio della Grande Caccia", text: "Il lungo ambulacro con le scene di cattura degli animali esotici." },
+    { title: "La basilica", text: "La sala di rappresentanza dove il proprietario riceveva gli ospiti." },
+    { title: "Gli appartamenti privati", text: "Vestiboli e stanze con Ulisse e Polifemo, il Piccolo Circo e altre scene." },
+    { title: "Sala delle Dieci Ragazze", text: "Le celebri atlete in «bikini»." },
+    { title: "Il triclinio", text: "La grande sala da pranzo con le Fatiche di Ercole." },
+  ],
+  planKicker: "Organizza la visita",
+  planTitle: "Informazioni pratiche",
+  planLead: "Orari, tariffe e servizi possono cambiare. Verifica sempre sulle fonti ufficiali prima di partire.",
+  afterKicker: "Dopo la Villa",
+  afterTitle: "La giornata continua in città",
+  afterText: "Sali verso la Cattedrale, passeggia tra i quartieri storici e lasciati guidare dai sapori dell'entroterra siciliano.",
+  afterCta: "Scopri il centro storico",
+  afterCta2: "Tutte le esperienze",
+};
+
+// Testi pratici: modificare qui quando arrivano dati ufficiali. Nessuna tariffa o orario inventato.
+export const PRACTICAL = [
+  { key: "orari", icon: "Clock", title: "Orari", text: "Gli orari di apertura variano durante l'anno.", link: "park", updated: "[da aggiornare]" },
+  { key: "biglietti", icon: "Ticket", title: "Biglietti", text: "Tariffe, riduzioni ed eventuali biglietti cumulativi sono pubblicati dal Parco.", link: "park", updated: "[da aggiornare]" },
+  { key: "parcheggio", icon: "SquareParking", title: "Parcheggio", text: "Informazioni su aree di sosta e relative tariffe in attesa di conferma da fonte ufficiale.", link: "comune", updated: "[da aggiornare]" },
+  { key: "navetta", icon: "Bus", title: "Navetta", text: "Fermate e orari dei collegamenti tra il centro storico e la Villa saranno pubblicati appena disponibili da fonte ufficiale.", link: "comune", updated: "[da aggiornare]" },
+  { key: "accessibilita", icon: "Accessibility", title: "Accessibilità", text: "La visita si svolge su passerelle sopraelevate. Per informazioni sull'accessibilità consulta il sito ufficiale.", link: "park", updated: "[da aggiornare]" },
+  { key: "arrivare", icon: "Navigation", title: "Come arrivare", text: "La Villa si trova in contrada Casale, a circa 5 km dal centro di Piazza Armerina.", link: "maps", updated: "[da aggiornare]" },
+];
+
+export const VILLA = { it };
+export const villaContent = (lang) => VILLA[lang] || VILLA.it;
