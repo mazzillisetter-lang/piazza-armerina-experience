@@ -1,0 +1,6 @@
+# Navetta stagionale Villa Romana del Casale
+Consultazione03/11/2026. Fonte primaria PDF SA.DA. Tours / SGS pubblicato dal sito Villa: https://www.villaromanadelcasale.it/wp-content/uploads/2025/05/CARTELLO-ORARI-bus-navetta.pdf . Periodo indicato1aprile–30ottobre, nessun anno di validità esplicito; non promettere conferma automatica per stagioni future né servizio fuori periodo. Sei corse per direzione: trascritte integralmente nelle due tabelle ShuttleTimes.jsx. Singola1,50€, A/Rgiornata2,50€, numero3664448128, prenotazione15min prima da PDF. Preferibilmente45min per ultima corsa: istruzione di Fabio recuperata dalle conversazioni12maggio e30ottobre2026, aggiunta come consiglio distinto dal PDF. Solo chiamate, nessun WhatsApp.
+
+La locandina grafica generata30ottobre recuperata nei file precedenti omette la sesta andata17:30/17:40/17:50. Non usata come fonte affidabile e non ripubblicata. Nel repository corrente prima di questa modifica c'era solo placeholder navetta, nessuna locandina. Collegato direttamente il PDF primario.
+
+UI: periodo e percorso, tariffe, tabelle espandibili con fermate intestate, prenotazione e link chiamata. Avviso fuori periodo e conferma operativa. Nessuna variazione alle altre schede o alle fotografie.

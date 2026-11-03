@@ -25,3 +25,6 @@ Usare fonti ufficiali e distinguere ordinari, supplementi mostre e cumulativi. A
 
 ## Parcheggio SGS
 Tariffe e orari dal cartello e avviso fotografati forniti da Fabio il03/11/2026. Auto2+1max8, moto1,50+0,60max5, camper5+1,50max10; supplementi per ora successiva o frazione. Minibus max19posti20/giorno, bus30/giorno. Dopo pagamento25min uscita solo auto/moto/camper. Estate08:45–18uscita19; inverno08:45–16uscita17, ultime domeniche marzo/ottobre. Camper solo diurno. Non attribuire al Comune questi dati né inventare metodi di pagamento/durata dei massimali.
+
+## Navetta stagionale
+Fonte PDF primario Villa CARTELLO-ORARI-bus-navetta.pdf (uploads/2025/05), consultato03/11/2026.1aprile–30ottobre; sei corse per direzione. Singola1,50€, A/Rgiornata2,50€, SA.DA. Tours3664448128, ogni corsa15min prima; preferibilmente45min ultima corsa da istruzioneFabio. Solo chiamata. La locandina grafica30ottobre omette sesta andata: usarePDF. Non promettere servizio invernale o conferma futura automatica.
