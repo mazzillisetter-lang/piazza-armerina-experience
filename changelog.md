@@ -54,3 +54,5 @@ Verifica completata03/11/2026: build produzione riuscita; commit92ad9d66af948871
 ## Come arrivare
 - Sostituito placeholder con percorsoSP90 verso barriereSGS, avviso ramo sinistrovietato, fotografie reali utente recuperate.
 - LinkMaps mirato a ricerca parcheggio senza coordinate inventate.
+
+Verifica03/11/2026: build produzione riuscita, commit86eb1025a87123ace456931769bd1d4cd5463007 Cloudflare completed/success. Browser desktop controllati istruzioni, avviso, immagini caricate1445x924 e691x1536, dettaglio cartello aperto/chiuso e link immagine originale. BlobGit delle due immagini identici agli originali. URL https://e71cb1cf.piazza-armerina-experience.pages.dev/villa-romana-del-casale#visita . Screenshot percorso/foto acquisito. Mobile e instradamento effettivoGoogle non verificati; Maps è ricerca esplicitamente accompagnata dall’avviso bivio. Revisione svolta dal coordinatore; nessuna nuova esecuzione specialisti in questo incarico.
