@@ -39,4 +39,6 @@ Scheda aggiornata con tariffe fedeli ai cartelli inviati da Fabio. Prima ora e o
 Verifica03/11/2026: build produzione riuscita; revisione indipendente sui due cartelli favorevole. Commit applicativo1eb8fee688ec01e152b9f8a1059323bed627fdd5, check Cloudflare completed/success. Browser desktop: scheda compatta leggibile, dettaglio aperto/chiuso e tutti i valori verificati. Anteprima https://d2ea8057.piazza-armerina-experience.pages.dev/villa-romana-del-casale#visita . Mobile non verificato.
 
 ## Navetta — incarico corrente
-Sostituito placeholder con periodo stagionale1aprile–30ottobre, tariffe e due tabelle complete6corse/direzione dalPDF primario Villa. Linklocandina e chiamataSA.DA.; prenotazione15min e consiglio45min ultima corsa daFabio. Nessuna promessa servizio fuori stagione. Verifiche da completare.
+Sostituito placeholder con periodo stagionale1aprile–30ottobre, tariffe e due tabelle complete6corse/direzione dalPDF primario Villa. Linklocandina e chiamataSA.DA.; prenotazione15min e consiglio45min ultima corsa daFabio. Nessuna promessa servizio fuori stagione. Verifiche completate come riportato sotto.
+
+Verifica03/11/2026: build produzione riuscita, revisione indipendente delPDF favorevole. Commit7b318b99b617c7dbeca21b3c51d4d513f2d699fd Cloudflare completed/success. Browser desktop: periodo/prezzi, 12corse nelle due tabelle, espansione/chiusura, tel ePDF verificati; screenshot compatto e tabelle. URL https://112c01f2.piazza-armerina-experience.pages.dev/villa-romana-del-casale#visita . Mobile non verificato.

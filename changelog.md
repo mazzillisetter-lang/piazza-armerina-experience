@@ -42,3 +42,5 @@ Verifica03/11/2026: build produzione riuscita; revisione indipendente sui due ca
 ## Navetta stagionale
 - Recuperato prospetto primario sul sito Villa; evitata locandina generata con sesta andata mancante.
 - Scheda con periodo, fermate, tariffe, tabelle complete espandibili, chiamata e prenotazione; altre schede invariate.
+
+Verifica03/11/2026: build produzione riuscita, revisione indipendente delPDF favorevole. Commit7b318b99b617c7dbeca21b3c51d4d513f2d699fd Cloudflare completed/success. Browser desktop: periodo/prezzi, 12corse nelle due tabelle, espansione/chiusura, tel ePDF verificati; screenshot compatto e tabelle. URL https://112c01f2.piazza-armerina-experience.pages.dev/villa-romana-del-casale#visita . Mobile non verificato.
