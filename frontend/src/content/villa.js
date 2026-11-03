@@ -6,7 +6,7 @@ export const OFFICIAL = {
   park: { label: "Sito ufficiale della Villa Romana del Casale", url: "https://www.villaromanadelcasale.it/" },
   comune: { label: "Comune di Piazza Armerina", url: "https://www.comune.piazzaarmerina.en.it/" },
   unesco: { label: "Scheda UNESCO (World Heritage List)", url: "https://whc.unesco.org/en/list/832" },
-  maps: { label: "Apri in Google Maps", url: "https://www.google.com/maps/search/?api=1&query=Villa+Romana+del+Casale+Piazza+Armerina" },
+  maps: { label: "Trova il parcheggio su Google Maps", url: "https://www.google.com/maps/search/?api=1&query=Parcheggio+SGS+Villa+Romana+del+Casale+Piazza+Armerina" },
 };
 
 export const UI = {
@@ -88,7 +88,7 @@ export const PRACTICAL = [
   { key: "parcheggio", icon: "SquareParking", title: "Parcheggio", text: "Tariffe e orari del parcheggio SGS Parcheggi", updated: "03/11/2026" },
   { key: "navetta", icon: "Bus", title: "Navetta", text: "Navetta stagionale SA.DA. Tours: fermate, orari e tariffe", link: "shuttle", updated: "03/11/2026" },
   { key: "accessibilita", icon: "Accessibility", title: "Accessibilità", text: "Accesso facilitato, contatti e gratuità", link: "accessibility", updated: "03/11/2026" },
-  { key: "arrivare", icon: "Navigation", title: "Come arrivare", text: "La Villa si trova in contrada Casale, a circa 5 km dal centro di Piazza Armerina.", link: "maps", updated: "[da aggiornare]" },
+  { key: "arrivare", icon: "Navigation", title: "Come arrivare", text: "Accesso al parcheggio SGS dalla SP90", link: "maps", updated: "03/11/2026" },
 ];
 
 export const VILLA = { it };

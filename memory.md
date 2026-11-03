@@ -31,3 +31,6 @@ Fonte PDF primario Villa CARTELLO-ORARI-bus-navetta.pdf (uploads/2025/05), consu
 
 ## Accessibilità Villa
 Carta servizi storica indica accesso facilitato attraverso personale; non prova dotazioni attuali o piena fruibilità autonoma. Scheda invita a concordare percorso, ausili e bagni conURP0935687667, urpmuseo.casale@regione.sicilia.it. Gratuitàdocumentata per disabilità e familiare/accompagnatore nei requisitiParco. Nessuna garanzia di navetta accessibile, ausili disponibili o bagni adattati.
+
+## Come arrivare — ingressoSGS
+Arrivando da PiazzaArmerinaSP90: tenere destra/discesa verso barriere, evitare ramo sinistro superiore con divieto. Foto utente28ottobre recuperate1000147565.jpg(cartello) e image(20261028-091227).png(StreetViewnov2024). Originali conservati in public/img/villa; dataStreetView esplicita, attribuzioni integre. GoogleMaps ricerca parcheggio, non promessa itinerario corretto.

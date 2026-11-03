@@ -47,3 +47,6 @@ Verifica03/11/2026: build produzione riuscita, revisione indipendente delPDF fav
 Scheda pratica con preparazione della visita, accesso facilitato attribuito allaCarta, tel/mailtoURP e dettaglio gratuito/accompagnatori. Fonti e limiti in docs/villa-accessibility.md. Solo cardaccessibilita aggiornata; datarevisione03/11/2026.
 
 Verifica completata03/11/2026: build produzione riuscita; commit92ad9d66af9488719f4ffe875dd298ecbcb80f0d Cloudflare completed/success. Browser desktop verificati testi, linkURP/tel/mailto/fonti e dettaglio gratuito aperto/chiuso da tastiera. Screenshot acquisito. URL https://8ebcd9fb.piazza-armerina-experience.pages.dev/villa-romana-del-casale#visita . Mobile non verificato. Revisione indipendente non completata: specialista fermato da limite utilizzo; controllo contenuti svolto dal coordinatore sulle fonti ufficiali già consultate. Prossimo contenuto: Come arrivare, con attenzione al navigatoreSP90 e ingresso corretto dalle barriere, solo con istruzioni pertinenti.
+
+## Come arrivare — incarico corrente
+Aggiunte indicazioni ordinate, avviso navigatore e2foto originali recuperate: bivioStreetViewnov2024 e cartello frecciadestra/divieto. Scheda compatta con cartello espandibile; dettagli docs/villa-directions.md. Datarevisione03/11/2026.
