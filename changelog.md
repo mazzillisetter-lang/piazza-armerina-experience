@@ -36,3 +36,5 @@
 
 ## Parcheggio SGS
 - Scheda subito dopo Biglietti: tariffe auto/moto/camper visibili; orari, minibus/bus e regola camper nei dettagli. Fonte cartelli forniti da Fabio, data03/11/2026. Nessuna pubblicazione delle schermate WhatsApp personali.
+
+Verifica03/11/2026: build produzione riuscita; revisione indipendente sui due cartelli favorevole. Commit applicativo1eb8fee688ec01e152b9f8a1059323bed627fdd5, check Cloudflare completed/success. Browser desktop: scheda compatta leggibile, dettaglio aperto/chiuso e tutti i valori verificati. Anteprima https://d2ea8057.piazza-armerina-experience.pages.dev/villa-romana-del-casale#visita . Mobile non verificato.

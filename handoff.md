@@ -35,3 +35,5 @@ Richiesta Fabio: prezzi dal sito ufficiale Villa. Implementata TicketPrices.jsx 
 
 ## Parcheggio SGS — incarico corrente
 Scheda aggiornata con tariffe fedeli ai cartelli inviati da Fabio. Prima ora e ore successive/frazioni distinte; massimali senza periodicità inventata. Avviso25min limitato auto/moto/camper. Orari stagionali e bus nei dettagli. Fonte gestore al posto del link Comune non pertinente.
+
+Verifica03/11/2026: build produzione riuscita; revisione indipendente sui due cartelli favorevole. Commit applicativo1eb8fee688ec01e152b9f8a1059323bed627fdd5, check Cloudflare completed/success. Browser desktop: scheda compatta leggibile, dettaglio aperto/chiuso e tutti i valori verificati. Anteprima https://d2ea8057.piazza-armerina-experience.pages.dev/villa-romana-del-casale#visita . Mobile non verificato.
