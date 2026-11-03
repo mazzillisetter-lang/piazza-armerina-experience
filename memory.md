@@ -12,4 +12,7 @@ Repository: mazzillisetter-lang/piazza-armerina-experience.
 Branch di lavoro verificato: armerina-experience-20261101; default: main.
 Frontend React in frontend/. Leggere memory/PRD.md per architettura e decisioni pregresse.
 ## Stato reale
-Configurazione del coordinatore in AGENTS.md e agents/coordinator.md. Quattro specialisti ancora da configurare e collaudare. Esecuzione su richiesta nella sessione; nessun servizio persistente. Non confondere istruzioni versionate con agenti in esecuzione.
+Configurazione del coordinatore in AGENTS.md e agents/coordinator.md. Specialista immagini configurato in agents/images.md e provato in sessione su Polifemo; gli altri tre specialisti restano da configurare. Esecuzione su richiesta nella sessione; nessun servizio persistente. Non confondere istruzioni versionate con agenti in esecuzione.
+
+## Fotografie — vincolo confermato da Fabio
+Interventi delicati: scegliere fotografie reali migliori e regolare appena luce/contrasto; nessuna ricostruzione completa, alterazione delle figure o dei mosaici. Preservare originali e applicare regolazioni reversibili e specifiche per immagine.

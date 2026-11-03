@@ -11,3 +11,4 @@
 - Ispezionare gli import prima di cambiare versioni o ignorare i vincoli di dipendenza: eliminare componenti certamente inutilizzati può risolvere il conflitto senza alterare il sito.
 - Git clone pubblico riuscito non significa Git push autenticato. Il connettore GitHub è il percorso di scrittura verificato in questa sessione.
 - Un utente che conferma l'apertura della pagina non ha necessariamente approvato layout o contenuti né eseguito un collaudo mobile.
+- Per mosaici documentari, una foto con dominante cromatica più naturale e regolazioni CSS minime consentono di preservare integralmente il file sorgente. Registrare parametri e licenza e non applicare il filtro globalmente.
