@@ -34,3 +34,6 @@ Carta servizi storica indica accesso facilitato attraverso personale; non prova 
 
 ## Come arrivare — ingressoSGS
 Arrivando da PiazzaArmerinaSP90: tenere destra/discesa verso barriere, evitare ramo sinistro superiore con divieto. Foto utente28ottobre recuperate1000147565.jpg(cartello) e image(20261028-091227).png(StreetViewnov2024). Originali conservati in public/img/villa; dataStreetView esplicita, attribuzioni integre. GoogleMaps ricerca parcheggio, non promessa itinerario corretto.
+
+## Video home
+FabiofornisceYouTube sgfgMC4Y-Wc per pulsanteGuarda il video / Un minuto di emozioni. DialogRadix responsive coniframeyoutube-nocookie montato soloaprendo; nienteautoplay, chiusuraunmountfermariproduzione, linkYouTubefallback. NoncambiarevideoVillaQhFTY7m4xL4.

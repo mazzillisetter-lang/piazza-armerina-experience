@@ -52,3 +52,6 @@ Verifica completata03/11/2026: build produzione riuscita; commit92ad9d66af948871
 Aggiunte indicazioni ordinate, avviso navigatore e2foto originali recuperate: bivioStreetViewnov2024 e cartello frecciadestra/divieto. Scheda compatta con cartello espandibile; dettagli docs/villa-directions.md. Datarevisione03/11/2026.
 
 Verifica03/11/2026: build produzione riuscita, commit86eb1025a87123ace456931769bd1d4cd5463007 Cloudflare completed/success. Browser desktop controllati istruzioni, avviso, immagini caricate1445x924 e691x1536, dettaglio cartello aperto/chiuso e link immagine originale. BlobGit delle due immagini identici agli originali. URL https://e71cb1cf.piazza-armerina-experience.pages.dev/villa-romana-del-casale#visita . Screenshot percorso/foto acquisito. Mobile e instradamento effettivoGoogle non verificati; Maps è ricerca esplicitamente accompagnata dall’avviso bivio. Revisione svolta dal coordinatore; nessuna nuova esecuzione specialisti in questo incarico.
+
+## Video home — incarico corrente
+Collegato pulsantehero alvideoYouTube sgfgMC4Y-Wc indicato daFabio, finestramodale con chiusura/tastiera/focusRadix e linkYouTube. Playercaricato soloall’apertura, chiusurarimuoveiframe. Etichettechiusura/link tradotte5lingue; restohome e videoVilla preservati.

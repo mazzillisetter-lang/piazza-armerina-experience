@@ -56,3 +56,7 @@ Verifica completata03/11/2026: build produzione riuscita; commit92ad9d66af948871
 - LinkMaps mirato a ricerca parcheggio senza coordinate inventate.
 
 Verifica03/11/2026: build produzione riuscita, commit86eb1025a87123ace456931769bd1d4cd5463007 Cloudflare completed/success. Browser desktop controllati istruzioni, avviso, immagini caricate1445x924 e691x1536, dettaglio cartello aperto/chiuso e link immagine originale. BlobGit delle due immagini identici agli originali. URL https://e71cb1cf.piazza-armerina-experience.pages.dev/villa-romana-del-casale#visita . Screenshot percorso/foto acquisito. Mobile e instradamento effettivoGoogle non verificati; Maps è ricerca esplicitamente accompagnata dall’avviso bivio. Revisione svolta dal coordinatore; nessuna nuova esecuzione specialisti in questo incarico.
+
+## Video nella home
+- Sostituito avviso disponibileabreve conplayerYouTube sgfgMC4Y-Wc in dialog.
+- Chiusuraaccessibile, proporzioni16:9, fallbackYouTube e traduzioni5lingue.

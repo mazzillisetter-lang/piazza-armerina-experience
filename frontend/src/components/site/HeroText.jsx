@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { ArrowRight, Play } from "lucide-react";
-import { toast } from "sonner";
+import { HomeVideo } from "./HomeVideo";
 
 const ease = [0.22, 1, 0.36, 1];
 
@@ -34,7 +34,7 @@ export const HeroText = ({ t }) => (
       <a href="#categorie" data-testid="hero-cta-btn" className="btn-hero">
         {t.heroCta}<ArrowRight className="w-5 h-5 md:w-[calc(var(--u)*1.5)] md:h-[calc(var(--u)*1.5)] transition-transform duration-300 group-hover:translate-x-1" />
       </a>
-      <button data-testid="hero-video-btn" onClick={() => toast(t.videoSoon)} className="group flex items-center gap-3 md:gap-[calc(var(--u)*1)] text-left">
+      <HomeVideo t={t}><button type="button" data-testid="hero-video-btn" className="group flex items-center gap-3 md:gap-[calc(var(--u)*1)] text-left">
         <span className="grid place-items-center w-12 h-12 md:w-[calc(var(--u)*2.9)] md:h-[calc(var(--u)*2.9)] rounded-full border-2 border-white text-white bg-black/20 group-hover:bg-white group-hover:text-[var(--ink)] transition-colors duration-300">
           <Play className="w-5 h-5 md:w-[calc(var(--u)*1.5)] md:h-[calc(var(--u)*1.5)] fill-current ml-0.5" />
         </span>
@@ -42,7 +42,7 @@ export const HeroText = ({ t }) => (
           <span className="block font-body text-xl md:text-[calc(var(--u)*1.25)] leading-tight">{t.video}</span>
           <span className="block font-body italic text-base md:text-[1.45vw] lg:text-[calc(var(--u)*0.95)] text-white/90">{t.videoSub}</span>
         </span>
-      </button>
+      </button></HomeVideo>
     </motion.div>
   </div>
 );
