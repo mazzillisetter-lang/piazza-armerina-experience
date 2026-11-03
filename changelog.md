@@ -32,3 +32,4 @@
 - Aggiunti dettagli supplemento mostra e cumulativi da tariffario2025 con data/condizioni trasparenti.
 - Orari automatici, foto Polifemo e altre schede invariati.
 - Build produzione riuscita e revisione indipendente contenuti favorevole.
+- Cloudflare c44ca3f success; browser desktop verificati card, dettagli espandibili e link fonti, screenshot acquisito.
