@@ -126,3 +126,47 @@ body { font-family: "Crimson Pro", serif; color: var(--cream); font-size: 1.06re
 @media (prefers-reduced-motion: reduce) {
   .marquee-track, .scroll-line { animation: none; }
 }
+
+/* Tablet: retain the desktop composition with readable type and touch targets. */
+@media (min-width: 768px) and (max-width: 1023px) {
+  .pano-box { height: clamp(650px, 78svh, 760px); }
+  .hero-copy { width: 59%; padding: 146px 0 28px 28px; }
+  .hero-copy > p:first-child { font-size: 12px; max-width: 95%; }
+  .hero-copy h1 { font-size: clamp(34px, 4.6vw, 46px); }
+  .hero-copy [data-testid="hero-tagline"] { font-size: clamp(30px, 4.1vw, 40px); margin-top: 12px; line-height: 1.08; }
+  .hero-copy [data-testid="hero-lead"] { font-size: 18px; line-height: 1.35; margin-top: 22px; }
+  .hero-actions { flex-wrap: wrap; gap: 18px; margin-top: 24px; }
+  .hero-actions .btn-hero { padding: 12px 22px; font-size: 18px; }
+  .hero-actions [data-testid="hero-video-btn"] { gap: 10px; }
+  .hero-actions [data-testid="hero-video-btn"] > span:first-child { width: 44px; height: 44px; }
+  .hero-actions [data-testid="hero-video-btn"] svg { width: 20px; height: 20px; }
+  .hero-actions [data-testid="hero-video-btn"] .font-body { font-size: 18px; }
+  .hero-actions [data-testid="hero-video-btn"] .italic { font-size: 15px; }
+  [data-testid="hero-mosaic-figure"] { width: 34%; height: 75%; }
+  .mosaic-words { right: 27%; bottom: 8%; font-size: 27px; }
+}
+
+/* Phone: keep the existing panorama, give the mosaic a substantial side panel. */
+@media (max-width: 767px) {
+  .pano-box { height: clamp(780px, 100svh, 900px); }
+  .hero-copy { padding-top: 126px; padding-bottom: 24px; }
+  .hero-copy > p:first-child { font-size: 11px; letter-spacing: .05em; }
+  .hero-copy > p:first-child > span { width: 24px; flex-shrink: 0; }
+  .hero-copy h1 { font-size: clamp(31px, 8.8vw, 44px); }
+  .hero-copy [data-testid="hero-tagline"] { font-size: clamp(29px, 7.6vw, 36px); line-height: 1.08; margin-top: 12px; }
+  .hero-actions { gap: 12px; }
+  .hero-actions .btn-hero { font-size: 18px; padding: 14px 25px; }
+  [data-testid="hero-mosaic-figure"] { width: 46%; height: 34%; bottom: 170px; }
+  [data-testid="hero-mosaic-figure"] .mosaic-mask { height: 100%; }
+  [data-testid="hero-mosaic-figure"] .mosaic-img { height: 100%; object-fit: cover; object-position: 50% 50%; }
+  .mosaic-words { display: block; position: absolute; right: 38%; bottom: 30%; font-size: 24px; line-height: 1.12; transform: rotate(-6deg); margin: 0; }
+  .mosaic-words > span { display: block; padding-left: var(--pl); }
+  [data-testid="flower-bottom-right"] { width: 28%; bottom: 18%; right: -5%; }
+  [data-testid="flower-top-right"] { display: block; width: 27%; top: 39%; right: -7%; }
+}
+
+@media (max-width: 359px) {
+  [data-testid="site-header"] > div { padding-left: 12px; padding-right: 12px; gap: 8px; }
+  [data-testid="header-logo-link"] > .font-display { font-size: .82rem; }
+  [data-testid="lang-switcher"] { padding-right: 8px; gap: 4px; }
+}

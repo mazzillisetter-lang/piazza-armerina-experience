@@ -15,7 +15,7 @@ const Line = ({ children, delay, className = "" }) => (
 const fade = (delay) => ({ initial: { opacity: 0, y: 18 }, animate: { opacity: 1, y: 0 }, transition: { duration: 0.9, ease, delay } });
 
 export const HeroText = ({ t }) => (
-  <div className="absolute inset-0 md:right-auto md:w-[calc(var(--u)*32)] flex flex-col md:block px-5 sm:px-8 md:px-0 md:pl-[calc(var(--u)*3)] pt-[104px] sm:pt-[124px] pb-6 md:pb-0 md:pt-[124px] lg:pt-[calc(var(--u)*7.4)] text-white z-10" data-testid="hero-text">
+  <div className="hero-copy absolute inset-0 md:right-auto md:w-[calc(var(--u)*32)] flex flex-col md:block px-5 sm:px-8 md:px-0 md:pl-[calc(var(--u)*3)] pt-[104px] sm:pt-[124px] pb-6 md:pb-0 md:pt-[124px] lg:pt-[calc(var(--u)*7.4)] text-white z-10" data-testid="hero-text">
     <motion.p {...fade(0.3)} className="flex items-center gap-3 font-display font-semibold uppercase text-[var(--gold-soft)] text-sm sm:text-base md:text-[1.4vw] lg:text-[calc(var(--u)*0.95)] tracking-[0.04em] text-shadow-soft">
       <span className="h-[2px] w-10 md:w-[calc(var(--u)*3.4)] bg-[var(--gold)]" />{t.heroOverline}
     </motion.p>
@@ -30,7 +30,7 @@ export const HeroText = ({ t }) => (
     <motion.p {...fade(1.15)} data-testid="hero-lead" className="hidden md:block font-body text-lg sm:text-xl md:text-[1.6vw] lg:text-[calc(var(--u)*1.25)] leading-[1.28] md:leading-[1.3] mt-5 md:mt-[calc(var(--u)*1.3)] text-shadow-soft">
       {t.leadLines.map((l) => <span key={l} className="block">{l}</span>)}
     </motion.p>
-    <motion.div {...fade(1.35)} className="flex flex-col items-start md:flex-row md:items-center gap-3 md:gap-[calc(var(--u)*1.8)] mt-auto md:mt-[calc(var(--u)*1.8)]">
+    <motion.div {...fade(1.35)} className="hero-actions flex flex-col items-start md:flex-row md:items-center gap-3 md:gap-[calc(var(--u)*1.8)] mt-auto md:mt-[calc(var(--u)*1.8)]">
       <a href="#categorie" data-testid="hero-cta-btn" className="btn-hero">
         {t.heroCta}<ArrowRight className="w-5 h-5 md:w-[calc(var(--u)*1.5)] md:h-[calc(var(--u)*1.5)] transition-transform duration-300 group-hover:translate-x-1" />
       </a>

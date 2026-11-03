@@ -9,7 +9,7 @@ export const MosaicPanel = ({ t }) => {
       <img src="/img/flower-corner.png" alt="" aria-hidden data-testid="flower-top-right" className="hidden md:block pointer-events-none absolute z-20 -right-[0.8vw] -top-[0.6vw] w-[11vw] -scale-y-100 opacity-90" />
       <img src="/img/flower-corner.png" alt="" aria-hidden data-testid="flower-bottom-right" className="pointer-events-none absolute z-20 -right-[4%] -bottom-[4%] w-[24%] md:w-[11vw] max-w-none" />
 
-      <div className="hidden md:block md:absolute md:bottom-[4vw] md:right-[21vw] z-20 font-script text-white text-[1.8rem] md:text-[2.3vw] lg:text-[1.75vw] leading-[1.05] md:leading-[1.12] flex flex-wrap gap-x-4 md:block md:-rotate-[6deg] mb-3 md:mb-0 text-shadow-hero" data-testid="mosaic-words">
+      <div className="mosaic-words hidden md:block md:absolute md:bottom-[4vw] md:right-[21vw] z-20 font-script text-white text-[1.8rem] md:text-[2.3vw] lg:text-[1.75vw] leading-[1.05] md:leading-[1.12] flex flex-wrap gap-x-4 md:block md:-rotate-[6deg] mb-3 md:mb-0 text-shadow-hero" data-testid="mosaic-words">
         {t.words.map((w, i) => (
           <motion.span key={w} className="inline-block md:block md:pl-[var(--pl)]" style={{ "--pl": `${i * 0.28}em` }} initial={{ opacity: 0, x: 24 }} animate={{ opacity: 1, x: 0 }} transition={{ duration: 0.9, ease, delay: 1.2 + i * 0.12 }}>
             {w}
