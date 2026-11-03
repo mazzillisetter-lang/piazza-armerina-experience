@@ -45,3 +45,5 @@ Fabio vuole preservare panorama, mosaico, parole e fiori della home PC anche su 
 
 ## Preferenza home PC — 03/11/2026
 I pulsanti Inizia il tuo viaggio e Guarda il video devono stare vicini al piede della foto, lasciando libera la Cattedrale. Ancorarli al fondo nella composizione orizzontale; preservare il comportamento smartphone.
+
+Fabio ha approvato i pulsanti a piede foto. Il blocco testo PC deve avere più presenza sulla sinistra: titolo, frase in corsivo e descrizione ingranditi insieme in proporzione, mantenendo la Cattedrale visibile.

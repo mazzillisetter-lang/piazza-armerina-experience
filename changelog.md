@@ -72,3 +72,7 @@ Stato03/11/2026: commitvideo956c94c50350cd985e7e2c6b208848ad4c2e4eb4 + correzion
 - Abbassati insieme CTA e video nella composizione della home da768px, con distanza dal fondo adattiva; smartphone invariato.
 - Build produzione e verifica browser928/1280/390px riuscite.
 - Verificata pubblicazione precedente8447467 e apertura player nella home pubblica; riproduzione stream non confermata nel browser remoto.
+
+## Proporzioni testo home PC
+- Ingranditi titolo, corsivo e descrizione nella sola versione da1024px; ampliata la colonna sinistra.
+- Posizione approvata dei pulsanti preservata. Build produzione e controllo browser1280px riusciti.
