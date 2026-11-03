@@ -26,3 +26,9 @@
 - 7 test logici passati, controllo indipendente favorevole.
 - Build produzione compilata con successo.
 - Deploy98fd4e0 riuscito; controllo browser desktop: orario invernale09/16/17 e cambio28marzo2027 corretti, fonte collegata e data statica. Revisione pubblicazione indipendente:13file attesi, main invariato, asset Polifemo conservati.
+
+## Biglietti da fonti ufficiali
+- Sostituito placeholder con ordinari14/7,minori18gratis, requisiti e fonti.
+- Aggiunti dettagli supplemento mostra e cumulativi da tariffario2025 con data/condizioni trasparenti.
+- Orari automatici, foto Polifemo e altre schede invariati.
+- Build produzione riuscita e revisione indipendente contenuti favorevole.

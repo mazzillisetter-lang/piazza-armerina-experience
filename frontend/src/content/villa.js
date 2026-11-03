@@ -82,7 +82,7 @@ const it = {
 // Testi pratici: modificare qui quando arrivano dati ufficiali. Nessuna tariffa o orario inventato.
 export const PRACTICAL = [
   { key: "orari", icon: "Clock", title: "Orari", text: "Orario ordinario stagionale", link: "hours", updated: "03/11/2026" },
-  { key: "biglietti", icon: "Ticket", title: "Biglietti", text: "Tariffe, riduzioni ed eventuali biglietti cumulativi sono pubblicati dal Parco.", link: "park", updated: "[da aggiornare]" },
+  { key: "biglietti", icon: "Ticket", title: "Biglietti", text: "Tariffe ordinarie, agevolazioni e biglietti cumulativi", link: "park", updated: "03/11/2026" },
   { key: "parcheggio", icon: "SquareParking", title: "Parcheggio", text: "Informazioni su aree di sosta e relative tariffe in attesa di conferma da fonte ufficiale.", link: "comune", updated: "[da aggiornare]" },
   { key: "navetta", icon: "Bus", title: "Navetta", text: "Fermate e orari dei collegamenti tra il centro storico e la Villa saranno pubblicati appena disponibili da fonte ufficiale.", link: "comune", updated: "[da aggiornare]" },
   { key: "accessibilita", icon: "Accessibility", title: "Accessibilità", text: "La visita si svolge su passerelle sopraelevate. Per informazioni sull'accessibilità consulta il sito ufficiale.", link: "park", updated: "[da aggiornare]" },

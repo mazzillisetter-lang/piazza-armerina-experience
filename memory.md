@@ -19,3 +19,6 @@ Interventi delicati: scegliere fotografie reali migliori e regolare appena luce/
 
 ## Orari stagionali approvati da Fabio
 Ora solare/inverno: 09:00 apertura,16:00 ultimo ingresso,17:00 chiusura. Ora legale/estate:09:00 apertura,18:00 ultimo ingresso,19:00 chiusura. Cambio automatico ultime domeniche marzo e ottobre alle01:00UTC, fuso Europe/Rome. Mostrare periodo e prossimo cambio; data revisione statica03/11/2026. Non è una sincronizzazione live con gli avvisi del Parco.
+
+## Tariffe — criterio di pubblicazione
+Usare fonti ufficiali e distinguere ordinari, supplementi mostre e cumulativi. Al03/11/2026: homeVilla14/7, regionale mostra17/10; quest'ultima condizionale. Cumulativi da PDF2025 con anno dichiarato e conferma in biglietteria. Requisiti ridotto collegati al Parco, non inventare soglie età quando le pagine differiscono.
