@@ -12,4 +12,4 @@ Repository: mazzillisetter-lang/piazza-armerina-experience.
 Branch di lavoro verificato: armerina-experience-20261101; default: main.
 Frontend React in frontend/. Leggere memory/PRD.md per architettura e decisioni pregresse.
 ## Stato reale
-La struttura a cinque ruoli è concordata, non ancora collaudata né avviata come servizio persistente. Non confondere ruoli descritti con agenti attivi.
+Configurazione del coordinatore in AGENTS.md e agents/coordinator.md. Quattro specialisti ancora da configurare e collaudare. Esecuzione su richiesta nella sessione; nessun servizio persistente. Non confondere istruzioni versionate con agenti in esecuzione.
