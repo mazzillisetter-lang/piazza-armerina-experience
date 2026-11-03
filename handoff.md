@@ -14,7 +14,7 @@ I vecchi link e20e8ba3 e alias branch restituivano 404. Le nuove build fallivano
 Ricerca in frontend/src: wrapper Calendar inutilizzato, nessuna pagina lo importava, date-fns senza import diretti. Rimossi due pacchetti e wrapper (cef5f9f, 4a55434).
 Verifiche: npm install senza legacy-peer-deps riuscito; npm run build riuscito; output frontend/build con index.html, JS e CSS.
 ## Prossimo incarico
-Configurare il primo specialista operativo, immagini, e scegliere una modifica richiesta da Fabio per collaudare il flusso completo. L'utente deve indicare foto e sezione quando non già determinate.
+Attendere il controllo creativo di Fabio sulla scheda Orari; continuare sulle altre schede pratiche solo con dati/istruzioni pertinenti. Tutti i quattro ruoli hanno istruzioni versionate; esecuzione in sessione, nessun servizio continuo.
 Verificare build/deploy del nuovo codice e collaudo visivo prima di dichiarare completamento. Non pubblicare su main senza richiesta esplicita.
 ## Accessi e limiti
 Connettore GitHub: lettura, creazione, aggiornamento e cancellazione file verificate. Git push dalla shell non autenticato: usare il connettore, senza richiedere credenziali in chat.
@@ -27,5 +27,5 @@ Build locale riuscita; revisione indipendente specialista immagini favorevole. C
 
 ## Scheda Orari automatica
 Richiesta attuale implementata in villaHours.js e OpeningHours.jsx: orario stagionale9/16/17inverno e9/18/19estate; ultimi cambi domenicali marzo/ottobre ogni anno01UTC; anno/data Europe/Rome. Aggiornamento anche a pagina aperta con timer max60s anticipato alla transizione, focus e visibilitychange; cleanup presente. Solo card orari modificata, data revisione03/11/2026.
-7 test logici passati (2026–2028, bisestile, fusi equivalenti, anno nuovo e input invalido). Revisione indipendente qualità favorevole; timer React verificato per lettura, non test componente. Compilazione npm run build riuscita. Pubblicazione e verifica visiva da completare alla chiusura. Fonti e disallineamento pagine Parco documentati in docs/villa-opening-hours.md.
+7 test logici passati (2026–2028, bisestile, fusi equivalenti, anno nuovo e input invalido). Revisione indipendente qualità favorevole; timer React verificato per lettura, non test componente. Compilazione npm run build riuscita. Commit applicativo 98fd4e0450beb462dcfba450d316b3dee8ad98e0: Cloudflare completed/success. Browser verificato su https://a8b9b68e.piazza-armerina-experience.pages.dev/villa-romana-del-casale#visita : ora solare,09:00/16:00/17:00, prossimo cambio28 marzo2027; fonte corretta e data revisione03/11/2026. Screenshot desktop effettuato, mobile non verificato. Fonti e disallineamento pagine Parco documentati in docs/villa-opening-hours.md.
 Istruzioni dei tre ruoli mancanti aggiunte: agents/development.md, publication.md, quality.md. Nessun servizio persistente attivato; automatismo orari eseguito dal sito nel browser.
