@@ -12,3 +12,4 @@
 - Git clone pubblico riuscito non significa Git push autenticato. Il connettore GitHub è il percorso di scrittura verificato in questa sessione.
 - Un utente che conferma l'apertura della pagina non ha necessariamente approvato layout o contenuti né eseguito un collaudo mobile.
 - Per mosaici documentari, una foto con dominante cromatica più naturale e regolazioni CSS minime consentono di preservare integralmente il file sorgente. Registrare parametri e licenza e non applicare il filtro globalmente.
+- Orari turistici stagionali: usare il fuso del luogo e testare gli istanti limite delle ultime domeniche, non solo i mesi. Data di revisione distinta dalla data del cambio automatico. Documentare fonti ufficiali non allineate senza promettere sincronizzazione live.

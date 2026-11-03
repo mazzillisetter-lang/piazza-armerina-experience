@@ -17,3 +17,11 @@
 - Nuovo asset locale inalterato, correzione CSS reversibile luminosità +2,5%, contrasto +3,5%, circoscritta alla singola foto.
 - Credito, fonte, licenza e regolazione dichiarati. Configurato agents/images.md; controllo indipendente del candidato e build locale riusciti.
 - Check Cloudflare 9d0f5cb riuscito; verificati nel browser foto caricata, dimensioni 1280x960, filtro isolato e resa desktop. Nessuna verifica mobile dichiarata.
+
+## Orari stagionali automatici
+- Fabio approva foto Polifemo.
+- Configurati ruoli sviluppo, pubblicazione e qualità; primo incarico sviluppo/QA sugli orari.
+- Sostituito placeholder card Orari con stagione corrente, apertura, ultimo ingresso, chiusura, prossimo cambio e dettagli delle due stagioni.
+- Fonte orari del Parco e revisione statica03/11/2026; altre schede e foto preservate.
+- 7 test logici passati, controllo indipendente favorevole.
+- Build produzione compilata con successo.

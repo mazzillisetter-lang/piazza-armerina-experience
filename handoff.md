@@ -2,7 +2,7 @@
 Data: 2026-11-03.
 ## Stato attuale
 - Repository: mazzillisetter-lang/piazza-armerina-experience; branch di lavoro armerina-experience-20261101. Main non modificato.
-- Primo coordinatore configurato tramite AGENTS.md e agents/coordinator.md; contratto per quattro ruoli definito. Specialista immagini configurato e prima esecuzione di selezione/controllo completata; altri tre specialisti ancora da configurare.
+- Primo coordinatore configurato tramite AGENTS.md e agents/coordinator.md; contratto per quattro ruoli definito. Specialista immagini configurato e prima esecuzione di selezione/controllo completata; sviluppo, pubblicazione e controllo qualità ora configurati in agents/.
 - Nessun nuovo abbonamento, servizio persistente o monitoraggio attivato.
 ## Pubblicazione verificata
 Commit 890e3da4b3ec6605713daa78d31bb354c69e3876: check Cloudflare completed/success.
@@ -23,4 +23,9 @@ Dashboard Cloudflare aperta nel browser personale di Fabio, non autenticata nel 
 ## Prima sostituzione fotografica — Ulisse e Polifemo
 Richiesta Fabio: foto meno gialla, solo lievi correzioni di contrasto/luminosità; nessuna ricostruzione.
 Scelta foto TyB CC BY 2.0, fonte e licenza in frontend/public/img/villa/polifemo-tyb.source.md. Originale 1280x960 preservato byte per byte, vecchio polifemo.jpg conservato. Nuovo asset polifemo-tyb.jpg; regolazione CSS solo su quella foto brightness(1.025) contrast(1.035). Fonte e licenza collegate nella didascalia.
-Build locale riuscita; revisione indipendente specialista immagini favorevole. Commit applicativo 9d0f5cba39126e615bc5556f4e21802371b64056 pubblicato con successo. URL verificato nel browser: https://e485c98d.piazza-armerina-experience.pages.dev/villa-romana-del-casale#mosaici . Foto caricata 1280x960, object-fit contain, filtro brightness(1.025) contrast(1.035) solo su Polifemo. Controllo visivo desktop effettuato: foto intera e credito leggibile. Collaudo mobile non effettuato; approvazione creativa finale di Fabio ancora attesa.
+Build locale riuscita; revisione indipendente specialista immagini favorevole. Commit applicativo 9d0f5cba39126e615bc5556f4e21802371b64056 pubblicato con successo. URL verificato nel browser: https://e485c98d.piazza-armerina-experience.pages.dev/villa-romana-del-casale#mosaici . Foto caricata 1280x960, object-fit contain, filtro brightness(1.025) contrast(1.035) solo su Polifemo. Controllo visivo desktop effettuato: foto intera e credito leggibile. Collaudo mobile non effettuato; Fabio ha approvato il risultato: «Perfettamente riuscita».
+
+## Scheda Orari automatica
+Richiesta attuale implementata in villaHours.js e OpeningHours.jsx: orario stagionale9/16/17inverno e9/18/19estate; ultimi cambi domenicali marzo/ottobre ogni anno01UTC; anno/data Europe/Rome. Aggiornamento anche a pagina aperta con timer max60s anticipato alla transizione, focus e visibilitychange; cleanup presente. Solo card orari modificata, data revisione03/11/2026.
+7 test logici passati (2026–2028, bisestile, fusi equivalenti, anno nuovo e input invalido). Revisione indipendente qualità favorevole; timer React verificato per lettura, non test componente. Compilazione npm run build riuscita. Pubblicazione e verifica visiva da completare alla chiusura. Fonti e disallineamento pagine Parco documentati in docs/villa-opening-hours.md.
+Istruzioni dei tre ruoli mancanti aggiunte: agents/development.md, publication.md, quality.md. Nessun servizio persistente attivato; automatismo orari eseguito dal sito nel browser.

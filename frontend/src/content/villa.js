@@ -1,5 +1,6 @@
 // Contenuti della pagina Villa Romana del Casale. Le informazioni pratiche sono in PRACTICAL: aggiornarle qui.
 export const OFFICIAL = {
+  hours: { label: "Orari e avvisi del Parco", url: "https://parchiarcheologici.regione.sicilia.it/morgantina-villa-romana-casale/orari/" },
   park: { label: "Sito ufficiale della Villa Romana del Casale", url: "https://www.villaromanadelcasale.it/" },
   comune: { label: "Comune di Piazza Armerina", url: "https://www.comune.piazzaarmerina.en.it/" },
   unesco: { label: "Scheda UNESCO (World Heritage List)", url: "https://whc.unesco.org/en/list/832" },
@@ -80,7 +81,7 @@ const it = {
 
 // Testi pratici: modificare qui quando arrivano dati ufficiali. Nessuna tariffa o orario inventato.
 export const PRACTICAL = [
-  { key: "orari", icon: "Clock", title: "Orari", text: "Gli orari di apertura variano durante l'anno.", link: "park", updated: "[da aggiornare]" },
+  { key: "orari", icon: "Clock", title: "Orari", text: "Orario ordinario stagionale", link: "hours", updated: "03/11/2026" },
   { key: "biglietti", icon: "Ticket", title: "Biglietti", text: "Tariffe, riduzioni ed eventuali biglietti cumulativi sono pubblicati dal Parco.", link: "park", updated: "[da aggiornare]" },
   { key: "parcheggio", icon: "SquareParking", title: "Parcheggio", text: "Informazioni su aree di sosta e relative tariffe in attesa di conferma da fonte ufficiale.", link: "comune", updated: "[da aggiornare]" },
   { key: "navetta", icon: "Bus", title: "Navetta", text: "Fermate e orari dei collegamenti tra il centro storico e la Villa saranno pubblicati appena disponibili da fonte ufficiale.", link: "comune", updated: "[da aggiornare]" },
