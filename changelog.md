@@ -16,3 +16,4 @@
 - Sostituita in anteprima la foto arancione Rino Porrovecchio con fotografia reale TyB CC BY 2.0; vecchio asset mantenuto.
 - Nuovo asset locale inalterato, correzione CSS reversibile luminosità +2,5%, contrasto +3,5%, circoscritta alla singola foto.
 - Credito, fonte, licenza e regolazione dichiarati. Configurato agents/images.md; controllo indipendente del candidato e build locale riusciti.
+- Check Cloudflare 9d0f5cb riuscito; verificati nel browser foto caricata, dimensioni 1280x960, filtro isolato e resa desktop. Nessuna verifica mobile dichiarata.
