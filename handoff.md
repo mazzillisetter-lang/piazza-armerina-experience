@@ -42,3 +42,6 @@ Verifica03/11/2026: build produzione riuscita; revisione indipendente sui due ca
 Sostituito placeholder con periodo stagionale1aprile–30ottobre, tariffe e due tabelle complete6corse/direzione dalPDF primario Villa. Linklocandina e chiamataSA.DA.; prenotazione15min e consiglio45min ultima corsa daFabio. Nessuna promessa servizio fuori stagione. Verifiche completate come riportato sotto.
 
 Verifica03/11/2026: build produzione riuscita, revisione indipendente delPDF favorevole. Commit7b318b99b617c7dbeca21b3c51d4d513f2d699fd Cloudflare completed/success. Browser desktop: periodo/prezzi, 12corse nelle due tabelle, espansione/chiusura, tel ePDF verificati; screenshot compatto e tabelle. URL https://112c01f2.piazza-armerina-experience.pages.dev/villa-romana-del-casale#visita . Mobile non verificato.
+
+## Accessibilità — incarico corrente
+Scheda pratica con preparazione della visita, accesso facilitato attribuito allaCarta, tel/mailtoURP e dettaglio gratuito/accompagnatori. Fonti e limiti in docs/villa-accessibility.md. Solo cardaccessibilita aggiornata; datarevisione03/11/2026.

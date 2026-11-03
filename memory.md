@@ -28,3 +28,6 @@ Tariffe e orari dal cartello e avviso fotografati forniti da Fabio il03/11/2026.
 
 ## Navetta stagionale
 Fonte PDF primario Villa CARTELLO-ORARI-bus-navetta.pdf (uploads/2025/05), consultato03/11/2026.1aprile–30ottobre; sei corse per direzione. Singola1,50€, A/Rgiornata2,50€, SA.DA. Tours3664448128, ogni corsa15min prima; preferibilmente45min ultima corsa da istruzioneFabio. Solo chiamata. La locandina grafica30ottobre omette sesta andata: usarePDF. Non promettere servizio invernale o conferma futura automatica.
+
+## Accessibilità Villa
+Carta servizi storica indica accesso facilitato attraverso personale; non prova dotazioni attuali o piena fruibilità autonoma. Scheda invita a concordare percorso, ausili e bagni conURP0935687667, urpmuseo.casale@regione.sicilia.it. Gratuitàdocumentata per disabilità e familiare/accompagnatore nei requisitiParco. Nessuna garanzia di navetta accessibile, ausili disponibili o bagni adattati.

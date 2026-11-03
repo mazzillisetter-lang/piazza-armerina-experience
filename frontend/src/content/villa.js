@@ -1,5 +1,6 @@
 // Contenuti della pagina Villa Romana del Casale. Le informazioni pratiche sono in PRACTICAL: aggiornarle qui.
 export const OFFICIAL = {
+  accessibility: { label: "Contatti ufficiali per organizzare la visita", url: "https://www.villaromanadelcasale.it/contatti/" },
   shuttle: { label: "Locandina orari sul sito ufficiale della Villa", url: "https://www.villaromanadelcasale.it/wp-content/uploads/2025/05/CARTELLO-ORARI-bus-navetta.pdf" },
   hours: { label: "Orari e avvisi del Parco", url: "https://parchiarcheologici.regione.sicilia.it/morgantina-villa-romana-casale/orari/" },
   park: { label: "Sito ufficiale della Villa Romana del Casale", url: "https://www.villaromanadelcasale.it/" },
@@ -86,7 +87,7 @@ export const PRACTICAL = [
   { key: "biglietti", icon: "Ticket", title: "Biglietti", text: "Tariffe ordinarie, agevolazioni e biglietti cumulativi", link: "park", updated: "03/11/2026" },
   { key: "parcheggio", icon: "SquareParking", title: "Parcheggio", text: "Tariffe e orari del parcheggio SGS Parcheggi", updated: "03/11/2026" },
   { key: "navetta", icon: "Bus", title: "Navetta", text: "Navetta stagionale SA.DA. Tours: fermate, orari e tariffe", link: "shuttle", updated: "03/11/2026" },
-  { key: "accessibilita", icon: "Accessibility", title: "Accessibilità", text: "La visita si svolge su passerelle sopraelevate. Per informazioni sull'accessibilità consulta il sito ufficiale.", link: "park", updated: "[da aggiornare]" },
+  { key: "accessibilita", icon: "Accessibility", title: "Accessibilità", text: "Accesso facilitato, contatti e gratuità", link: "accessibility", updated: "03/11/2026" },
   { key: "arrivare", icon: "Navigation", title: "Come arrivare", text: "La Villa si trova in contrada Casale, a circa 5 km dal centro di Piazza Armerina.", link: "maps", updated: "[da aggiornare]" },
 ];
 
