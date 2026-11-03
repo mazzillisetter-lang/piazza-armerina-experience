@@ -67,3 +67,8 @@ Stato03/11/2026: commitvideo956c94c50350cd985e7e2c6b208848ad4c2e4eb4 + correzion
 - Conservati panorama, mosaico, parole decorative e fiori con proporzioni dedicate ai piccoli schermi.
 - Migliorata leggibilità tablet e corretto menu a 320 px.
 - Build produzione e controllo dimensioni nel browser riusciti; prove su hardware reale non effettuate. Pubblicazione Cloudflare da verificare sul commit.
+
+## Pulsanti a piede foto
+- Abbassati insieme CTA e video nella composizione della home da768px, con distanza dal fondo adattiva; smartphone invariato.
+- Build produzione e verifica browser928/1280/390px riuscite.
+- Verificata pubblicazione precedente8447467 e apertura player nella home pubblica; riproduzione stream non confermata nel browser remoto.

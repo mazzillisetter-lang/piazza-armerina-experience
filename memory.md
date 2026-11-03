@@ -42,3 +42,6 @@ Durata osservata nelplayer123secondi: sottotitolo aggiornato aDue minuti di emoz
 
 ## Home su tre dimensioni
 Fabio vuole preservare panorama, mosaico, parole e fiori della home PC anche su smartphone e tablet. Adattamento CSS implementato senza cambiare gli asset; collaudo browser a larghezze simulate, non dispositivi fisici. Dettagli e limiti in docs/responsive-home.md.
+
+## Preferenza home PC — 03/11/2026
+I pulsanti Inizia il tuo viaggio e Guarda il video devono stare vicini al piede della foto, lasciando libera la Cattedrale. Ancorarli al fondo nella composizione orizzontale; preservare il comportamento smartphone.

@@ -170,3 +170,16 @@ body { font-family: "Crimson Pro", serif; color: var(--cream); font-size: 1.06re
   [data-testid="header-logo-link"] > .font-display { font-size: .82rem; }
   [data-testid="lang-switcher"] { padding-right: 8px; gap: 4px; }
 }
+
+/* Anchor the landscape hero actions near the foot of the photograph. */
+@media (min-width: 768px) {
+  .hero-actions {
+    position: absolute;
+    left: calc(var(--u) * 3);
+    bottom: clamp(28px, 4vw, 56px);
+    margin-top: 0;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .hero-actions { left: 28px; }
+}
