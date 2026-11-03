@@ -37,3 +37,5 @@ Arrivando da PiazzaArmerinaSP90: tenere destra/discesa verso barriere, evitare r
 
 ## Video home
 FabiofornisceYouTube sgfgMC4Y-Wc per pulsanteGuarda il video / Un minuto di emozioni. DialogRadix responsive coniframeyoutube-nocookie montato soloaprendo; nienteautoplay, chiusuraunmountfermariproduzione, linkYouTubefallback. NoncambiarevideoVillaQhFTY7m4xL4.
+
+Durata osservata nelplayer123secondi: sottotitolo aggiornato aDue minuti di emozioni nelle5lingue.
