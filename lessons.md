@@ -8,3 +8,6 @@
 - Mai richiedere password o codici in chat; usare il flusso protetto.
 - Non dichiarare agenti attivi o lavoro continuo senza configurazione ed evidenza.
 - Non sostituire foto reali dei monumenti con immagini inventate.
+- Ispezionare gli import prima di cambiare versioni o ignorare i vincoli di dipendenza: eliminare componenti certamente inutilizzati può risolvere il conflitto senza alterare il sito.
+- Git clone pubblico riuscito non significa Git push autenticato. Il connettore GitHub è il percorso di scrittura verificato in questa sessione.
+- Un utente che conferma l'apertura della pagina non ha necessariamente approvato layout o contenuti né eseguito un collaudo mobile.
