@@ -22,3 +22,6 @@ Ora solare/inverno: 09:00 apertura,16:00 ultimo ingresso,17:00 chiusura. Ora leg
 
 ## Tariffe — criterio di pubblicazione
 Usare fonti ufficiali e distinguere ordinari, supplementi mostre e cumulativi. Al03/11/2026: homeVilla14/7, regionale mostra17/10; quest'ultima condizionale. Cumulativi da PDF2025 con anno dichiarato e conferma in biglietteria. Requisiti ridotto collegati al Parco, non inventare soglie età quando le pagine differiscono.
+
+## Parcheggio SGS
+Tariffe e orari dal cartello e avviso fotografati forniti da Fabio il03/11/2026. Auto2+1max8, moto1,50+0,60max5, camper5+1,50max10; supplementi per ora successiva o frazione. Minibus max19posti20/giorno, bus30/giorno. Dopo pagamento25min uscita solo auto/moto/camper. Estate08:45–18uscita19; inverno08:45–16uscita17, ultime domeniche marzo/ottobre. Camper solo diurno. Non attribuire al Comune questi dati né inventare metodi di pagamento/durata dei massimali.

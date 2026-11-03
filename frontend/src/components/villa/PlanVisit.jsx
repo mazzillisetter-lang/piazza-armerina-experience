@@ -4,6 +4,7 @@ import { SectionHead } from "./SectionHead";
 import { PRACTICAL, OFFICIAL } from "@/content/villa";
 import { OpeningHours } from "./OpeningHours";
 import { TicketPrices } from "./TicketPrices";
+import { ParkingPrices } from "./ParkingPrices";
 
 const ICONS = { Clock, Ticket, SquareParking, Bus, Accessibility, Navigation };
 
@@ -19,10 +20,10 @@ export const PlanVisit = ({ c, ui }) => (
             <motion.div key={p.key} initial={{ opacity: 0, y: 18 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, amount: 0.15 }} transition={{ duration: 0.7, delay: (i % 3) * 0.07 }} className="flex flex-col rounded-xl border border-[var(--gold)]/25 bg-[#17100b] p-6" data-testid={`plan-card-${p.key}`}>
               <span className="grid place-items-center w-12 h-12 rounded-full bg-[var(--gold)]/15 text-[var(--gold-soft)]"><Icon className="w-6 h-6" /></span>
               <h3 className="mt-4 font-display font-bold text-2xl text-white">{p.title}</h3>
-              {p.key === "orari" ? <OpeningHours /> : p.key === "biglietti" ? <TicketPrices /> : <p className="mt-2 font-body text-lg leading-relaxed text-[var(--cream)]/85 flex-1">{p.text}</p>}
-              <a href={link.url} target="_blank" rel="noreferrer" className="mt-5 inline-flex items-center gap-2 font-body text-lg text-[var(--gold-soft)] hover:text-white transition-colors" data-testid={`plan-link-${p.key}`}>
+              {p.key === "orari" ? <OpeningHours /> : p.key === "biglietti" ? <TicketPrices /> : p.key === "parcheggio" ? <ParkingPrices /> : <p className="mt-2 font-body text-lg leading-relaxed text-[var(--cream)]/85 flex-1">{p.text}</p>}
+              {link && <a href={link.url} target="_blank" rel="noreferrer" className="mt-5 inline-flex items-center gap-2 font-body text-lg text-[var(--gold-soft)] hover:text-white transition-colors" data-testid={`plan-link-${p.key}`}>
                 {link.label}<ExternalLink className="w-4 h-4" />
-              </a>
+              </a>}
               <p className="mt-3 text-sm font-body text-[var(--cream-dim)]">{ui.updated}: {p.updated}</p>
             </motion.div>
           );

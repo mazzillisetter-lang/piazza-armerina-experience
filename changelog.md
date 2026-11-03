@@ -33,3 +33,6 @@
 - Orari automatici, foto Polifemo e altre schede invariati.
 - Build produzione riuscita e revisione indipendente contenuti favorevole.
 - Cloudflare c44ca3f success; browser desktop verificati card, dettagli espandibili e link fonti, screenshot acquisito.
+
+## Parcheggio SGS
+- Scheda subito dopo Biglietti: tariffe auto/moto/camper visibili; orari, minibus/bus e regola camper nei dettagli. Fonte cartelli forniti da Fabio, data03/11/2026. Nessuna pubblicazione delle schermate WhatsApp personali.

@@ -32,3 +32,6 @@ Istruzioni dei tre ruoli mancanti aggiunte: agents/development.md, publication.m
 
 ## Scheda Biglietti
 Richiesta Fabio: prezzi dal sito ufficiale Villa. Implementata TicketPrices.jsx nella sola card biglietti:14/7ordinari,minori18gratis, requisiti ufficiali; supplemento3mostra con totali17/10condizionali; cumulativi18/9,24/12,34/17 con etichetta tariffario2025 e fontePDF. Fonte principale homeVilla; data consultazione03/11/2026. Fonti in docs/villa-tickets.md. Build npm run build riuscita; revisione indipendente contenuti favorevole. Commit applicativo c44ca3fe99cb45623e07b6226f970046b11c7e66 pubblicato con successo da Cloudflare. Verifica browser desktop su https://83e279b2.piazza-armerina-experience.pages.dev/villa-romana-del-casale#visita : prezzi14/7/gratis, dettagli mostre e cumulativi aperti/chiusi correttamente, tutti i link fonte corretti, data03/11/2026. Orari e foto preservati; viewport mobile non verificata.
+
+## Parcheggio SGS — incarico corrente
+Scheda aggiornata con tariffe fedeli ai cartelli inviati da Fabio. Prima ora e ore successive/frazioni distinte; massimali senza periodicità inventata. Avviso25min limitato auto/moto/camper. Orari stagionali e bus nei dettagli. Fonte gestore al posto del link Comune non pertinente.
