@@ -33,7 +33,7 @@ export const CategoryBand = ({ t }) => (
             transition={{ duration: 0.7, delay: i * 0.06, ease: [0.22, 1, 0.36, 1] }}
             className={`band-item ${i % 2 === 1 ? "max-sm:border-l" : ""} ${i === 8 ? "max-sm:col-span-2" : ""} ${i % 3 !== 0 ? "sm:max-lg:border-l" : ""} ${i !== 0 ? "lg:border-l" : ""}`}
           >
-            <a href={i === 0 ? "/villa-romana-del-casale" : i === 1 ? "/centro-storico" : "#esplora"} data-testid={`category-${KEYS[i]}`} className="group flex flex-col items-center text-center px-2 py-1">
+            <a href={i === 0 ? "/villa-romana-del-casale" : i === 1 ? "/centro-storico" : i === 2 ? "/palio-dei-normanni" : "#esplora"} data-testid={`category-${KEYS[i]}`} className="group flex flex-col items-center text-center px-2 py-1">
               <span className="flex items-end gap-1 h-12 sm:h-16 lg:h-[calc(var(--u)*2.9)] transition-transform duration-500 group-hover:-translate-y-1.5">
                 {ICONS[i].map(([Icon, color], k) => (
                   <Icon key={k} strokeWidth={1.8} style={{ color }} className="w-10 h-10 sm:w-12 sm:h-12 lg:w-[calc(var(--u)*2.6)] lg:h-[calc(var(--u)*2.6)]" />

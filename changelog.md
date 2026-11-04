@@ -106,3 +106,7 @@ Sostituita veduta notturna con fotografia al tramonto fornita daFabio,400x320. T
 
 ## Panoramica finale Centro storico
 Scelto filePiazza-Armerina-2.webp1217x694 al posto del precedente400x320; inquadratura intera e trattamento cromatico leggero preservati.
+
+
+## Palio stagione2027
+Nuova pagina/ palio-dei-normanni con2scene,4quartieri,sequenzatradizionale3giorni econtattiufficiali. Collegata daHome,WebPleggeri ecredititrasparenti.

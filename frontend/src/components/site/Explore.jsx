@@ -10,8 +10,8 @@ const Card = ({ data, i, soon }) => {
   const big = i === 0;
   return (
     <motion.a
-      href={i === 0 ? "/villa-romana-del-casale" : i === 1 ? "/centro-storico" : "#esplora"}
-      onClick={(e) => { if (i > 1) e.preventDefault(); }}
+      href={i === 0 ? "/villa-romana-del-casale" : i === 1 ? "/centro-storico" : i === 2 ? "/palio-dei-normanni" : "#esplora"}
+      onClick={(e) => { if (i > 2) e.preventDefault(); }}
       data-testid={`nav-card-${KEYS[i]}`}
       initial={{ opacity: 0, y: 30 }}
       whileInView={{ opacity: 1, y: 0 }}
@@ -52,7 +52,7 @@ export const Explore = ({ t }) => (
         <p className="text-[var(--cream-dim)] text-base sm:text-lg max-w-sm">{t.exploreText}</p>
       </motion.div>
       <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-px bg-[var(--line)] border border-[var(--line)]">
-        {t.cards.map((c, i) => <Card key={KEYS[i]} data={c} i={i} soon={i === 1 ? t.discoverCentre : t.soon} />)}
+        {t.cards.map((c, i) => <Card key={KEYS[i]} data={c} i={i} soon={i === 1 ? t.discoverCentre : i === 2 ? t.discoverPalio : t.soon} />)}
       </div>
     </div>
   </section>

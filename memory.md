@@ -71,3 +71,7 @@ Fabio preferisce il nuovo scatto400x320, fornito con filenameb9c92bc0ab95f840cf6
 
 ## Scelta finale panorama Centro storico — 04/11/2026
 Fabio sceglie definitivamente Piazza-Armerina-2.webp1217x694, migliore inquadratura/definizione, e chiede di fermarsi dopo la sostituzione. Asset centro-storico-panorama.webp originale; stesso trattamentoCSS leggero brightness1.02 contrast1.04 saturate0.94.
+
+
+## Palio — 04/11/2026
+Fabio richiede sezionePalio stagione2027, usando foto/bandiere già scelte inGit. Recuperate6immagini dalmain storico, integrate come elaborazioni artistiche/graphichelmamente nonufficiali, compresseWebP. Date12–14agosto indicate tradizionali e2027daconfermare; dettaglioperativi noninventati. Fonti e limiti diritti in docs/palio-2027.md.

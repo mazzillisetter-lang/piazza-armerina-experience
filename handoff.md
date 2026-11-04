@@ -100,3 +100,9 @@ Pagina precedente797e61b pubblicata e verificata suff7d6f0f.pages.dev. Nuova ric
 
 ## Ultima sostituzione panoramica — 04/11/2026
 4c290c8 pubblicato e verificato. Fabio sceglie Piazza-Armerina-2.webp1217x694,101002byte, come ultima modifica. Copia originale centro-storico-panorama.webp, dimensioni aggiornate; medesima correzioneCSS leggera della versione precedente. Home, Duomo eTrigona invariati. Build/pubblicazione da verificare sul nuovo commit; poi fermarsi come richiesto.
+
+
+## Palio dei Normanni — 04/11/2026
+Implementata pagina/palio-dei-normanni sulbranchautorizzato, nessunamodificaamain. Fonti/assettimeline in docs/palio-2027.md. Build e pubblicazione da verificare sul commit finale; nessun programma ufficiale2027 confermato.
+
+Verifica locale 04/11/2026: build produzione riuscita; browser PC e iframe320/390/768px senza overflow orizzontale,6immagini caricate, pulsanti contenuti a320px, linkHomePalio eancoraquartieri funzionanti. Revisione indipendente contenuti favorevole, contrastoCTA ewrappingcorretti. Nessun test suhardware fisico. Pubblicazione finale da verificare.
