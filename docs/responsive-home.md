@@ -17,3 +17,7 @@ Screenshot locali di controllo: /workspace/scratch/home-smartphone-390.jpg, /wor
 
 ## Pubblicazione
 Modifiche destinate esclusivamente al branch armerina-experience-20261101. Main invariato. All'avvio di questo incarico le precedenti build Cloudflare del video risultavano ancora in_progress: il successo locale non equivale a pubblicazione online verificata. Consultare il check del commit responsive prima di dichiararlo online.
+
+## Revisione mobile — 4 novembre 2026
+Su richiesta Fabio, sostituita la composizione mobile precedente che ritagliava la foto in verticale. Ora sotto768px la foto occupa tutta la larghezza nel rapporto originale1672:941, senza mosaico sovrapposto agli edifici. Titolo e frase sopra; parole, azioni e piccolo mosaico sotto. Tablet e desktop mantengono le regole precedenti.
+Build produzione riuscita. Controlli browser320/390px: nessun overflow orizzontale, foto contain e rapporto originale, separazione CTA/mosaico; apertura/chiusura player riuscita. Screenshot locale /workspace/scratch/home-smartphone-panorama-intero.jpg. Occorre controllo creativo Fabio sull'effetto complessivo; non dichiarare approvata questa nuova composizione.

@@ -47,3 +47,6 @@ Fabio vuole preservare panorama, mosaico, parole e fiori della home PC anche su 
 I pulsanti Inizia il tuo viaggio e Guarda il video devono stare vicini al piede della foto, lasciando libera la Cattedrale. Ancorarli al fondo nella composizione orizzontale; preservare il comportamento smartphone.
 
 Fabio ha approvato i pulsanti a piede foto. Il blocco testo PC deve avere più presenza sulla sinistra: titolo, frase in corsivo e descrizione ingranditi insieme in proporzione, mantenendo la Cattedrale visibile.
+
+## Correzione home smartphone — 04/11/2026
+Fabio rifiuta il taglio verticale del panorama: devono vedersi piazza intera, Cattedrale e Palazzo Trigona con le sette finestre. Mostrare la foto completa nel suo rapporto originale sul telefono; mosaico più piccolo e separato dagli edifici. La composizione desktop approvata resta il riferimento stilistico.

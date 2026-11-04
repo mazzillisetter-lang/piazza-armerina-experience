@@ -76,3 +76,8 @@ Stato03/11/2026: commitvideo956c94c50350cd985e7e2c6b208848ad4c2e4eb4 + correzion
 ## Proporzioni testo home PC
 - Ingranditi titolo, corsivo e descrizione nella sola versione da1024px; ampliata la colonna sinistra.
 - Posizione approvata dei pulsanti preservata. Build produzione e controllo browser1280px riusciti.
+
+## Panorama completo su smartphone
+- Foto mobile nel rapporto originale1672:941, senza ritaglio verticale; testo sopra e mosaico ridotto sotto il panorama.
+- Parole decorative e pulsanti disposti nella fascia inferiore; pulsante più compatto sotto360px.
+- Regole tablet e PC preservate.
