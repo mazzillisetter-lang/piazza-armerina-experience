@@ -89,3 +89,8 @@ Stato03/11/2026: commitvideo956c94c50350cd985e7e2c6b208848ad4c2e4eb4 + correzion
 ## Come arrivare — fotografia aggiornata
 - Unica foto originaleSGS del4novembre2026 al posto di StreetView e foto verticale.
 - Didascalia con direzione corretta e divieto; data scheda04/11/2026, ingrandimento disponibile.
+
+## Centro storico
+- Nuova pagina conDuomo ePalazzoTrigona, tre fotografie reali con attribuzione, descrizioni brevi e dettagli da cercare.
+- Passeggiata suggerita con quattro tappe; approfondimentiFundrò,PalazzoCittà,SanGiovanni eTeatini e fonti collegate.
+- Collegamenti attivi da home eDopoVilla; collaudo browser320–1280px e build riusciti.

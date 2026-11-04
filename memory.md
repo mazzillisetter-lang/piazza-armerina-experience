@@ -56,3 +56,6 @@ Fabio vuole la fascia del menu fissa trasparente, anche scorrendo, per lasciare 
 
 ## Foto bivio aggiornata — 04/11/2026
 Usare la nuova foto del mattino fornita da Fabio per Come arrivare: cartelloVilla, divieto ramo sinistro e parcheggio/barriere visibili insieme. Una sola foto intera e ingrandibile sostituisce le precedenti StreetView e verticale; originale conservato senza filtri o ricostruzioni.
+
+## Centro storico — 04/11/2026
+Fabio richiede testi brevi e documentati perDuomo ePalazzoTrigona, foto reali curate e organizzazione di vicoli/chiese/palazzi. Implementata pagina/centro-storico nello stile nero/oro, due schede principali, quattro tappe suggerite e dettagliFundrò/PalazzoCittà/SanGiovanni/Teatini. FotoCommons con crediti/licenze/date e ingrandimento, nessun ritocco o ricostruzione. Fonti e scelte in docs/centro-storico.md. Non confondere una proposta editoriale di passeggiata con un percorso misurato/accessibile garantito.

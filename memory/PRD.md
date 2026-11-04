@@ -32,3 +32,6 @@ User choices: lingue IT/EN/DE/FR/ES; schede senza foto (icone, numeri, tipografi
 - P0: user approval of homepage design
 - P1: build the 9 section pages; replace card placeholders with user's photos
 - P2: maps, shuttle timetables, local service links
+
+## Update — 2026-11-04: Centro storico
+Pagina/centro-storico con fotoCommons reali,Duomo ePalazzoTrigona come schede principali, passeggiata suggerita e fonti. Link daHome(CategoryBand,Explore) eDopoVilla. TestiIT con notafallback nelle altre lingue, coerente conVilla. Fotografie intere, nessuna ricostruzione; crediti/licenze/date inpagina.

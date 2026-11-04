@@ -14,6 +14,7 @@ import { Explore } from "@/components/site/Explore";
 import { Footer } from "@/components/site/Footer";
 import { BrowserRouter, Routes, Route, useLocation } from "react-router-dom";
 import VillaRomana from "@/pages/VillaRomana";
+import CentroStorico from "@/pages/CentroStorico";
 
 const initialLang = () => {
   const saved = localStorage.getItem("pa-lang");
@@ -39,6 +40,7 @@ const Shell = ({ lang, setLang, t }) => {
       <Routes>
         <Route path="/" element={<Home t={t} />} />
         <Route path="/villa-romana-del-casale" element={<VillaRomana lang={lang} />} />
+        <Route path="/centro-storico" element={<CentroStorico lang={lang} />} />
         <Route path="*" element={<Home t={t} />} />
       </Routes>
       <Footer t={t} />
