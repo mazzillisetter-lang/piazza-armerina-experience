@@ -79,3 +79,7 @@ Fabio richiede sezionePalio stagione2027, usando foto/bandiere già scelte inGit
 
 ## Aggiornamento automatico Palio — 04/11/2026
 Fabio autorizza aggiornamento pagina dai comunicati ufficiali delComune. Implementato feedJSON2027 con stato/date/notizie/fonti/data verifica, frontend legge alcaricamento eogni5min convalidazione eultimo dataset valido. Controllo fonti giornaliero previsto: nonpush istantaneo. Schema/procedura in docs/palio-auto-updates.md; stato iniziale pending senza dati inventati. Attivazione automazione e verifica deploy da completare.
+
+
+## Dove mangiare — 04/11/2026
+Fabio richiede ricerca ampia dei locali di Piazza Armerina, layout funzionale recuperando il precedente, foto curate e contatti. Implementata pagina/dove-mangiare con43schede, filtri per tipo/zona, ricerca su tutto ilcatalogo e caricamento progressivo.11telefoni da pagine delleattività,1WhatsAppSUD esplicito; altrimenti GoogleMapsfoto/contatti. FotografiegastronomicheCommons conlicenze documentate, dichiarate illustrative e valorizzateCSS; nessunafotoinventatadeilocali. Fonti/limiti in docs/dove-mangiare.md e food-research.json. Build/pubblicazione/collaudo da verificare sulcommitfinale.

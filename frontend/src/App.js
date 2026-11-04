@@ -16,6 +16,7 @@ import { BrowserRouter, Routes, Route, useLocation } from "react-router-dom";
 import VillaRomana from "@/pages/VillaRomana";
 import CentroStorico from "@/pages/CentroStorico";
 import PalioNormanni from "@/pages/PalioNormanni";
+import DoveMangiare from "@/pages/DoveMangiare";
 
 const initialLang = () => {
   const saved = localStorage.getItem("pa-lang");
@@ -43,6 +44,7 @@ const Shell = ({ lang, setLang, t }) => {
         <Route path="/villa-romana-del-casale" element={<VillaRomana lang={lang} />} />
         <Route path="/centro-storico" element={<CentroStorico lang={lang} />} />
         <Route path="/palio-dei-normanni" element={<PalioNormanni lang={lang} />} />
+        <Route path="/dove-mangiare" element={<DoveMangiare lang={lang} />} />
         <Route path="*" element={<Home t={t} />} />
       </Routes>
       <Footer t={t} />

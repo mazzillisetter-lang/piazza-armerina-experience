@@ -1,0 +1,38 @@
+{
+  "arancini": {
+    "key": "arancini",
+    "title": "Arancini (2009).jpg",
+    "author": "Jeffrey_Allen",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arancini_(2009).jpg",
+    "width": 1600,
+    "height": 1200,
+    "src": "/img/food/arancini.webp",
+    "filter": "brightness(1.025) contrast(1.025)"
+  },
+  "cannoli": {
+    "key": "cannoli",
+    "title": "Cannoli sicily.jpg",
+    "author": "AnnaVie",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cannoli_sicily.jpg",
+    "width": 1600,
+    "height": 737,
+    "src": "/img/food/cannoli.webp",
+    "filter": "brightness(1.025) contrast(1.025)"
+  },
+  "pasta": {
+    "key": "pasta",
+    "title": "Noto, Cavatelli pomodoro ricotta salata.jpg",
+    "author": "Guillaume Flambeau Von Uslar",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Noto,_Cavatelli_pomodoro_ricotta_salata.jpg",
+    "width": 1600,
+    "height": 1067,
+    "src": "/img/food/pasta.webp",
+    "filter": "brightness(1.08) contrast(1.03)"
+  }
+}

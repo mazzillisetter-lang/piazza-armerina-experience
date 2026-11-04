@@ -112,3 +112,11 @@ Verifica pubblicazione Palio: commit8a97f1d8c619a70b3c69fe1aac4f2a2fa32e5d5d, Cl
 
 ## Aggiornamento automatico Palio — 04/11/2026
 Fabio autorizza aggiornamento pagina dai comunicati ufficiali delComune. Implementato feedJSON2027 con stato/date/notizie/fonti/data verifica, frontend legge alcaricamento eogni5min convalidazione eultimo dataset valido. Controllo fonti giornaliero previsto: nonpush istantaneo. Schema/procedura in docs/palio-auto-updates.md; stato iniziale pending senza dati inventati. Attivazione automazione e verifica deploy da completare.
+
+
+## Dove mangiare — 04/11/2026
+Fabio richiede ricerca ampia dei locali di Piazza Armerina, layout funzionale recuperando il precedente, foto curate e contatti. Implementata pagina/dove-mangiare con43schede, filtri per tipo/zona, ricerca su tutto ilcatalogo e caricamento progressivo.11telefoni da pagine delleattività,1WhatsAppSUD esplicito; altrimenti GoogleMapsfoto/contatti. FotografiegastronomicheCommons conlicenze documentate, dichiarate illustrative e valorizzateCSS; nessunafotoinventatadeilocali. Fonti/limiti in docs/dove-mangiare.md e food-research.json. Build/pubblicazione/collaudo da verificare sulcommitfinale.
+
+Chiusura precedente incarico Palio: automazione Aggiornamenti Palio2027 creata e attiva(id6aeb0c3719648191beb63e43eac58a05); primo controllo nonhaindividuatonovità2027. Commitfeed a91b72126eb5dc517513ab7161c59f4258326532 Cloudflare completed/success; pagina verificata nelbrowser su https://fdac1e5a.piazza-armerina-experience.pages.dev/palio-dei-normanni. Nessundato2027inventato.
+
+Verifica 04/11/2026: build produzione riuscita. Browser desktop e iframe320/390/768px senza overflow; tre foto caricate. FiltroVilla5locali, ricercaMemory1, ricerca senzaaccentiDisiu1, ricercaassente0 e ripristino43. Caricamento progressivo18→36→43 verificato. SUD: tel,WhatsApp,Google,sitoufficiale,prenotazione presenti e conURLattesi; nessunachiamata/prenotazione eseguita. Smartphone: foto anticipata sottoiltitolo, primaimmaginecirca452pxa390. Revisioneindipendente dati favorevole con nota indirizzo condivisoNovecento/Trombino, senza prova diduplicazione; SUDricontrollatodalcoordinatore. Nessun test suhardwarefisico.

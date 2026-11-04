@@ -1,0 +1,908 @@
+[
+  {
+    "group": "restaurants",
+    "research": [
+      {
+        "name": "Bar Restaurant Imperial",
+        "category": [
+          "ristorante",
+          "pranzo-veloce"
+        ],
+        "zone": "villa",
+        "address": "Contrada Casale, Piazza Armerina",
+        "phone": null,
+        "website": null,
+        "sourceUrls": [
+          "https://restaurantguru.it/Bar-Restaurant-Imperial-Piazza-Armerina",
+          "https://www.tripadvisor.it/Restaurant_Review-g580232-d27739024-Reviews-Bar_Restaurant_Imperial-Piazza_Armerina_Province_of_Enna_Sicily.html"
+        ],
+        "description": "Bar e ristorazione nell’area della Villa Romana del Casale.",
+        "phoneEvidence": "093585750 su due schede terze concordanti, non mantenuto perché non fonte primaria."
+      },
+      {
+        "name": "Agriturismo Trinacria",
+        "category": [
+          "ristorante",
+          "agriturismo"
+        ],
+        "zone": "villa",
+        "address": "Contrada Casale, Piazza Armerina",
+        "phone": null,
+        "website": "https://www.agritrinacria.it/homepage.htm",
+        "sourceUrls": [
+          "https://www.agritrinacria.it/homepage.htm",
+          "https://www.tripadvisor.it/Restaurant_Review-g580232-d7008777-Reviews-Agriturismo_Trinacria_di_Cammarata_Ugo-Piazza_Armerina_Province_of_Enna_Sicily.html"
+        ],
+        "description": "Agriturismo con cucina siciliana vicino alla Villa Romana del Casale.",
+        "phoneEvidence": "3343384878 su Tripadvisor e directory, non presente nel testo ufficiale recuperato."
+      },
+      {
+        "name": "Trattoria La Ruota",
+        "category": [
+          "ristorante"
+        ],
+        "zone": "villa",
+        "address": "SP90, Contrada Paratore, Piazza Armerina",
+        "phone": null,
+        "website": "https://www.trattorialaruota.it/",
+        "sourceUrls": [
+          "https://www.trattorialaruota.it/",
+          "https://www.sluurpy.it/piazza-armerina/ristorante/65094/la-ruota"
+        ],
+        "description": "Cucina casalinga in un antico mulino ad acqua, lungo la strada per la Villa.",
+        "phoneEvidence": "0935680542 su più directory; contatti sito ufficiale non estratti."
+      },
+      {
+        "name": "Ristorante Pizzeria Da Totò",
+        "category": [
+          "ristorante",
+          "pizza"
+        ],
+        "zone": "centro",
+        "address": "Via Giuseppe Mazzini 29, Piazza Armerina",
+        "phone": "+390935680153",
+        "website": "https://www.ristorantepizzeriadatoto.it/",
+        "sourceUrls": [
+          "https://www.ristorantepizzeriadatoto.it/"
+        ],
+        "description": "Cucina siciliana, pasta fatta in casa e pizza cotta nel forno a legna.",
+        "phoneEvidence": "Sito ufficiale; secondo numero pubblicato +393248928852."
+      },
+      {
+        "name": "Trattoria Al Goloso",
+        "category": [
+          "ristorante"
+        ],
+        "zone": "centro",
+        "address": "Via Garao 4, Piazza Armerina",
+        "phone": null,
+        "website": null,
+        "sourceUrls": [
+          "https://www.tripadvisor.it/Restaurant_Review-g580232-d1907540-Reviews-Trattoria_Al_Goloso-Piazza_Armerina_Province_of_Enna_Sicily.html",
+          "https://www.sluurpy.it/piazza-armerina/ristorante/172992/trattoria-al-goloso"
+        ],
+        "description": "Trattoria di cucina italiana e siciliana vicino a Piazza Garibaldi.",
+        "phoneEvidence": "0935684325 su Tripadvisor gestito e Sluurpy; fonte primaria non trovata."
+      },
+      {
+        "name": "Cucina Garibaldi",
+        "category": [
+          "ristorante"
+        ],
+        "zone": "centro",
+        "address": "Via Giuseppe Garibaldi 62, Piazza Armerina",
+        "phone": null,
+        "website": null,
+        "sourceUrls": [
+          "https://www.tripadvisor.it/Restaurant_Review-g580232-d1857208-Reviews-Cucina_Garibaldi-Piazza_Armerina_Province_of_Enna_Sicily.html",
+          "https://www.nuovaopinione.it/piazza-armerina/ristoranti/cucina-garibaldi-302409"
+        ],
+        "description": "Cucina siciliana stagionale in un locale con giardino nel centro storico.",
+        "phoneEvidence": "Conflitto: Tripadvisor/NuovaOpinione3405454431; Sluurpy/Wikivoyage3341189593."
+      },
+      {
+        "name": "Al Fogher",
+        "category": [
+          "ristorante"
+        ],
+        "zone": "dintorni",
+        "address": "SS117 bis, Contrada Bellia, Piazza Armerina",
+        "phone": null,
+        "website": null,
+        "sourceUrls": [
+          "https://guide.michelin.com/it/it/sicilia/piazza-armerina/ristorante/al-fogher",
+          "https://accademiaitalianadellacucina.it/it/ristoranti/ristorante/1979-fogher"
+        ],
+        "description": "Ristorante fuori dal centro, con una proposta di cucina italiana contemporanea.",
+        "phoneEvidence": "0935684123 su Michelin e Accademia; non fonte primaria."
+      },
+      {
+        "name": "La Locanda",
+        "category": [
+          "ristorante"
+        ],
+        "zone": "centro",
+        "address": "Via Laura de Assoro, zona Duomo, Piazza Armerina",
+        "phone": null,
+        "website": null,
+        "sourceUrls": [
+          "https://www.tripadvisor.it/Restaurant_Review-g580232-d12633792-Reviews-La_Locanda-Piazza_Armerina_Province_of_Enna_Sicily.html",
+          "https://restaurantguru.it/La-Locanda-Piazza-Armerina"
+        ],
+        "description": "Ristorante nell’area della Cattedrale, con proposta di cucina italiana.",
+        "phoneEvidence": "3771253594 su due directory; indirizzo con variante de Assaro2/de Assoro senza civico."
+      },
+      {
+        "name": "Trattoria Da Gianna",
+        "category": [
+          "ristorante"
+        ],
+        "zone": "centro",
+        "address": "Piazza Umberto I 9, Piazza Armerina",
+        "phone": null,
+        "website": null,
+        "sourceUrls": [
+          "https://www.piazzaarmerina.org/programma-il-viaggio/dove-mangiare/ristorante-da-gianna",
+          "https://www.tripadvisor.it/Restaurant_Review-g580232-d1875835-Reviews-Trattoria_Da_Gianna-Piazza_Armerina_Province_of_Enna_Sicily.html"
+        ],
+        "description": "Trattoria in Piazza Umberto I, con piatti della tradizione siciliana.",
+        "phoneEvidence": "3473064581 su portale locale e Tripadvisor; non fonte primaria."
+      },
+      {
+        "name": "Ristorante Al Ritrovo",
+        "category": [
+          "ristorante",
+          "pizza"
+        ],
+        "zone": "dintorni",
+        "address": "SS117 bis km 43,900, Piazza Armerina",
+        "phone": "+390935681890",
+        "website": "https://www.hotelalritrovo.com/",
+        "sourceUrls": [
+          "https://www.hotelalritrovo.com/",
+          "https://hotelalritrovo.it/ristorazione/ristorante"
+        ],
+        "description": "Ristorante e pizzeria dell’omonimo hotel nell’area del Bosco Bellia.",
+        "phoneEvidence": "Sito ufficiale dell’hotel; recapito generale della struttura."
+      },
+      {
+        "name": "Ristorante Primavera",
+        "category": [
+          "ristorante",
+          "pizza"
+        ],
+        "zone": "dintorni",
+        "address": "Contrada Camemi, Piazza Armerina",
+        "phone": "+390933970387",
+        "website": "https://www.ristoranteprimavera.com/",
+        "sourceUrls": [
+          "https://www.ristoranteprimavera.com/"
+        ],
+        "description": "Ristorante e pizzeria in Contrada Camemi, lungo la direttrice verso Gela.",
+        "phoneEvidence": "Sito ufficiale. Menu e promozioni datati2024, non riprenderli come attuali."
+      },
+      {
+        "name": "La Chiave di Piazza",
+        "category": [
+          "ristorante",
+          "pizza"
+        ],
+        "zone": "centro",
+        "address": "Via Roma 114, Piazza Armerina",
+        "phone": null,
+        "website": null,
+        "sourceUrls": [
+          "https://www.piazzaarmerina.org/programma-il-viaggio/dove-mangiare/la-chiave-di-piazza"
+        ],
+        "description": "Ristorante e pizzeria su Via Roma, vicino al giardino pubblico Villa Ciancio.",
+        "phoneEvidence": "3288869308 su portale turistico locale privato, non fonte primaria."
+      },
+      {
+        "name": "Ristorante La Tavernetta",
+        "category": [
+          "ristorante"
+        ],
+        "zone": "centro",
+        "address": "Via Camillo Benso Conte di Cavour, Piazza Armerina",
+        "phone": null,
+        "website": null,
+        "sourceUrls": [
+          "https://etic.travelnostop.com/scheda_azienda.php?azienda=97448&lang=it",
+          "https://www.nuovaopinione.it/piazza-armerina/ristoranti/ristorante-la-tavernetta-302301"
+        ],
+        "description": "Ristorante del centro storico con una proposta legata al pesce.",
+        "phoneEvidence": "0935685883 su più fonti terze; civico discordante14/40."
+      },
+      {
+        "name": "SiciliArteGusto",
+        "category": [
+          "ristorante",
+          "aperitivo"
+        ],
+        "zone": "centro",
+        "address": "Via Umberto I 36/40, Piazza Armerina",
+        "phone": null,
+        "website": null,
+        "sourceUrls": [
+          "https://www.cylex-italia.it/piazza-armerina/siciliartegusto-gastronomia-enoteca-wine-bar-10896009.html",
+          "https://restaurantguru.it/SiciliArteGusto-Piazza-Armerina"
+        ],
+        "description": "Enoteca e gastronomia nel centro storico, dedicata a vini e prodotti siciliani.",
+        "phoneEvidence": "Conflitto0935680393/0935546429; siciliartegusto.it non recuperabile."
+      },
+      {
+        "name": "Stranizzadamuri",
+        "category": [
+          "ristorante",
+          "aperitivo"
+        ],
+        "zone": "centro",
+        "address": "Via Garibaldi 40, Piazza Armerina",
+        "phone": null,
+        "website": null,
+        "sourceUrls": [
+          "https://www.saporideiborghi.com/ristorante/stranizzadamuri/scheda",
+          "https://www.tuttiaffari.com/stranizzadamuri-346-547-5778"
+        ],
+        "description": "Bistrot e cocktail bar su Via Garibaldi, tra cucina e serate nel centro storico.",
+        "phoneEvidence": "3465475778 su due fonti terze."
+      },
+      {
+        "name": "Da Elide Ristorante Pizzeria",
+        "category": [
+          "ristorante",
+          "pizza"
+        ],
+        "zone": "citta",
+        "address": "Via Ferruccio Parri 29, Piazza Armerina",
+        "phone": "+390935682610",
+        "website": "https://www.daelideristorantepizzeria.it/contatti",
+        "sourceUrls": [
+          "https://www.daelideristorantepizzeria.it/contatti"
+        ],
+        "description": "Cucina siciliana e pizza con impasto a lunga lievitazione.",
+        "phoneEvidence": "Sito ufficiale."
+      },
+      {
+        "name": "Torre di Renda",
+        "category": [
+          "ristorante",
+          "agriturismo"
+        ],
+        "zone": "dintorni",
+        "address": "Contrada Torre di Renda, presso Piano Cannata, Piazza Armerina",
+        "phone": "+390935680208",
+        "website": "https://www.torrerenda.it/",
+        "sourceUrls": [
+          "https://www.torrerenda.it/"
+        ],
+        "description": "Ristorante della struttura rurale immersa nel bosco, con cucina della tradizione.",
+        "phoneEvidence": "Sito ufficiale. Verificare ristorazione esterni prenotando."
+      },
+      {
+        "name": "MIRA Ristorante Bistrò",
+        "category": [
+          "ristorante",
+          "aperitivo"
+        ],
+        "zone": "centro",
+        "address": "Piazza Castello 5, Piazza Armerina",
+        "phone": null,
+        "website": null,
+        "sourceUrls": [
+          "https://www.tripadvisor.it/Restaurant_Review-g580232-d33305448-Reviews-Mira_Bistro-Piazza_Armerina_Province_of_Enna_Sicily.html",
+          "https://www.cylex-italia.it/piazza-armerina/ristorante-mira-bistr%C3%B2-16154068.html"
+        ],
+        "description": "Ristorante, bistrot e wine bar affacciato su Piazza Castello, con giardino.",
+        "phoneEvidence": "3758466799 su Tripadvisor gestito e Cylex; mirabistro.com404. Possibile subentro aIBaroni stesso indirizzo."
+      }
+    ]
+  },
+  {
+    "group": "pizza",
+    "research": {
+      "verifiedAt": "2026-11-04",
+      "entries": [
+        {
+          "name": "Pizzeria SUD",
+          "category": [
+            "pizza"
+          ],
+          "zone": "citta",
+          "address": "Via Monsignor Palermo, 2",
+          "phone": "+390935682000",
+          "whatsapp": "https://wa.me/390935682000",
+          "website": "https://sudpizzeria.com/metodosud",
+          "booking": "https://prenotazioni.cooperto.it/in/5c59857e-25ee-48",
+          "sourceUrls": [
+            "https://sudpizzeria.com/metodosud"
+          ],
+          "description": "Pizza contemporanea di scuola napoletana, ingredienti siciliani e fritti preparati internamente.",
+          "contactVerification": "Numero dal link WhatsApp ufficiale."
+        },
+        {
+          "name": "Pizzeria Europa",
+          "category": [
+            "pizza",
+            "veloce",
+            "rosticceria"
+          ],
+          "zone": "citta",
+          "address": "Piazza Giorgio Boris Giuliano, 33",
+          "phone": "+3909351822485",
+          "whatsapp": null,
+          "website": "https://www.europapizzeria.it/",
+          "sourceUrls": [
+            "https://www.europapizzeria.it/contatti"
+          ],
+          "description": "Pizze, arancini e altre proposte da asporto; il sito indica anche consegna a domicilio.",
+          "contactVerification": "Telefono e sede dal sito ufficiale. Vecchia scheda eatbu discordante."
+        },
+        {
+          "name": "Panificio Barresi",
+          "category": [
+            "panificio",
+            "veloce",
+            "rosticceria"
+          ],
+          "zone": "citta",
+          "address": "Via Torquato Tasso, 13",
+          "phone": "+390935683087",
+          "whatsapp": null,
+          "website": "https://www.panificiobarresi.it/",
+          "sourceUrls": [
+            "https://www.panificiobarresi.it/contatti",
+            "https://www.panificiobarresi.it/pizzeria-e-rosticceria-galleria"
+          ],
+          "description": "Pane, pizze al metro, rustici e preparazioni dolci e salate."
+        },
+        {
+          "name": "Pizza e Core",
+          "category": [
+            "pizza",
+            "aperitivo"
+          ],
+          "zone": "centro",
+          "address": "Via Giuseppe Garibaldi, 83",
+          "phone": null,
+          "whatsapp": null,
+          "website": null,
+          "sourceUrls": [
+            "https://www.gamberorosso.it/locali/pizza-e-core/",
+            "https://restaurantguru.it/Pizza-e-Core-pizza-and-cocktail-Bar-Piazza-Armerina"
+          ],
+          "description": "Pizzeria e cocktail bar lungo via Garibaldi."
+        },
+        {
+          "name": "Pizzeria Ristorante Prima Classe Artigiani della Pizza",
+          "category": [
+            "pizza",
+            "ristorante"
+          ],
+          "zone": "citta",
+          "address": "Via Giacinto Lo Giudice, 39",
+          "phone": null,
+          "whatsapp": null,
+          "website": null,
+          "sourceUrls": [
+            "https://www.tripadvisor.it/Restaurant_Review-g580232-d25192061-Reviews-Pizzeria_Prima_Classe-Piazza_Armerina_Province_of_Enna_Sicily.html",
+            "https://restaurantguru.it/Pizzeria-Prima-Classe-Piazza-Armerina"
+          ],
+          "description": "Pizzeria e ristorante in via Giacinto Lo Giudice."
+        },
+        {
+          "name": "Da Elide",
+          "category": [
+            "pizza",
+            "ristorante"
+          ],
+          "zone": "citta",
+          "address": "Via Ferruccio Parri, 29",
+          "phone": null,
+          "whatsapp": null,
+          "website": null,
+          "sourceUrls": [
+            "https://www.piazzaarmerina.org/programma-il-viaggio/dove-mangiare/pizzeria-da-elide"
+          ],
+          "description": "Ristorante pizzeria nella zona di Villaggio Sammarco."
+        },
+        {
+          "name": "Amici Miei",
+          "category": [
+            "pizza",
+            "ristorante"
+          ],
+          "zone": "centro",
+          "address": "Largo Capodarso, 5",
+          "phone": null,
+          "whatsapp": null,
+          "website": null,
+          "sourceUrls": [
+            "https://www.piazzaarmerina.org/programma-il-viaggio/dove-mangiare/pizzeria-amici-miei"
+          ],
+          "description": "Ristorante pizzeria nel centro storico, con cucina siciliana e pizza cotta nel forno a legna."
+        },
+        {
+          "name": "La Chiave di Piazza",
+          "category": [
+            "pizza",
+            "ristorante"
+          ],
+          "zone": "centro",
+          "address": "Via Roma, 114",
+          "phone": null,
+          "whatsapp": null,
+          "website": null,
+          "sourceUrls": [
+            "https://www.piazzaarmerina.org/programma-il-viaggio/dove-mangiare/la-chiave-di-piazza"
+          ],
+          "description": "Ristorante pizzeria lungo via Roma, vicino al centro storico."
+        },
+        {
+          "name": "Pizzeria Tavola Calda La Capricciosa",
+          "category": [
+            "pizza",
+            "rosticceria",
+            "veloce"
+          ],
+          "zone": "citta",
+          "address": "Viale Generale Ciancio, 38",
+          "phone": null,
+          "whatsapp": null,
+          "website": null,
+          "sourceUrls": [
+            "https://aziende.virgilio.it/pizzerie/piazza-armerina-en/pizzerialacapricciosa-piazzaarmerina",
+            "https://servizi.comune.piazzaarmerina.en.it/zf/index.php/atti-amministrativi/determine/dettaglio/atto/GTVRVeEE1WT0-H/provvedimenti/1/categoria/113"
+          ],
+          "description": "Pizzeria e tavola calda in viale Generale Ciancio.",
+          "contactVerification": "Sede confermata anche da atto comunale18agosto2026; altra scheda omonima ViaCarducci7 da non fondere."
+        },
+        {
+          "name": "Bistró",
+          "category": [
+            "rosticceria",
+            "veloce",
+            "pizza"
+          ],
+          "zone": "citta",
+          "address": "Via Gabriele D'Annunzio, 1C",
+          "phone": null,
+          "whatsapp": null,
+          "website": null,
+          "sourceUrls": [
+            "https://restaurantguru.it/Bistro-Piazza-Armerina",
+            "https://www.tripadvisor.it/Restaurant_Review-g580232-d17599205-Reviews-Bistro-Piazza_Armerina_Province_of_Enna_Sicily.html"
+          ],
+          "description": "Tavola calda, panini e pizza per una pausa informale."
+        },
+        {
+          "name": "Trombino Bakery",
+          "category": [
+            "rosticceria",
+            "veloce"
+          ],
+          "zone": "citta",
+          "address": "Via Generale Muscarà, 55",
+          "phone": null,
+          "whatsapp": null,
+          "website": null,
+          "sourceUrls": [
+            "https://restaurantguru.it/Trombino-Bakery-Piazza-Armerina"
+          ],
+          "description": "Gastronomia e rosticceria in via Generale Muscarà."
+        },
+        {
+          "name": "Pizzeria Dell'Angolo",
+          "category": [
+            "pizza",
+            "veloce"
+          ],
+          "zone": "citta",
+          "address": "Via Gustavo Roccella, 51",
+          "phone": null,
+          "whatsapp": null,
+          "website": null,
+          "menuUrl": "https://www.leggimenu.it/menu/7dpkhe2i71p2",
+          "sourceUrls": [
+            "https://restaurantguru.com/DellAngolo-Piazza-Armerina",
+            "https://it.tripadvisor.ch/Restaurant_Review-g580232-d28863418-Reviews-Pizzeria_Dell_angolo-Piazza_Armerina_Province_of_Enna_Sicily.html"
+          ],
+          "description": "Pizzeria in via Gustavo Roccella, con proposte anche da asporto.",
+          "menuVerification": "Exact redirect from Website link onRestaurantGuru; menu itself not readable by web tool."
+        },
+        {
+          "name": "Officina della Pizza",
+          "category": [
+            "pizza"
+          ],
+          "zone": "citta",
+          "address": "Via Salvatore La Malfa, 18",
+          "phone": null,
+          "whatsapp": null,
+          "website": null,
+          "sourceUrls": [
+            "https://www.cylex-italia.it/piazza-armerina/officina-della-pizza-15733568.html",
+            "https://www.tripadvisor.it/Restaurant_Review-g580232-d26094166-Reviews-Officina_Della_Pizza-Piazza_Armerina_Province_of_Enna_Sicily.html"
+          ],
+          "description": "Pizzeria lungo via Salvatore La Malfa.",
+          "contactVerification": "NON collegare pizzeriaofficinadellapizza.it: oggi reindirizza a contenuti di gioco d'azzardo estranei."
+        },
+        {
+          "name": "Panificio San Giuseppe",
+          "category": [
+            "panificio",
+            "veloce"
+          ],
+          "zone": "citta",
+          "address": "Viale della Libertà, 51–53",
+          "phone": null,
+          "whatsapp": null,
+          "website": null,
+          "sourceUrls": [
+            "https://www.ufficiocamerale.it/4615/panificio-san-giuseppe-di-cammarata-giuseppe-c-snc",
+            "https://restaurantguru.it/Panificio-San-Giuseppe-Piazza-Armerina"
+          ],
+          "description": "Panificio lungo viale della Libertà."
+        },
+        {
+          "name": "Panificio delle Meraviglie",
+          "category": [
+            "panificio",
+            "veloce"
+          ],
+          "zone": "citta",
+          "address": "Via Niccolò Machiavelli",
+          "phone": null,
+          "whatsapp": null,
+          "website": null,
+          "sourceUrls": [
+            "https://trova-aperto.it/piazza-armerina/panificio-delle-meraviglie-2137084",
+            "https://www.ufficiocamerale.it/8923/panificio-delle-meraviglie-srl"
+          ],
+          "description": "Panificio in via Niccolò Machiavelli.",
+          "contactVerification": "Civico discordante86/88. Maps nome+via senza numero."
+        }
+      ],
+      "additionalCandidatesNeedingVerification": [
+        {
+          "name": "Panificio Infurna",
+          "address": "Viale della Libertà",
+          "reason": "Civici discordanti63/65/92 e due telefoni.",
+          "sources": [
+            "https://restaurantguru.it/Infurna-Salvatore-Piazza-Armerina",
+            "https://www.ufficiocamerale.it/9224/panificio-infurna-srl",
+            "https://trova-aperto.it/piazza-armerina/panetteria"
+          ]
+        },
+        {
+          "name": "Panificio Giannone",
+          "reason": "Trovate VialeGeneraleCiancio128 e ViaMachiavelli67, possibile più sedi ma non confermate.",
+          "sources": [
+            "https://www.reteimprese.it/panetterie/piazza-armerina/azienda/2523325",
+            "https://trova-aperto.it/piazza-armerina/panetteria"
+          ]
+        },
+        {
+          "name": "Peccati di Gola",
+          "address": "Piazza Generale Cascino, 25",
+          "reason": "Nome/sede da fonte societaria, attività corrente da verificare.",
+          "sources": [
+            "https://www.ufficiocamerale.it/8171/peccati-di-gola-srl"
+          ]
+        }
+      ],
+      "excludeFromPiazzaArmerina": [
+        {
+          "name": "Arancino di Venere",
+          "reason": "È adAidone, ViaMartiriLibertà47.",
+          "source": "https://www.piazzaarmerina.org/arancinodivenere"
+        }
+      ],
+      "photoCandidates": [
+        {
+          "business": "Pizzeria SUD",
+          "url": "https://sudpizzeria.com/__l5e/assets-v1/f4801bc7-d9fb-47ed-aa76-d10d8a7fce10/pizza-cornicione.webp",
+          "source": "https://sudpizzeria.com/metodosud",
+          "note": "Foto effettiva sito ufficiale, diritti riuso non dichiarati."
+        },
+        {
+          "business": "Pizzeria SUD",
+          "url": "https://sudpizzeria.com/__l5e/assets-v1/e525dc58-6939-4225-a748-7f263e67bf45/pizza-impasto.webp",
+          "source": "https://sudpizzeria.com/metodosud",
+          "note": "Foto effettiva sito ufficiale, diritti riuso non dichiarati."
+        }
+      ]
+    }
+  },
+  {
+    "group": "bars",
+    "research": {
+      "verifiedAt": "2026-11-04",
+      "entries": [
+        {
+          "name": "Choco Selly",
+          "category": [
+            "dolci",
+            "bar",
+            "snack"
+          ],
+          "zone": "citta",
+          "address": "Viale Generale Muscarà 19",
+          "phone": "+390935577100",
+          "whatsapp": null,
+          "website": "https://chocosellycaffetteria.it/",
+          "sources": [
+            "https://chocosellycaffetteria.it/"
+          ],
+          "description": "Pasticceria, gelateria, caffetteria e tavola calda.",
+          "verification": "Sito dell’attività: indirizzo e telefono; altro recapito3299286253."
+        },
+        {
+          "name": "Novecento Cakes",
+          "category": [
+            "dolci",
+            "gelati"
+          ],
+          "zone": "citta",
+          "address": "Viale Generale Muscarà 55",
+          "phone": "+3909351988000",
+          "whatsapp": null,
+          "website": "https://www.pasticcerianovecentocakes.it/",
+          "sources": [
+            "https://www.pasticcerianovecentocakes.it/"
+          ],
+          "description": "Pasticceria con gelati, mignon, monoporzioni e torte.",
+          "verification": "Sito dell’attività; secondo numero+393495003025."
+        },
+        {
+          "name": "Pasticceria Gelateria Barresi",
+          "category": [
+            "dolci",
+            "gelati"
+          ],
+          "zone": "citta",
+          "address": "Via Gustavo Roccella 1",
+          "phone": null,
+          "whatsapp": null,
+          "website": "https://www.pasticceriagelateriabarresi.com/",
+          "sources": [
+            "https://www.pasticceriagelateriabarresi.com/contatti"
+          ],
+          "description": "Dolci siciliani, gelati artigianali e torte.",
+          "verification": "Sito dell’attività; emailfratelli.barresi@gmail.com. Numero093585559 solo su elenchi secondari."
+        },
+        {
+          "name": "Bar Amato",
+          "category": [
+            "bar"
+          ],
+          "zone": "citta",
+          "address": "Via Ammiraglio La Marca 36",
+          "phone": "+393207620878",
+          "whatsapp": null,
+          "website": "https://baramato.eatbu.com/?lang=it",
+          "sources": [
+            "https://baramato.eatbu.com/?lang=it"
+          ],
+          "description": "Caffetteria e bevande.",
+          "verification": "Pagina dell’attività con contatti e note legali."
+        },
+        {
+          "name": "Pasticceria Diana",
+          "category": [
+            "dolci",
+            "gelati"
+          ],
+          "zone": "citta",
+          "address": "Piazza Generale Cascino 34",
+          "phone": null,
+          "whatsapp": null,
+          "website": null,
+          "sources": [
+            "https://www.cylex-italia.it/piazza-armerina/pasticceria-diana-8091357.html",
+            "https://www.tripadvisor.it/Restaurant_Review-g580232-d15651371-Reviews-Pasticceria_Diana-Piazza_Armerina_Province_of_Enna_Sicily.html"
+          ],
+          "description": "Pasticceria e gelateria in Piazza Generale Cascino.",
+          "verification": "Indirizzo e telefono0935682224 concordano su più elenchi; nessuna fonte propria individuata. Vecchio dominio pasticceriadiana.com indicato storico: non usarlo."
+        },
+        {
+          "name": "Disìu – Gelateria Naturale",
+          "category": [
+            "gelati",
+            "dolci"
+          ],
+          "zone": "centro",
+          "address": "Zona Santo Stefano / Piazza Umberto I",
+          "phone": null,
+          "whatsapp": null,
+          "website": null,
+          "sources": [
+            "https://www.tripadvisor.it/Restaurant_Review-g580232-d17520626-Reviews-Disiu_Gelateria_Naturale-Piazza_Armerina_Province_of_Enna_Sicily.html",
+            "https://restaurantguru.it/Disiu-Gelateria-Naturale-Piazza-Armerina"
+          ],
+          "description": "Gelateria nel centro storico.",
+          "verification": "TripAdvisorPiazzaUmbertoI10,RG/WazeViaSantoStefano: indirizzo generico. Numero3894858865 solo su terzi; Instagramsegnalato@disiugelaterianaturale, non direttamente verificato."
+        },
+        {
+          "name": "Pasticceria Torre del Gusto",
+          "category": [
+            "dolci",
+            "gelati"
+          ],
+          "zone": "citta",
+          "address": "Via Alessandro Manzoni 1",
+          "phone": null,
+          "whatsapp": null,
+          "website": null,
+          "sources": [
+            "https://piatti.menu/restaurants/piazza-armerina/pasticceria-torre-del-gusto",
+            "https://restaurantguru.it/Pasticceria-Torre-del-Gusto-Piazza-Armerina"
+          ],
+          "description": "Pasticceria e gelateria in via Manzoni.",
+          "verification": "Indirizzo concordante; telefono3345366113 solo fonte secondaria. Instagramtorredelgusto non verificato direttamente."
+        },
+        {
+          "name": "Memory Food",
+          "category": [
+            "snack",
+            "bar"
+          ],
+          "zone": "villa",
+          "address": "Area commerciale Villa Romana del Casale, SP90",
+          "phone": null,
+          "whatsapp": null,
+          "website": null,
+          "sources": [
+            "https://www.tripadvisor.com/Restaurant_Review-g580232-d27994228-Reviews-Memoryfood-Piazza_Armerina_Province_of_Enna_Sicily.html",
+            "https://restaurantguru.com/Memoryfood-Piazza-Armerina"
+          ],
+          "description": "Punto ristoro nell’area commerciale della Villa Romana del Casale.",
+          "verification": "ProfiloTripAdvisor dichiara gestione attività ma resta fonte terza; numero3500644160 omesso come richiesto. Usare GoogleMaps per contatti. NomeMemoryFood daFabio."
+        },
+        {
+          "name": "Siciliamo cafè food & beverage",
+          "category": [
+            "bar",
+            "snack"
+          ],
+          "zone": "villa",
+          "address": "Villa Romana del Casale, SP90",
+          "phone": null,
+          "whatsapp": null,
+          "website": null,
+          "sources": [
+            "https://restaurantguru.it/Siciliamo-cafe-food-and-beverage-Piazza-Armerina",
+            "https://www.tripadvisor.it/Restaurant_Review-g580232-d34551861-Reviews-Siciliamo_cafe-Piazza_Armerina_Province_of_Enna_Sicily.html"
+          ],
+          "description": "Bar e ristoro nella zona della Villa Romana del Casale.",
+          "verification": "Fonti secondarie concordano zona; telefoni contrastanti3296273569/3805145635: non pubblicare."
+        },
+        {
+          "name": "The Twins",
+          "category": [
+            "bar",
+            "snack"
+          ],
+          "zone": "citta",
+          "address": "Piazza Senatore Marescalchi",
+          "phone": null,
+          "whatsapp": null,
+          "website": null,
+          "sources": [
+            "https://www.eventbrite.it/e/fratelli-ditalia-show-tickets-2003700418891",
+            "https://www.tripadvisor.it/Restaurant_Review-g580232-d33263590-Reviews-The_Twins-Piazza_Armerina_Province_of_Enna_Sicily.html"
+          ],
+          "description": "Caffetteria e pub in Piazza Marescalchi.",
+          "verification": "RicercaEvento pubblicato daTheTwins indica esplicitamenteWhatsApp/telefono3895376683 e3895376560,Instagram@thetwinsgn; apertura originale429 quindi contatti omessi."
+        },
+        {
+          "name": "Mirus Caffè Snack-Bar",
+          "category": [
+            "bar",
+            "dolci",
+            "gelati",
+            "snack"
+          ],
+          "zone": "citta",
+          "address": "Viale Generale Ciancio 8",
+          "phone": null,
+          "whatsapp": null,
+          "website": null,
+          "sources": [
+            "https://www.piazzaarmerina.org/programma-il-viaggio/dove-mangiare/mirus"
+          ],
+          "description": "Bar con gelati, granite, pasticceria e tavola calda.",
+          "verification": "Portale turistico confermaindirizzo e0935682090, collegaFacebook. Non fonte propria. Esiste diversoMirusCaffè inPiazzaCascino33: non fonderli."
+        },
+        {
+          "name": "Caffè del Centro",
+          "category": [
+            "bar",
+            "snack"
+          ],
+          "zone": "centro",
+          "address": "Zona Piazza Garibaldi / Via Guglielmo Marconi",
+          "phone": null,
+          "whatsapp": null,
+          "website": null,
+          "sources": [
+            "https://www.tripadvisor.it/Restaurant_Review-g580232-d12686238-Reviews-Caffe_del_Centro-Piazza_Armerina_Province_of_Enna_Sicily.html",
+            "https://www.villaromanadelcasale.it/wp-content/uploads/2025/06/Kibernetes_DETERMINA-n101-IMPEGNO_Manuella-2.doc_signed-1.pdf"
+          ],
+          "description": "Caffetteria del centro storico.",
+          "verification": "TripAdvisorViaMarconi2 e0935686577; documentoRegionale sedePiazzaGaribaldi1. Civico e telefono omessi."
+        },
+        {
+          "name": "Da Ivan Bar",
+          "category": [
+            "bar"
+          ],
+          "zone": "citta",
+          "address": "Via Leonardo da Vinci 1",
+          "phone": null,
+          "whatsapp": null,
+          "website": null,
+          "sources": [
+            "https://www.reteimprese.it/bar-caffetterie/piazza-armerina"
+          ],
+          "description": "Bar in via Leonardo da Vinci.",
+          "verification": "Scoperta da elenco; telefono3206897909 non confermato da fonte propria."
+        },
+        {
+          "name": "Sweet Bar",
+          "category": [
+            "bar"
+          ],
+          "zone": "citta",
+          "address": "Viale della Libertà 124",
+          "phone": null,
+          "whatsapp": null,
+          "website": null,
+          "sources": [
+            "https://www.reteimprese.it/bar-caffetterie/piazza-armerina"
+          ],
+          "description": "Bar in viale della Libertà.",
+          "verification": "Scoperta da elenco; telefono3338007918 non confermato da fonte propria."
+        },
+        {
+          "name": "Bar Duomo",
+          "category": [
+            "bar"
+          ],
+          "zone": "centro",
+          "address": "Via Laura de Assoro 4",
+          "phone": null,
+          "whatsapp": null,
+          "website": null,
+          "sources": [
+            "https://www.reteimprese.it/bar-caffetterie/piazza-armerina"
+          ],
+          "description": "Bar nella zona del Duomo.",
+          "verification": "Scoperta da elenco; telefono0935686681 non confermato da fonte propria."
+        },
+        {
+          "name": "Crema & Cioccolato",
+          "category": [
+            "bar",
+            "gelati"
+          ],
+          "zone": "citta",
+          "address": "Piazza Giorgio Boris Giuliano 17",
+          "phone": null,
+          "whatsapp": null,
+          "website": null,
+          "sources": [
+            "https://www.reteimprese.it/bar-caffetterie/piazza-armerina"
+          ],
+          "description": "Caffetteria e gelateria in Piazza Boris Giuliano.",
+          "verification": "Scoperta da elenco; contatti propri non individuati."
+        }
+      ],
+      "notes": [
+        "Camamerino non individuato come attività distinta daMemoryFood: nonduplicare.",
+        "Non verificati quattro nomi distinti dei barareaVilla: trovatiMemoryFood,Siciliamo,Imperial(altroagente).",
+        "Foto ufficiali sono candidati, non licenze di riuso accertate; non usare automaticamenteTripAdvisor/RG/Google."
+      ]
+    }
+  }
+]
