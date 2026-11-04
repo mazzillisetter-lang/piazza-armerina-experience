@@ -1,0 +1,164 @@
+{
+  "checkedAt": "2026-11-04",
+  "method": "Pagine originali aperte tramite ricerca web, fonti primarie Regione Siciliana ORBS, Visit Sicily e Rocca di Cerere UNESCO Global Geopark. Nessuna conferma di percorribilità in tempo reale.",
+  "proposals": [
+    {
+      "id": "rossomanno",
+      "name": "Riserva Rossomanno–Grottascura–Bellia",
+      "area": "Enna, Aidone e Piazza Armerina",
+      "kind": "Bosco e paesaggio",
+      "description": "Altipiani sabbiosi, conifere, eucalipti e tracce dell’antico querceto nella parte centro-meridionale degli Erei.",
+      "facts": [
+        "Riserva naturale orientata di 2.011,45 ettari nei comuni di Aidone, Enna e Piazza Armerina.",
+        "Gestore indicato: Dipartimento dello Sviluppo Rurale e Territoriale.",
+        "Alture generalmente intorno agli 800 metri: questo dato descrive il territorio, non il dislivello di un sentiero."
+      ],
+      "routeMetrics": null,
+      "source": "https://orbs.regione.sicilia.it/aree-protette/riserve-naturali-siciliane/135-riserva-naturale-rossomanno-grottascura-bellia.html",
+      "accessNote": "Non sono confermati apertura, stato dei sentieri, parcheggi o accessibilità. La pagina regionale contiene numeri discordanti del decreto istitutivo: non riprodurli."
+    },
+    {
+      "id": "pietre-incantate",
+      "name": "Pietre incantate / Pupi ballerini",
+      "area": "Riserva Rossomanno, nei pressi del Parco Ronza",
+      "kind": "Geologia e passeggiata",
+      "description": "Sculture naturali di pietra nate dall’erosione: le forme che la fantasia popolare ha trasformato in danzatori pietrificati.",
+      "facts": [
+        "Formazioni nei pressi del Parco Ronza.",
+        "Origine geologica distinta esplicitamente dalla leggenda popolare."
+      ],
+      "routeMetrics": null,
+      "source": "https://www.roccadicereregeopark.it/riserva-naturale-rossomanno-grottascura-bellia/",
+      "otherSources": [
+        "https://orbs.regione.sicilia.it/aree-protette/riserve-naturali-siciliane/135-riserva-naturale-rossomanno-grottascura-bellia.html"
+      ],
+      "accessNote": "Nessuna distanza o durata a piedi convalidata. Non attribuire a questo luogo gli orari 9–14 del footer del Geopark: sono gli orari dell’ufficio, non della riserva."
+    },
+    {
+      "id": "ronza",
+      "name": "Parco Ronza",
+      "area": "Riserva Rossomanno–Grottascura–Bellia",
+      "kind": "Sosta nel verde",
+      "description": "Una tappa nel bosco che il portale turistico regionale descrive come area verde attrezzata per picnic e punto di partenza dell’ippovia.",
+      "facts": [
+        "Il Geopark conferma che il Parco Ronza ricade nella riserva.",
+        "Visit Sicily lo descrive come area verde attrezzata per picnic."
+      ],
+      "routeMetrics": null,
+      "source": "https://www.visitsicily.info/itinerario/ippovia-sui-monti-erei/",
+      "otherSources": [
+        "https://www.roccadicereregeopark.it/riserva-naturale-rossomanno-grottascura-bellia/"
+      ],
+      "accessNote": "Servizi, tavoli, bagni, fauna nei recinti e possibilità di accendere fuochi non verificati per oggi. Non copiare conteggi o promesse di assenza barriere da fonti storiche o secondarie."
+    },
+    {
+      "id": "altesina",
+      "name": "Monte Altesina",
+      "area": "Leonforte e Nicosia",
+      "kind": "Bosco e panorami",
+      "description": "La vetta più alta degli Erei, con una lecceta che sale verso la cima: una proposta per chi cerca paesaggio e osservazioni naturalistiche.",
+      "facts": [
+        "Riserva di 744 ettari nei territori di Leonforte e Nicosia.",
+        "Cima principale 1.192 m sul livello del mare; seconda cima 1.180 m.",
+        "La quota della vetta non è il dislivello del percorso."
+      ],
+      "routeMetrics": null,
+      "source": "https://orbs.regione.sicilia.it/aree-protette/riserve-naturali-siciliane/156-riserva-naturale-monte-altesina.html",
+      "otherSources": [
+        "https://www.roccadicereregeopark.it/monte-altesina/",
+        "https://www.parks.it/riserva.monte.altesina/"
+      ],
+      "accessNote": "Da presentare come escursione nei dintorni, non dentro Piazza Armerina. Lunghezze, difficoltà e tempi di salita non convalidati; nessuna apertura o percorribilità attuale confermata."
+    },
+    {
+      "id": "pergusa",
+      "name": "Lago di Pergusa",
+      "area": "Enna",
+      "kind": "Lago e birdwatching",
+      "description": "Un ambiente lacustre tra le alture degli Erei, importante per la sosta e il passaggio degli uccelli migratori.",
+      "facts": [
+        "Riserva naturale speciale nel comune di Enna, gestita dal Libero Consorzio Comunale di Enna.",
+        "Lago di origine tettonica, senza immissari ed emissari.",
+        "Il livello dell’acqua dipende da piogge ed evaporazione."
+      ],
+      "routeMetrics": null,
+      "source": "https://orbs.regione.sicilia.it/aree-protette/riserve-naturali-siciliane/213-riserva-naturale-lago-di-pergusa.html",
+      "otherSources": [
+        "https://www.comune.enna.it/vivere-enna/luoghi/--Parco-e-giardino/it/21/Lago-di-Pergusa"
+      ],
+      "accessNote": "Non promettere acqua o avvistamenti; nessun giro completo percorribile verificato. Il perimetro del bacino di 4,5 km NON è un itinerario escursionistico misurato. Non dichiarare balneabilità, accessibilità o orari."
+    },
+    {
+      "id": "floristella",
+      "name": "Parco Minerario Floristella–Grottacalda",
+      "area": "Tra Enna, Aidone, Piazza Armerina e Valguarnera",
+      "kind": "Paesaggio e archeologia industriale",
+      "description": "Un paesaggio minerario dove pozzi, forni dello zolfo e Palazzo Pennisi raccontano il lavoro e la trasformazione del territorio.",
+      "facts": [
+        "Il sito dell’ente descrive due nuclei di visita: pozzi e Palazzo Pennisi, e un’area più estesa verso contrada Gallizzi.",
+        "La guida-mappa ufficiale elenca 17 punti di interesse e i percorsi di visita."
+      ],
+      "routeMetrics": null,
+      "source": "https://enteparcofloristella.it/guida/",
+      "mapUrl": "https://enteparcofloristella.it/wp-content/uploads/2026/01/guida_mappa_A3-CORRETTA.pdf",
+      "accessNote": "La mappa ufficiale riporta lun–sab non festivi 8–14 e gradita prenotazione, ma non è stata verificata una conferma operativa attuale: meglio collegare Prenotazioni e chiedere conferma. Non promettere accesso ipogeo o ai vulcanelli."
+    }
+  ],
+  "sharedContact": {
+    "organization": "Rocca di Cerere UNESCO Global Geopark",
+    "phone": "+390935504717",
+    "email": "info@roccadicerere.eu",
+    "source": "https://www.roccadicereregeopark.it/riserva-naturale-rossomanno-grottascura-bellia/",
+    "note": "Contatto del Geopark, non pronto intervento né gestore esclusivo di ogni riserva. Orario footer 9–14 lun–ven riferito ufficio."
+  },
+  "extraPublication": "https://www.roccadicereregeopark.it/wp-content/uploads/2024/07/Nature-Trail-Guide.pdf",
+  "suggestedUI": "Separare luoghi e proposte di viaggio da percorsi misurati. Per ogni card: descrizione, area, fonte ufficiale, mappa come ricerca del luogo (non navigazione garantita). Nessun badge facile/famiglie/accessibile senza specifica verifica. Aperture e condizioni da verificare presso gestore prima della partenza.",
+  "itineraries": [
+    {
+      "id": "ippovia",
+      "name": "Ippovia sui Monti Erei",
+      "area": "Parco Ronza → Montagna di Marzo → Lago Olivo",
+      "kind": "A cavallo, con organizzazione dedicata",
+      "description": "La proposta di Visit Sicily attraversa la riserva, raggiunge la Montagna di Marzo e si conclude verso il Lago Olivo.",
+      "facts": [
+        "Visit Sicily indica circa 25 km per la passeggiata a cavallo e difficoltà tecnica medio-bassa.",
+        "Dati riferiti alla proposta equestre pubblicata: non a un anello pedonale o a una traccia GPX verificata.",
+        "Il Lago Olivo è artificiale."
+      ],
+      "routeMetrics": {
+        "distance": "circa 25 km",
+        "difficulty": "medio-bassa, secondo Visit Sicily e riferita al percorso equestre",
+        "duration": null,
+        "elevationGain": null
+      },
+      "source": "https://www.visitsicily.info/itinerario/ippovia-sui-monti-erei/",
+      "accessNote": "Il testo indica tratte di 15 e 7 km pur parlando di circa 25 km complessivi: non ricostruire un totale preciso o un itinerario navigabile. Servono organizzatore e conferma locale; non inventare noleggio cavalli o contatto."
+    },
+    {
+      "id": "cammino-san-giacomo",
+      "name": "Cammino di San Giacomo in Sicilia",
+      "area": "Caltagirone → Piazza Armerina → Capizzi",
+      "kind": "Cammino a tappe",
+      "description": "Un cammino tra paesaggi rurali, boschi e comunità dell’entroterra. Piazza Armerina è una tappa del viaggio che unisce Caltagirone a Capizzi.",
+      "facts": [
+        "Visit Sicily indica circa 130 km e sei tappe modulabili.",
+        "La tappa da Piazza Armerina attraversa la riserva Rossomanno–Grottascura–Bellia.",
+        "Visit Sicily presenta Piazza Armerina–Valguarnera con variante Aidone, mentre l’organizzatore titola Piazza Armerina–Aidone–Valguarnera. Nessuna unica traccia canonica da imporre."
+      ],
+      "routeMetrics": {
+        "distance": "circa 130 km complessivi, non la tappa locale",
+        "stages": "6 modulabili secondo le fonti",
+        "duration": null,
+        "elevationGain": null
+      },
+      "source": "https://www.visitsicily.info/itinerario/cammino-di-san-giacomo-in-sicilia/",
+      "organizerUrl": "https://www.camminosangiacomosicilia.it/le-tappe-del-cammino-di-san-giacomo-sicilia/",
+      "contact": {
+        "email": "camminosangiacomosicilia@gmail.com",
+        "whatsapp": "https://wa.me/393664476915",
+        "phone": "+393283611596"
+      },
+      "accessNote": "Organizzatore fornisce supporto e tracce GPX; collegare sito per itinerario aggiornato. L’accessibilità è descritta come progetto futuro e non come servizio completato. Non garantire pernottamento nella chiesa o disponibilità di posti."
+    }
+  ]
+}

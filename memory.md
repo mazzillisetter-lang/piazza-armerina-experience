@@ -87,3 +87,7 @@ Fabio richiede ricerca ampia dei locali di Piazza Armerina, layout funzionale re
 
 ## Dove dormire — 04/11/2026
 Fabio chiede di proseguire con ricerca e sezione Dove dormire. Raccolte 41 strutture con fonti: hotel, B&B, camere/dimore, case/appartamenti e strutture rurali. Ventotto telefoni da pagine delle attività, quattro WhatsApp espliciti, quattordici link a disponibilità/richiesta/prenotazione senza prezzi o disponibilità inventati. Ricerca, filtri tipo/zona, caricamento progressivo e collegamenti da home/menu. Foto reale notturna Stefano Li Moli CC BY-SA 3.0, intera, ritocco CSS lieve; non foto delle camere. Fonti e limiti in docs/dove-dormire.md e stay-research.json. Build e pubblicazione da verificare sul commit finale.
+
+
+## Natura e itinerari — 04/11/2026
+Fabio richiede paesaggi, sentieri e itinerari degli Erei con fotografie curate. Implementata /natura-e-itinerari con quattro foto reali Commons CC BY-SA 4.0, filtri tra tre paesaggi (Rossomanno/Pietre/Ronza, Altesina, Pergusa), tre proposte (San Giacomo, ippovia, Floristella), fonti e contatti documentati. Collegamenti da home e menu Itinerari. Foto intere con lievi filtri CSS e crediti; nessuna ricostruzione. Dati operativi non verificati non promessi, foto Pergusa datata 2019. Build riuscita, browser locale quattro foto caricate, filtri 3→1→3, iframe 320/390/768/1280 senza overflow. Pubblicazione da verificare sul commit finale. Dettagli in docs/natura-e-itinerari.md e nature-research.json.

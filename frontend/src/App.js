@@ -18,6 +18,7 @@ import CentroStorico from "@/pages/CentroStorico";
 import PalioNormanni from "@/pages/PalioNormanni";
 import DoveMangiare from "@/pages/DoveMangiare";
 import DoveDormire from "@/pages/DoveDormire";
+import NaturaItinerari from "@/pages/NaturaItinerari";
 
 const initialLang = () => {
   const saved = localStorage.getItem("pa-lang");
@@ -47,6 +48,7 @@ const Shell = ({ lang, setLang, t }) => {
         <Route path="/palio-dei-normanni" element={<PalioNormanni lang={lang} />} />
         <Route path="/dove-mangiare" element={<DoveMangiare lang={lang} />} />
         <Route path="/dove-dormire" element={<DoveDormire lang={lang} />} />
+        <Route path="/natura-e-itinerari" element={<NaturaItinerari lang={lang} />} />
         <Route path="*" element={<Home t={t} />} />
       </Routes>
       <Footer t={t} />

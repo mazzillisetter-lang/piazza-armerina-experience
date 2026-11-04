@@ -1,0 +1,94 @@
+[
+  {
+    "id": "rossomanno",
+    "file": "rossomanno.webp",
+    "original": "rossomanno-original.jpg",
+    "subject": "Pietre incantate nella riserva Rossomanno-Grottascura-Bellia",
+    "title": "Pietre incantate 04.jpg",
+    "author": "Davide Mauro",
+    "date": "2015-06-16",
+    "source": "https://commons.wikimedia.org/wiki/File:Pietre_incantate_04.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Pietre_incantate_04.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalSize": [
+      4272,
+      2848
+    ],
+    "width": 1600,
+    "height": 1067,
+    "bytes": 604044,
+    "changes": "Ridimensionamento proporzionale e conversione WebP; nessun ritaglio o ricostruzione. Regolazione CSS suggerita separata.",
+    "suggestedCssFilter": "brightness(1.06) contrast(1.04) saturate(1.04)",
+    "visuallyInspected": true
+  },
+  {
+    "id": "altesina",
+    "file": "altesina.webp",
+    "original": "altesina-original.jpg",
+    "subject": "Monte Altesina visto da Calascibetta",
+    "title": "Monte Altesina.jpg",
+    "author": "Davide Mauro",
+    "date": "2016-04-10",
+    "source": "https://commons.wikimedia.org/wiki/File:Monte_Altesina.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Monte_Altesina.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalSize": [
+      4272,
+      2848
+    ],
+    "width": 1600,
+    "height": 1067,
+    "bytes": 159682,
+    "changes": "Ridimensionamento proporzionale e conversione WebP; nessun ritaglio o ricostruzione. Regolazione CSS suggerita separata.",
+    "suggestedCssFilter": "brightness(1.05) contrast(1.05) saturate(1.06)",
+    "visuallyInspected": true
+  },
+  {
+    "id": "altesina-bosco",
+    "file": "altesina-bosco.webp",
+    "original": "altesina-bosco-original.jpg",
+    "subject": "Pascolo ai piedi del Monte Altesina",
+    "title": "Riserva Orientata Monte Altesina.jpg",
+    "author": "Vincenzo Capasso",
+    "date": "2019-06-29",
+    "source": "https://commons.wikimedia.org/wiki/File:Riserva_Orientata_Monte_Altesina.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Riserva_Orientata_Monte_Altesina.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalSize": [
+      4288,
+      2848
+    ],
+    "width": 1600,
+    "height": 1063,
+    "bytes": 286378,
+    "changes": "Ridimensionamento proporzionale e conversione WebP; nessun ritaglio o ricostruzione. Regolazione CSS suggerita separata.",
+    "suggestedCssFilter": "brightness(1.12) contrast(1.02) saturate(1.03)",
+    "visuallyInspected": true
+  },
+  {
+    "id": "pergusa",
+    "file": "pergusa.webp",
+    "original": "pergusa-original.jpg",
+    "subject": "Tramonto sul lago di Pergusa",
+    "title": "Il tramonto sul lago Mitologico di Pergusa.jpg",
+    "author": "Achille Drago",
+    "date": "2019-06-16",
+    "source": "https://commons.wikimedia.org/wiki/File:Il_tramonto_sul_lago_Mitologico_di_Pergusa.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Il_tramonto_sul_lago_Mitologico_di_Pergusa.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalSize": [
+      1439,
+      602
+    ],
+    "width": 1439,
+    "height": 602,
+    "bytes": 100880,
+    "changes": "Ridimensionamento proporzionale e conversione WebP; nessun ritaglio o ricostruzione. Regolazione CSS suggerita separata.",
+    "suggestedCssFilter": "brightness(1.03) contrast(1.04) saturate(1.04)",
+    "visuallyInspected": true
+  }
+]
