@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-04T18:43:14Z",
+  "verifiedAt": "2026-11-04",
+  "summary": "Nelle fonti comunali consultate non sono stati individuati nuovi appuntamenti futuri confermati. La sezione Vivere il Comune non mostra eventi in programma; i programmi delle edizioni passate non vengono riproposti come attuali.",
+  "sources": [
+    {
+      "label": "Comune · Calendario eventi",
+      "url": "https://www.comune.piazzaarmerina.en.it/EG0/EGSCHTST38.HBL?MESSA=PUBBLICA&en=e1051"
+    },
+    {
+      "label": "Comune · Notizie e comunicati",
+      "url": "https://www.comune.piazzaarmerina.en.it/EG0/EGSCHTST6.HBL?MESSA=PUBBLICA&en=e1051"
+    },
+    {
+      "label": "Comune · Ordinanze",
+      "url": "https://servizi.comune.piazzaarmerina.en.it/zf/index.php/atti-amministrativi/ordinanze/index"
+    }
+  ],
+  "events": []
+}

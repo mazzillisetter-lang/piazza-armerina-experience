@@ -1,0 +1,119 @@
+{
+  "checkedAt": "2026-11-04",
+  "scope": "Eventi turistici/culturali futuri o in corso verificabili da fonti istituzionali; non è un censimento di ogni evento privato.",
+  "confirmedEvents": [],
+  "coverageStatus": "checked_limited",
+  "summary": "Nessun evento futuro turistico/culturale confermato con programma su fonte istituzionale durante questo controllo. Il calendario comunale ufficiale espone Nessun elemento presente. Questo non prova che non esistano eventi in città.",
+  "sources": [
+    {
+      "url": "https://www.comune.piazzaarmerina.en.it/",
+      "type": "official_home",
+      "read": true,
+      "finding": "Calendario eventi: Nessun evento presente. Notizie aggiornate al4novembre2026."
+    },
+    {
+      "url": "https://www.comune.piazzaarmerina.en.it/EG0/EGSCHTST38.HBL?MESSA=PUBBLICA&en=e1051",
+      "type": "official_events",
+      "read": true,
+      "finding": "Eventi: Nessun elemento presente. URL scoperto nel pulsante Tutti gli eventi della homepage."
+    },
+    {
+      "url": "https://www.comune.piazzaarmerina.en.it/EG0/EGSCHTST39.HBL?MESSA=PUBBLICA&en=e1051",
+      "type": "official_living",
+      "read": true,
+      "finding": "Vivere il comune: Nessun evento in programma."
+    },
+    {
+      "url": "https://www.comune.piazzaarmerina.en.it/EG0/EGSCHTST6.HBL?MESSA=PUBBLICA&en=e1051",
+      "type": "official_news",
+      "read": true,
+      "finding": "Prima pagina novità letta (6record4nov–28ott2026): notizie amministrative; nessun evento turistico futuro. Archivio ha7pagine: non è stata letta ogni pagina."
+    },
+    {
+      "url": "https://servizi.comune.piazzaarmerina.en.it/zf/index.php/atti-amministrativi/determine",
+      "type": "official_determinations",
+      "read": true,
+      "finding": "Elenco iniziale aggiornato4nov2026; nessuna conferma programma eventi nei record letti. Ricerca web mirata Barock2026/novembre/dicembre non ha restituito fonte programma."
+    },
+    {
+      "url": "https://servizi.comune.piazzaarmerina.en.it/zf/index.php/atti-amministrativi/ordinanze",
+      "type": "official_ordinances",
+      "read": true,
+      "finding": "Elenco iniziale: ultime ordinanze28ott2026 (limite30km/h),27ottlavoriBorisGiuliano e demolizioni. Nessun futuroevento confermato nei recordletti; non tutte le ordinanze storiche lette."
+    },
+    {
+      "url": "https://servizi.comune.piazzaarmerina.en.it/mc/mc_p_ricerca.php",
+      "type": "official_noticeboard",
+      "read": true,
+      "finding": "Elenco prima pagina letto, pubblicazioni3nov2026. Nessun evento confermato. Non eseguito censimento integrale archivio."
+    }
+  ],
+  "excludedOldEvents": [
+    {
+      "url": "https://www.comune.piazzaarmerina.en.it/vivere_il_comune/eventi/evento_33.html",
+      "title": "Summer Fest2026",
+      "start": "2026-08-01",
+      "end": "2026-09-05",
+      "reason": "Evento concluso: appuntamenti estivi non futuri."
+    },
+    {
+      "url": "https://www.comune.piazzaarmerina.en.it/vivere_il_comune/eventi/evento_14.html",
+      "title": "BarockFestival terzaedizione",
+      "start": "2025-04-25",
+      "end": "2025-06-02",
+      "reason": "Evento2025 concluso. Ultimoaggiornamento13ott2026NONcambia le dateevento."
+    },
+    {
+      "url": "https://www.comune.piazzaarmerina.en.it/novita/comunicati_stampa/novita_564.html",
+      "title": "ConsiglioComunale4novembre2026ore18",
+      "reason": "Sedutaamministrativa, non evento turistico/culturale; riferimentoSummerFestèinterrogazionesueventipassati."
+    }
+  ],
+  "pendingCandidates": [
+    {
+      "title": "BarockOff2026",
+      "institutionalEvidence": {
+        "url": "https://appalti.regionesiciliana.lavoripubblici.sicilia.it/gare/dettaglio.php?codice=6396",
+        "read": true,
+        "finding": "Gara#6102 IDP124/2026 BAROCK ARTE,MEMORIA EIDENTITASICILIANA: pubblicazione14ott2026, aggiudicazioneGeorgiaLoFaroEventi. EntrambiPDFverbali19ott letti. Confermaappalto/progetto, NONcalendario/date/luoghi degli appuntamenti."
+      },
+      "pressLeads": [
+        "https://www.blogsicilia.it/comunicati-stampa/piazza-armerina-nasce-barock-off-10-giornate-tra-musica-arte-e-territorio/1314930/",
+        "https://www.start-news.it/2026/10/15/piazza-armerina-barock-off-dieci-giornate-tra-musica-e-arte-il-programma/"
+      ],
+      "pressClaimsOnly": [
+        "13–15novembre2026BarockMeetsMalta",
+        "18dicembrePaoloBuonvino",
+        "19dicembreUmbertoPorcaro",
+        "27dicembreSonik",
+        "28dicembreGaribaldiRockStreet"
+      ],
+      "decision": "Non pubblicare come confermato finché non è disponibile programma originale da istituzione o organizzatore autentico, con data/luogo verificati."
+    }
+  ],
+  "feedDiscovery": {
+    "found": false,
+    "rss": null,
+    "ics": null,
+    "api": null,
+    "evidence": "IspezionatoHTMLhomepage eheader pubblico: nessunlinkrelalternate RSS/Atom, linkICS oAPIeventi emerso. RicerchewebRSS/icalsuComunenonhannofornitofeed. Nonsono statiinventati/provatiendpointipotetici.",
+    "limitation": "Nonèdimostratainesistenzaassolutadifeed, soltantonon individuato tra esposizioniletturepubbliche."
+  },
+  "blocks": [
+    {
+      "url": "https://www.comune.piazzaarmerina.en.it/vivere_il_comune/eventi/",
+      "finding": "AperturawebtoolInternalError. AccessodirettoHTTP200 restituisce stessoHTML71263byte ecanonicalhome: percorso directorynonècatalogoeventiaffidabile. UsareURLHBLscopertonelpulsantedellahome."
+    }
+  ],
+  "recommendedState": "Mostrare Nessun nuovoappuntamento verificatodallefonticonsultate, non Nessuneventoincittà. Controlloquotidiano develeggereoriginaliallegatiepreservaredatiseblocco/ambiguità; nessundato inventato.",
+  "organizerFollowup": {
+    "allowedSources": "Fonti originali dell’organizzatore autentico ammissibili oltre alle istituzioni.",
+    "identityVerified": {
+      "name": "Georgia Lo Faro Eventi",
+      "website": "https://www.georgialofaroeventi.it/",
+      "evidence": "Sito espone CF LFRGRG85E69F892F coerente con aggiudicatario nella gara Regione e biografia direttrice BaRock dal2023."
+    },
+    "result": "Homepage e sezione Eventi/Ufficio stampa lette: nessun programma BarockOff2026 trovato; collegamento Eventi ritorna stessa homepage. https://barockfestival.com/ aperto, contenuto estraibile soltanto Barock Festival Online Booking. Nessuna data futura originale confermata.",
+    "otherLeads": "Stampa2025 indica barockfestival.com e Instagrambarock.festival; prova identità sito non sostituisce programma2026. Nessun social originale verificato in questo controllo."
+  }
+}
