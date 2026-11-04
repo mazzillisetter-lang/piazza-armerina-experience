@@ -94,3 +94,6 @@ Stato03/11/2026: commitvideo956c94c50350cd985e7e2c6b208848ad4c2e4eb4 + correzion
 - Nuova pagina conDuomo ePalazzoTrigona, tre fotografie reali con attribuzione, descrizioni brevi e dettagli da cercare.
 - Passeggiata suggerita con quattro tappe; approfondimentiFundrò,PalazzoCittà,SanGiovanni eTeatini e fonti collegate.
 - Collegamenti attivi da home eDopoVilla; collaudo browser320–1280px e build riusciti.
+
+## Panoramica Centro storico — 04/11/2026
+Sostituita sola foto introduttiva con veduta notturna fornita daFabio; proporzioni1050x749, ingrandimento e filigrana conservati. Credito separato dalle fotoCommons.

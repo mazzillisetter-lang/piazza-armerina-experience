@@ -9,7 +9,7 @@ const Photo = ({ photo, eager = false }) => (
     <a href={photo.src} target="_blank" rel="noreferrer" aria-label={`Ingrandisci: ${photo.alt}`} className="block border border-[var(--gold)]/30 bg-[#17100b] focus-visible:outline focus-visible:outline-2 focus-visible:outline-[var(--gold)]">
       <img src={photo.src} alt={photo.alt} width={photo.width} height={photo.height} loading={eager ? "eager" : "lazy"} className="block h-auto w-full" />
     </a>
-    <figcaption className="mt-3 font-body text-sm leading-relaxed text-[var(--cream-dim)]"><a className="underline underline-offset-2" href={photo.source} target="_blank" rel="noreferrer">{photo.author}</a> · <a className="underline underline-offset-2" href={photo.licenseUrl} target="_blank" rel="noreferrer">{photo.license}</a> · {photo.date} · Tocca per ingrandire</figcaption>
+    <figcaption className="mt-3 font-body text-sm leading-relaxed text-[var(--cream-dim)]">{photo.credit ? photo.credit : <><a className="underline underline-offset-2" href={photo.source} target="_blank" rel="noreferrer">{photo.author}</a> · <a className="underline underline-offset-2" href={photo.licenseUrl} target="_blank" rel="noreferrer">{photo.license}</a> · {photo.date}</>} · Tocca per ingrandire</figcaption>
   </figure>
 );
 

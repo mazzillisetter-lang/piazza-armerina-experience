@@ -59,3 +59,6 @@ Usare la nuova foto del mattino fornita da Fabio per Come arrivare: cartelloVill
 
 ## Centro storico — 04/11/2026
 Fabio richiede testi brevi e documentati perDuomo ePalazzoTrigona, foto reali curate e organizzazione di vicoli/chiese/palazzi. Implementata pagina/centro-storico nello stile nero/oro, due schede principali, quattro tappe suggerite e dettagliFundrò/PalazzoCittà/SanGiovanni/Teatini. FotoCommons con crediti/licenze/date e ingrandimento, nessun ritocco o ricostruzione. Fonti e scelte in docs/centro-storico.md. Non confondere una proposta editoriale di passeggiata con un percorso misurato/accessibile garantito.
+
+## Panoramica Centro storico — 04/11/2026
+Fabio sceglie la veduta notturna fornita1483588_gd.jpg al posto della panoramica iniziale, per differenziarla dalla home. Originale integrale, filigrana conservata; home e schedeDuomo/Trigona invariate.

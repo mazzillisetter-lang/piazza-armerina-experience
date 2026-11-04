@@ -21,3 +21,6 @@ Fotografie reali reperite su Wikimedia Commons il4novembre2026. File scaricati n
 - Versione scaricata1280x826,318895byte. Ridimensionamento effettuato daCommons; nessuna ulteriore modifica.
 
 La foto interna2025con watermark valutata durante la ricerca non è stata scelta. Asset della home preservati.
+
+## centro-storico-notturna.jpg — sostituzione introduzione
+File1483588_gd.jpg fornito daFabio il4novembre2026 per sostituire soltanto la panoramica delCentro storico. Originale1050x749 conservato byte per byte, filigrana park4night.com visibile. Autore, data scatto e licenza non comunicati: nessuna attribuzione Commons o licenza inventata. Foto precedente conservata come asset storico. Home e foto delle singole schede invariate.

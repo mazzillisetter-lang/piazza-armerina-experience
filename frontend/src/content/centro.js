@@ -11,7 +11,7 @@ export const CENTRO_SOURCES = {
 };
 
 export const CENTRO_PHOTOS = {
-  square: { src: "/img/centro/piazza-cattedrale-ludvig14.jpg", width: 1280, height: 853, alt: "Veduta serale di Piazza Cattedrale con il Duomo, Palazzo Trigona e i tetti del centro storico", author: "Ludvig14", license: "CC BY-SA 4.0", licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/", source: "https://commons.wikimedia.org/wiki/File:Piazza_Armerina_Cathedral_0802.jpg", date: "2020" },
+  square: { src: "/img/centro/centro-storico-notturna.jpg", width: 1050, height: 749, alt: "Veduta notturna del centro storico di Piazza Armerina con il Duomo illuminato sopra le case", credit: "Foto fornita per il sito · Filigrana: park4night.com" },
   cathedral: { src: "/img/centro/duomo-pelagalli.jpg", width: 1280, height: 891, alt: "Facciata completa del Duomo di Piazza Armerina, campanile e monumento a Marco Trigona nella piazza", author: "Carlo Pelagalli", license: "CC BY-SA 3.0", licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/", source: "https://commons.wikimedia.org/wiki/File:Piazza_Armerina,_La_Cattedrale_-_panoramio.jpg", date: "2013" },
   palace: { src: "/img/centro/palazzo-trigona-pelagalli.jpg", width: 1280, height: 826, alt: "Facciata intera di Palazzo Trigona con portale centrale e balconi affacciati su Piazza Cattedrale", author: "Carlo Pelagalli", license: "CC BY-SA 3.0", licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/", source: "https://commons.wikimedia.org/wiki/File:Piazza_Armerina,_Palazzo_Trigona_della_Floresta_e_di_San_Cono._Museo_della_citt%C3%A0_e_del_territorio_-_panoramio.jpg", date: "2013" },
 };
