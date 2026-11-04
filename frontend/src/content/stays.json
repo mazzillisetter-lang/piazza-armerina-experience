@@ -1,0 +1,730 @@
+{
+  "verifiedAt": "2026-11-04",
+  "places": [
+    {
+      "name": "Agriresort Villa Bentivoglio",
+      "zone": "campagna",
+      "address": "Contrada Vallone di Sarro snc, Piazza Armerina",
+      "phone": "+393388022110",
+      "website": "https://www.agriresortvillabentivoglio.com/",
+      "bookingUrl": null,
+      "whatsapp": null,
+      "description": "Agriresort con camere e appartamenti in una casa rurale della contrada Vallone di Sarro.",
+      "sources": [
+        "https://www.agriresortvillabentivoglio.com/",
+        "https://www.agriresortvillabentivoglio.com/contatti"
+      ],
+      "id": "agriresort-villa-bentivoglio",
+      "types": [
+        "agriturismo"
+      ]
+    },
+    {
+      "name": "Agriturismo Camemi",
+      "zone": "campagna",
+      "address": "Contrada Camemi, Piazza Armerina",
+      "phone": null,
+      "website": null,
+      "bookingUrl": null,
+      "whatsapp": null,
+      "description": "Agriturismo in un’antica masseria della contrada Camemi.",
+      "sources": [
+        "https://www.visitsicily.info/dove-dormire/?ofsearch=Camemi+Agriturismo",
+        "https://www.agriturismi.it/it/sicilia/piazza_armerina/agriturismo_camemi.html",
+        "https://www.booking.com/hotel/it/agriturismo-camemi-di-paternico-ettore-piazza-armerina-en.html"
+      ],
+      "id": "agriturismo-camemi",
+      "types": [
+        "agriturismo"
+      ]
+    },
+    {
+      "name": "Al Borghetto",
+      "zone": "centro",
+      "address": "Via Bruno Fratelli, 22, Piazza Armerina",
+      "phone": "+393293473980",
+      "website": "https://al-borghetto.com/",
+      "bookingUrl": "https://al-borghetto.com/prenota",
+      "whatsapp": null,
+      "description": "Mini appartamenti nel centro storico di Piazza Armerina.",
+      "sources": [
+        "https://al-borghetto.com/",
+        "https://al-borghetto.com/contattaci",
+        "https://al-borghetto.com/prenota"
+      ],
+      "id": "al-borghetto",
+      "types": [
+        "casa"
+      ]
+    },
+    {
+      "name": "Al Campanile",
+      "zone": "citta",
+      "address": "Via Garao, 11, Piazza Armerina",
+      "phone": null,
+      "website": null,
+      "bookingUrl": "https://www.booking.com/hotel/it/al-campanile-piazza-armerina.it.html",
+      "whatsapp": null,
+      "description": "Appartamento in via Garao, a Piazza Armerina.",
+      "sources": [
+        "https://www.booking.com/hotel/it/al-campanile-piazza-armerina.it.html",
+        "https://en.planetofhotels.com/italy/piazza-armerina/al-campanile"
+      ],
+      "id": "al-campanile",
+      "types": [
+        "casa"
+      ]
+    },
+    {
+      "name": "Antichi Quartieri",
+      "zone": "centro",
+      "address": "Via Cavour, Piazza Armerina",
+      "phone": "+393463651985",
+      "website": "https://www.antichiquartieri.com/",
+      "bookingUrl": null,
+      "whatsapp": null,
+      "description": "Camere nel centro storico, nei pressi della Cattedrale.",
+      "sources": [
+        "https://www.antichiquartieri.com/",
+        "https://www.tuttiaffari.com/b-b-antichi-quartieri-329-425-7564",
+        "https://etic.travelnostop.com/aziende_comune.php?comune=086014&lang=it&tipologia=79"
+      ],
+      "id": "antichi-quartieri",
+      "types": [
+        "camere"
+      ]
+    },
+    {
+      "name": "Apartment Casa del Jazz – Historical Center",
+      "zone": "centro",
+      "address": "Largo Salvatore, 2, Piazza Armerina",
+      "phone": null,
+      "website": null,
+      "bookingUrl": "https://www.booking.com/hotel/it/mazzini-piazza-armerina.it.html",
+      "whatsapp": null,
+      "description": "Appartamenti in largo Salvatore, nel centro storico di Piazza Armerina.",
+      "sources": [
+        "https://www.booking.com/hotel/it/mazzini-piazza-armerina.it.html",
+        "https://www.agoda.com/it-it/casa-del-jazz-historical-center/hotel/piazza-armerina-it.html"
+      ],
+      "id": "apartment-casa-del-jazz-historical-center",
+      "types": [
+        "casa"
+      ]
+    },
+    {
+      "name": "Ariston Suite",
+      "zone": "citta",
+      "address": "Piazza Generale Cascino 44, Piazza Armerina",
+      "phone": "+390935683664",
+      "website": "https://www.aristonsuite.it/",
+      "bookingUrl": null,
+      "whatsapp": null,
+      "description": "Rooms & Breakfast in Piazza Generale Cascino, nell’edificio ristrutturato dell’ex Cinema Ariston.",
+      "sources": [
+        "https://www.aristonsuite.it/"
+      ],
+      "id": "ariston-suite",
+      "types": [
+        "camere"
+      ]
+    },
+    {
+      "name": "B&B Baobab",
+      "zone": "centro",
+      "address": "Via Sant’Antonio 16, Piazza Armerina",
+      "phone": "+393714802951",
+      "website": "https://www.bb-baobab.it/",
+      "bookingUrl": null,
+      "whatsapp": null,
+      "description": "B&B in una traversa di Via Roma, nel centro storico.",
+      "sources": [
+        "https://www.bb-baobab.it/"
+      ],
+      "id": "b-b-baobab",
+      "types": [
+        "bb"
+      ]
+    },
+    {
+      "name": "B&B Dàmur",
+      "zone": "centro",
+      "address": "Via Roma 45, Piazza Armerina",
+      "phone": null,
+      "website": null,
+      "bookingUrl": null,
+      "whatsapp": null,
+      "description": "B&B in Via Roma, nel centro storico di Piazza Armerina.",
+      "sources": [
+        "https://www.trivago.it/it/oar/bed-breakfast-b-b-d%C3%A0mur-piazza-armerina?search=100-41551574",
+        "https://etic.travelnostop.com/aziende_comune.php?comune=086014&lang=it&tipologia=79"
+      ],
+      "id": "b-b-damur",
+      "types": [
+        "bb"
+      ]
+    },
+    {
+      "name": "B&B Giardino delle Zagare",
+      "zone": "centro",
+      "address": "Via Favara 11, Piazza Armerina",
+      "phone": "+393479237289",
+      "website": "https://www.giardinodellezagare.com/",
+      "bookingUrl": null,
+      "whatsapp": null,
+      "description": "B&B del centro storico con giardino privato.",
+      "sources": [
+        "https://www.giardinodellezagare.com/"
+      ],
+      "id": "b-b-giardino-delle-zagare",
+      "types": [
+        "bb"
+      ]
+    },
+    {
+      "name": "B&B Il Triclinio",
+      "zone": "citta",
+      "address": "Via Elio Vittorini 37, Piazza Armerina",
+      "phone": "+393406289133",
+      "website": "https://www.bbtriclinio.it/",
+      "bookingUrl": null,
+      "whatsapp": null,
+      "description": "B&B in zona residenziale, con spazi esterni e giardino.",
+      "sources": [
+        "https://www.bbtriclinio.it/"
+      ],
+      "id": "b-b-il-triclinio",
+      "types": [
+        "bb"
+      ]
+    },
+    {
+      "name": "B&B Kimera",
+      "zone": "centro",
+      "address": "Via Cavour 44, Piazza Armerina",
+      "phone": "+393358370667",
+      "website": "https://www.bandbkimera.it/",
+      "bookingUrl": null,
+      "whatsapp": null,
+      "description": "B&B in una residenza d’epoca nei pressi della Cattedrale.",
+      "sources": [
+        "https://www.bandbkimera.it/"
+      ],
+      "id": "b-b-kimera",
+      "types": [
+        "bb"
+      ]
+    },
+    {
+      "name": "B&B La Quercia e L’Asino",
+      "zone": "campagna",
+      "address": "Via Martin Luther King 4, Piazza Armerina",
+      "phone": "+393286820251",
+      "website": "https://bbquerciaeasino.it/",
+      "bookingUrl": null,
+      "whatsapp": null,
+      "description": "B&B in una casa di fine Ottocento, ai margini del centro abitato.",
+      "sources": [
+        "https://bbquerciaeasino.it/",
+        "https://bbquerciaeasino.it/contatti/"
+      ],
+      "id": "b-b-la-quercia-e-lasino",
+      "types": [
+        "bb"
+      ]
+    },
+    {
+      "name": "B&B La Roverella",
+      "zone": "campagna",
+      "address": "Contrada Piano Cannata, SP89/a km 4,850, Piazza Armerina",
+      "phone": "+390935680547",
+      "website": "https://bblaroverella.com/",
+      "bookingUrl": null,
+      "whatsapp": null,
+      "description": "B&B immerso nel verde in Contrada Piano Cannata.",
+      "sources": [
+        "https://bblaroverella.com/"
+      ],
+      "id": "b-b-la-roverella",
+      "types": [
+        "bb"
+      ]
+    },
+    {
+      "name": "B&B Principe Giardinelli",
+      "zone": "centro",
+      "address": "Via Garibaldi 13, Piazza Armerina",
+      "phone": "+393331412913",
+      "website": "https://www.principegiardinelli.com/",
+      "bookingUrl": null,
+      "whatsapp": null,
+      "description": "B&B in Via Garibaldi, nel centro storico.",
+      "sources": [
+        "https://www.principegiardinelli.com/",
+        "https://www.principegiardinelli.com/contatti/"
+      ],
+      "id": "b-b-principe-giardinelli",
+      "types": [
+        "bb"
+      ]
+    },
+    {
+      "name": "B&B Torre Castellina",
+      "zone": "centro",
+      "address": "Via Cappella San Giuseppe 48, Piazza Armerina",
+      "phone": "+393392940856",
+      "website": "https://www.torrecastellina.it/",
+      "bookingUrl": null,
+      "whatsapp": "https://wa.me/393392940856",
+      "description": "B&B tra i vicoli del quartiere Castellina, nel centro storico.",
+      "sources": [
+        "https://www.torrecastellina.it/"
+      ],
+      "id": "b-b-torre-castellina",
+      "types": [
+        "bb"
+      ]
+    },
+    {
+      "name": "B&B Villa Fiorita",
+      "zone": "campagna",
+      "address": "Via Fabrizio De Andrè snc, Contrada Cicciona, Piazza Armerina",
+      "phone": "+390935683571",
+      "website": "https://www.bbvillafiorita.it/",
+      "bookingUrl": null,
+      "whatsapp": null,
+      "description": "B&B sulle colline di Piazza Armerina, in Contrada Cicciona.",
+      "sources": [
+        "https://www.bbvillafiorita.it/"
+      ],
+      "id": "b-b-villa-fiorita",
+      "types": [
+        "bb"
+      ]
+    },
+    {
+      "name": "B&B Villa Roma",
+      "zone": "centro",
+      "address": "Via Roma 84, Piazza Armerina",
+      "phone": "+393890538579",
+      "website": "https://www.bbvillaroma.it/",
+      "bookingUrl": null,
+      "whatsapp": null,
+      "description": "B&B in un palazzo storico in stile liberty su Via Roma.",
+      "sources": [
+        "https://www.bbvillaroma.it/"
+      ],
+      "id": "b-b-villa-roma",
+      "types": [
+        "bb"
+      ]
+    },
+    {
+      "name": "Camurria Sicilian B&B",
+      "zone": "centro",
+      "address": "Via Garibaldi 76, Piazza Armerina",
+      "phone": "+393805813336",
+      "website": "https://www.camurriasicilianbb.it/",
+      "bookingUrl": null,
+      "whatsapp": "https://wa.me/393805813336",
+      "description": "B&B in Via Garibaldi, nel centro storico di Piazza Armerina.",
+      "sources": [
+        "https://www.camurriasicilianbb.it/",
+        "https://www.camurriasicilianbb.it/contatti.html"
+      ],
+      "id": "camurria-sicilian-b-b",
+      "types": [
+        "bb"
+      ]
+    },
+    {
+      "name": "Casa Rosina",
+      "zone": "centro",
+      "address": "Via Carmine, 15, Piazza Armerina",
+      "phone": "+390942896609",
+      "website": "https://terraeturismo.com/casa-rosina/",
+      "bookingUrl": "https://www.booking.com/hotel/it/casa-rosina-piazza-armerina.it.html",
+      "whatsapp": "https://api.whatsapp.com/send?phone=390942896609&text=Ciao+Reception+Terra+e+Turismo+desidero+maggiori+informazioni",
+      "description": "Casa indipendente in via Carmine, vicino a piazza Generale Cascino.",
+      "sources": [
+        "https://terraeturismo.com/casa-rosina/",
+        "https://www.booking.com/hotel/it/casa-rosina-piazza-armerina.it.html"
+      ],
+      "id": "casa-rosina",
+      "types": [
+        "casa"
+      ],
+      "contactNote": "Telefono e WhatsApp sono del servizio clienti e della reception Terra e Turismo, pubblicati sulla pagina della struttura."
+    },
+    {
+      "name": "Casa Salemi 41",
+      "zone": "citta",
+      "address": "Via Salemi, 41, Piazza Armerina",
+      "phone": null,
+      "website": null,
+      "bookingUrl": "https://www.booking.com/hotel/it/casa-salemi-41.it.html",
+      "whatsapp": null,
+      "description": "Appartamento in via Salemi, a Piazza Armerina.",
+      "sources": [
+        "https://www.booking.com/hotel/it/casa-salemi-41.it.html",
+        "https://www.bedandbreakfast.eu/it/a/QtnPqgEDoXTU/casa-salemi-41"
+      ],
+      "id": "casa-salemi-41",
+      "types": [
+        "casa"
+      ]
+    },
+    {
+      "name": "Da zia Iole casa a Piazza Armerina",
+      "zone": "citta",
+      "address": "Via Catalano, 28, Piazza Armerina",
+      "phone": null,
+      "website": null,
+      "bookingUrl": "https://www.booking.com/hotel/it/da-zia-iole-a-piazza-armerina-citta-dei-mosaici-patrimonio-dell-unesco.it.html",
+      "whatsapp": null,
+      "description": "Casa indipendente in via Catalano, a Piazza Armerina.",
+      "sources": [
+        "https://www.booking.com/hotel/it/da-zia-iole-a-piazza-armerina-citta-dei-mosaici-patrimonio-dell-unesco.it.html"
+      ],
+      "id": "da-zia-iole-casa-a-piazza-armerina",
+      "types": [
+        "casa"
+      ]
+    },
+    {
+      "name": "Folco Studio Apartment",
+      "zone": "citta",
+      "address": "Via Cesare Pavese, 9, Piazza Armerina",
+      "phone": null,
+      "website": null,
+      "bookingUrl": "https://www.booking.com/hotel/it/folco-studio-apartment.it.html",
+      "whatsapp": null,
+      "description": "Appartamento in via Cesare Pavese, a Piazza Armerina.",
+      "sources": [
+        "https://www.booking.com/hotel/it/folco-studio-apartment.it.html"
+      ],
+      "id": "folco-studio-apartment",
+      "types": [
+        "casa"
+      ]
+    },
+    {
+      "name": "Hotel Gangi",
+      "zone": "citta",
+      "address": "Viale Generale Ciancio 68, Piazza Armerina",
+      "phone": "+390935680333",
+      "website": "https://www.hotelgangi.eu/",
+      "bookingUrl": null,
+      "whatsapp": null,
+      "description": "Hotel in Viale Generale Ciancio, nella zona urbana di Piazza Armerina.",
+      "sources": [
+        "https://www.hotelgangi.eu/"
+      ],
+      "id": "hotel-gangi",
+      "types": [
+        "hotel"
+      ]
+    },
+    {
+      "name": "Hotel Ristorante Al Ritrovo",
+      "zone": "campagna",
+      "address": "SS117 bis km 43,900, Piazza Armerina",
+      "phone": "+390935681890",
+      "website": "https://www.hotelalritrovo.com/",
+      "bookingUrl": null,
+      "whatsapp": null,
+      "description": "Hotel nell’area del Bosco Bellia, con ristorante e camere.",
+      "sources": [
+        "https://www.hotelalritrovo.com/"
+      ],
+      "id": "hotel-ristorante-al-ritrovo",
+      "types": [
+        "hotel"
+      ]
+    },
+    {
+      "name": "Hotel Villa Romana",
+      "zone": "citta",
+      "address": "Piazza Alcide De Gasperi 18, Piazza Armerina",
+      "phone": "+390935682911",
+      "website": "https://hotel-villaromana.it/",
+      "bookingUrl": "https://hotel-villaromana.it/prenotazione-camera",
+      "whatsapp": null,
+      "description": "Hotel a gestione familiare in Piazza Alcide De Gasperi.",
+      "sources": [
+        "https://hotel-villaromana.it/chi-siamo",
+        "https://hotel-villaromana.it/prenotazione-camera"
+      ],
+      "id": "hotel-villa-romana",
+      "types": [
+        "hotel"
+      ]
+    },
+    {
+      "name": "La Casa sulla Collina d’Oro",
+      "zone": "citta",
+      "address": "Via Piersanti Mattarella snc, Piazza Armerina",
+      "phone": "+39093589680",
+      "website": "https://lacasasullacollinadoro.it/",
+      "bookingUrl": null,
+      "whatsapp": null,
+      "description": "B&B in un’antica casa contadina su un belvedere verso il centro storico.",
+      "sources": [
+        "https://lacasasullacollinadoro.it/"
+      ],
+      "id": "la-casa-sulla-collina-doro",
+      "types": [
+        "bb"
+      ]
+    },
+    {
+      "name": "Leano Agriresort",
+      "zone": "campagna",
+      "address": "Contrada Leano, SP16 km 3, Piazza Armerina",
+      "phone": "+3909351808008",
+      "website": "https://tenuteleano.com/",
+      "bookingUrl": "https://tenuteleano.beddy.io/?lang=it",
+      "whatsapp": "https://wa.me/393282144097",
+      "description": "Agriresort tra uliveti e boschi, in casali restaurati della contrada Leano.",
+      "sources": [
+        "https://tenuteleano.com/",
+        "https://tenuteleano.com/contatti/"
+      ],
+      "id": "leano-agriresort",
+      "types": [
+        "agriturismo"
+      ]
+    },
+    {
+      "name": "L’ombelico del Monte – appartamenti in centro storico",
+      "zone": "centro",
+      "address": "Via Vittorio Emanuele, 47, Piazza Armerina",
+      "phone": null,
+      "website": null,
+      "bookingUrl": "https://www.booking.com/hotel/it/appartamento-del-centro-storico.it.html",
+      "whatsapp": null,
+      "description": "Appartamenti in via Vittorio Emanuele, nel centro storico di Piazza Armerina.",
+      "sources": [
+        "https://www.booking.com/hotel/it/appartamento-del-centro-storico.it.html",
+        "https://www.booking.com/hotel/it/appartamento-del-centro-storico.ca.html"
+      ],
+      "id": "lombelico-del-monte-appartamenti-in-centro-storico",
+      "types": [
+        "casa"
+      ]
+    },
+    {
+      "name": "Maison de Lussy",
+      "zone": "citta",
+      "address": "Piazza Boris Giuliano 14, Piazza Armerina",
+      "phone": null,
+      "website": "https://beb.it/maisondelussy/it/",
+      "bookingUrl": "https://booking.ireservation.it/it/sicilia/maison-de-lussy-piazza-armerina/4845?utm_source=widgetBeb",
+      "whatsapp": null,
+      "description": "B&B in Piazza Boris Giuliano, con terrazza panoramica verso il centro storico.",
+      "sources": [
+        "https://beb.it/maisondelussy/it/"
+      ],
+      "id": "maison-de-lussy",
+      "types": [
+        "bb"
+      ]
+    },
+    {
+      "name": "Masseria Bannata",
+      "zone": "campagna",
+      "address": "Contrada Bannata, SS117 bis km 41, Piazza Armerina",
+      "phone": "+393282988448",
+      "website": "https://www.bannata.com/",
+      "bookingUrl": "https://book.octorate.com/octobook/site/reservation/index.xhtml?codice=95518",
+      "whatsapp": null,
+      "description": "Masseria storica con camere nella campagna lungo la SS117 bis.",
+      "sources": [
+        "https://www.bannata.com/",
+        "https://www.bannata.com/contact"
+      ],
+      "id": "masseria-bannata",
+      "types": [
+        "agriturismo"
+      ]
+    },
+    {
+      "name": "Miraglia 28 apartment",
+      "zone": "citta",
+      "address": "Via Miraglia, 28, Piazza Armerina",
+      "phone": null,
+      "website": null,
+      "bookingUrl": "https://www.booking.com/hotel/it/miraglia-28-apartment.it.html",
+      "whatsapp": null,
+      "description": "Appartamento in via Miraglia, a Piazza Armerina.",
+      "sources": [
+        "https://www.booking.com/hotel/it/miraglia-28-apartment.it.html"
+      ],
+      "id": "miraglia-28-apartment",
+      "types": [
+        "casa"
+      ]
+    },
+    {
+      "name": "Monia Rooms & Hospitality",
+      "zone": "centro",
+      "address": "Via Chiarandà 87, Piazza Armerina",
+      "phone": "+393317389190",
+      "website": "https://www.moniabb.com/",
+      "bookingUrl": null,
+      "whatsapp": null,
+      "description": "Camere in Via Chiarandà, nel centro di Piazza Armerina.",
+      "sources": [
+        "https://www.moniabb.com/",
+        "https://www.moniabb.com/contattaci/"
+      ],
+      "id": "monia-rooms-hospitality",
+      "types": [
+        "camere"
+      ]
+    },
+    {
+      "name": "Park Hotel Paradiso",
+      "zone": "campagna",
+      "address": "Contrada Ramaldo snc, Piazza Armerina",
+      "phone": null,
+      "website": null,
+      "bookingUrl": null,
+      "whatsapp": null,
+      "description": "Hotel nella zona periferica di Piazza Armerina.",
+      "sources": [
+        "https://www.visitsicily.info/dove-dormire/?ofsearch=Park+Hotel+Paradiso",
+        "https://www.booking.com/hotel/it/park-paradiso.it.html"
+      ],
+      "id": "park-hotel-paradiso",
+      "types": [
+        "hotel"
+      ]
+    },
+    {
+      "name": "Suite d’Autore",
+      "zone": "centro",
+      "address": "Via Monte 1 (Piazza Duomo), Piazza Armerina",
+      "phone": "+390935688553",
+      "website": "https://www.suitedautore.it/",
+      "bookingUrl": null,
+      "whatsapp": null,
+      "description": "Hotel-galleria di arte e design in Piazza Duomo.",
+      "sources": [
+        "https://www.suitedautore.it/"
+      ],
+      "id": "suite-dautore",
+      "types": [
+        "hotel"
+      ]
+    },
+    {
+      "name": "Tenuta Savoca",
+      "zone": "campagna",
+      "address": "Contrada Polleri, Piazza Armerina",
+      "phone": "+390935683078",
+      "website": "https://www.tenutasavoca.it/",
+      "bookingUrl": null,
+      "whatsapp": null,
+      "description": "Tenuta rurale con camere nella contrada Polleri.",
+      "sources": [
+        "https://www.tenutasavoca.it/benvenuti/",
+        "https://www.tenutasavoca.it/contatti/"
+      ],
+      "id": "tenuta-savoca",
+      "types": [
+        "agriturismo"
+      ]
+    },
+    {
+      "name": "Torre di Renda",
+      "zone": "campagna",
+      "address": "Contrada Torre di Renda, presso Piano Cannata, Piazza Armerina",
+      "phone": "+390935680208",
+      "website": "https://www.torrerenda.it/",
+      "bookingUrl": null,
+      "whatsapp": null,
+      "description": "Country hotel ricavato da un edificio storico, circondato dal bosco.",
+      "sources": [
+        "https://www.torrerenda.it/",
+        "https://www.torrerenda.it/hotel/",
+        "https://www.torrerenda.it/contatti/"
+      ],
+      "id": "torre-di-renda",
+      "types": [
+        "agriturismo"
+      ]
+    },
+    {
+      "name": "Un nido nel Borgo",
+      "zone": "citta",
+      "address": "Via Calzettieri, 6, Piazza Armerina",
+      "phone": null,
+      "website": null,
+      "bookingUrl": "https://www.booking.com/hotel/it/casa-vacanze-calzettieri.it.html",
+      "whatsapp": null,
+      "description": "Casa vacanze in via Calzettieri, a Piazza Armerina.",
+      "sources": [
+        "https://www.booking.com/hotel/it/casa-vacanze-calzettieri.it.html",
+        "https://www.viamichelin.com/maps/hotels/poi/piazza_armerina-94015-b840f2b6"
+      ],
+      "id": "un-nido-nel-borgo",
+      "types": [
+        "casa"
+      ]
+    },
+    {
+      "name": "Villa Clementine Resort",
+      "zone": "citta",
+      "address": "Via Nino Martoglio 25, Strada Fontanelle, Piazza Armerina",
+      "phone": "+390935685622",
+      "website": "https://www.villaclementine.com/",
+      "bookingUrl": null,
+      "whatsapp": null,
+      "description": "B&B con camere e chalet nella zona di Strada Fontanelle.",
+      "sources": [
+        "https://www.villaclementine.com/",
+        "https://www.villaclementine.com/contatti/"
+      ],
+      "id": "villa-clementine-resort",
+      "types": [
+        "bb"
+      ]
+    },
+    {
+      "name": "Villa Trigona",
+      "zone": "campagna",
+      "address": "Contrada Bauccio / Via Santa Croce, Piazza Armerina",
+      "phone": "+390935681896",
+      "website": "https://villatrigona.com/",
+      "bookingUrl": null,
+      "whatsapp": null,
+      "description": "Dimora storica della famiglia Trigona nelle campagne di Piazza Armerina.",
+      "sources": [
+        "https://villatrigona.com/",
+        "https://villatrigona.com/contatti/"
+      ],
+      "id": "villa-trigona",
+      "types": [
+        "camere"
+      ]
+    },
+    {
+      "name": "Zù Mariu B&B",
+      "zone": "centro",
+      "address": "Via Sette Cantoni 8, Piazza Armerina",
+      "phone": null,
+      "website": null,
+      "bookingUrl": null,
+      "whatsapp": null,
+      "description": "B&B in un antico palazzo del centro storico, con arredi di ispirazione siciliana.",
+      "sources": [
+        "https://www.tripadvisor.it/Hotel_Review-g580232-d13117771-Reviews-Zu_Mariu_Bed_Breakfast-Piazza_Armerina_Province_of_Enna_Sicily.html"
+      ],
+      "id": "zu-mariu-b-b",
+      "types": [
+        "bb"
+      ]
+    }
+  ]
+}

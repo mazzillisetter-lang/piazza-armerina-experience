@@ -118,3 +118,7 @@ Fabio autorizza aggiornamento pagina dai comunicati ufficiali delComune. Impleme
 
 ## Dove mangiare — 04/11/2026
 Fabio richiede ricerca ampia dei locali di Piazza Armerina, layout funzionale recuperando il precedente, foto curate e contatti. Implementata pagina/dove-mangiare con43schede, filtri per tipo/zona, ricerca su tutto ilcatalogo e caricamento progressivo.11telefoni da pagine delleattività,1WhatsAppSUD esplicito; altrimenti GoogleMapsfoto/contatti. FotografiegastronomicheCommons conlicenze documentate, dichiarate illustrative e valorizzateCSS; nessunafotoinventatadeilocali. Fonti/limiti in docs/dove-mangiare.md e food-research.json. Build/pubblicazione/collaudo da verificare sulcommitfinale.
+
+
+## Dove dormire — 04/11/2026
+Fabio chiede di proseguire con ricerca e sezione Dove dormire. Raccolte 41 strutture con fonti: hotel, B&B, camere/dimore, case/appartamenti e strutture rurali. Ventotto telefoni da pagine delle attività, quattro WhatsApp espliciti, quattordici link a disponibilità/richiesta/prenotazione senza prezzi o disponibilità inventati. Ricerca, filtri tipo/zona, caricamento progressivo e collegamenti da home/menu. Foto reale notturna Stefano Li Moli CC BY-SA 3.0, intera, ritocco CSS lieve; non foto delle camere. Fonti e limiti in docs/dove-dormire.md e stay-research.json. Build e pubblicazione da verificare sul commit finale.

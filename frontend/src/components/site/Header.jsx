@@ -45,7 +45,7 @@ export const Header = ({ lang, setLang, t, base = "" }) => {
         <Logo href={base ? "/" : "#top"} />
         <nav className="hidden xl:flex items-center gap-[2.2vw] font-body text-[calc(var(--u)*1.25)] text-white text-shadow-soft">
           {t.nav.map((m, i) => (
-            <a key={m} href={i === 2 ? "/dove-mangiare" : base + HREFS[i]} data-testid={`header-nav-link-${i}`} className="link-gold whitespace-nowrap">{m}</a>
+            <a key={m} href={i === 2 ? "/dove-mangiare" : i === 3 ? "/dove-dormire" : base + HREFS[i]} data-testid={`header-nav-link-${i}`} className="link-gold whitespace-nowrap">{m}</a>
           ))}
         </nav>
         <div className="flex items-center gap-2 sm:gap-3">
@@ -69,7 +69,7 @@ export const Header = ({ lang, setLang, t, base = "" }) => {
             className="absolute right-4 sm:right-8 lg:right-[calc(var(--u)*3)] top-full mt-2 w-64 rounded-2xl bg-[#1a0f0b]/95 backdrop-blur-xl border border-[var(--gold)]/40 p-3"
           >
             {t.nav.map((m, i) => (
-              <a key={m} href={i === 2 ? "/dove-mangiare" : base + HREFS[i]} onClick={() => setOpen(false)} data-testid={`menu-panel-link-${i}`} className="block px-4 py-2.5 rounded-xl font-body text-lg text-white hover:bg-[var(--gold)]/15 hover:text-[var(--gold-soft)] transition-colors">{m}</a>
+              <a key={m} href={i === 2 ? "/dove-mangiare" : i === 3 ? "/dove-dormire" : base + HREFS[i]} onClick={() => setOpen(false)} data-testid={`menu-panel-link-${i}`} className="block px-4 py-2.5 rounded-xl font-body text-lg text-white hover:bg-[var(--gold)]/15 hover:text-[var(--gold-soft)] transition-colors">{m}</a>
             ))}
           </motion.nav>
         )}
