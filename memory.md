@@ -62,3 +62,6 @@ Fabio richiede testi brevi e documentati perDuomo ePalazzoTrigona, foto reali cu
 
 ## Panoramica Centro storico — 04/11/2026
 Fabio sceglie la veduta notturna fornita1483588_gd.jpg al posto della panoramica iniziale, per differenziarla dalla home. Originale integrale, filigrana conservata; home e schedeDuomo/Trigona invariate.
+
+## Miglioramento foto — 04/11/2026
+Fabio richiede sempre valorizzazione fotografica prima di inserire le foto: luce, contrasto e colori curati, conservando architettura e dettagli reali. Sulla panoramica notturna applicato filtro CSS locale brightness1.08 contrast1.10 saturate1.12. Prova generativa scartata perché ricostruiva dettagli. Originale e filigrana preservati.

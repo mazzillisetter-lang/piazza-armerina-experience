@@ -97,3 +97,6 @@ Stato03/11/2026: commitvideo956c94c50350cd985e7e2c6b208848ad4c2e4eb4 + correzion
 
 ## Panoramica Centro storico — 04/11/2026
 Sostituita sola foto introduttiva con veduta notturna fornita daFabio; proporzioni1050x749, ingrandimento e filigrana conservati. Credito separato dalle fotoCommons.
+
+## Luce e colore panoramica Centro storico
+Valorizzazione lieve e reversibile della sola panoramica notturna: luminosità+8%, contrasto+10%, saturazione+12% tramiteCSS. Nessuna ricostruzione fotografica.

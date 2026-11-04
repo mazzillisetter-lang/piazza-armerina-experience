@@ -24,3 +24,5 @@ La foto interna2025con watermark valutata durante la ricerca non è stata scelta
 
 ## centro-storico-notturna.jpg — sostituzione introduzione
 File1483588_gd.jpg fornito daFabio il4novembre2026 per sostituire soltanto la panoramica delCentro storico. Originale1050x749 conservato byte per byte, filigrana park4night.com visibile. Autore, data scatto e licenza non comunicati: nessuna attribuzione Commons o licenza inventata. Foto precedente conservata come asset storico. Home e foto delle singole schede invariate.
+
+Valorizzazione in pagina: brightness(1.08) contrast(1.10) saturate(1.12), solo veduta notturna. File originale e filigrana invariati; provaAI esclusa dalla pubblicazione per alterazione dei dettagli.

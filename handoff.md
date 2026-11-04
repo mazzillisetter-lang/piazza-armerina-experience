@@ -92,4 +92,5 @@ Verifica: build produzione riuscita; browser iframe320/390/768/1280px senza over
 ## Cambio panoramica Centro storico — 04/11/2026
 Pagina precedente797e61b pubblicata e verificata suff7d6f0f.pages.dev. Nuova richiesta: solo foto introduttiva notturna1483588_gd.jpg, salvata come centro-storico-notturna.jpg1050x749 senza modifiche. Didascalia senza autore/data/licenza inventati; filigrana originale park4night.com conservata. Home e altre due foto invariate. Build e pubblicazione della sostituzione da verificare sul relativo commit.
 
-Build produzione riuscita. Asset originale147091byte; pubblicazione e verifica browser da confermare sul commit di questa modifica.
+## Valorizzazione panoramica notturna — 04/11/2026
+1373f9d pubblicato con successo e verificato. Fabio richiede miglioramento delle foto. ProvaAI scartata per ricostruzione architettura; valorizzazione non generativa mediante filtroCSS solo sulla panoramica:brightness1.08 contrast1.10 saturate1.12. File originale non alterato; foto singole ehome invariate. Collegamento ingrandimento apre originale. Build e pubblicazione correzione da verificare sul nuovo commit.
