@@ -220,3 +220,14 @@ body { font-family: "Crimson Pro", serif; color: var(--cream); font-size: 1.06re
   .hero-copy [data-testid="hero-tagline"] { font-size: calc(var(--u) * 3.15); }
   .hero-copy [data-testid="hero-lead"] { font-size: calc(var(--u) * 1.5); }
 }
+
+/* A phone held sideways should not cover the photograph with a solid bar. */
+@media (orientation: landscape) and (max-height: 600px) and (max-width: 1023px) {
+  header[data-testid="site-header"] {
+    background-color: transparent;
+    background-image: none;
+    -webkit-backdrop-filter: none;
+    backdrop-filter: none;
+    text-shadow: 0 1px 6px rgba(0, 0, 0, .8);
+  }
+}

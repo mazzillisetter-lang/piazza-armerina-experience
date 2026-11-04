@@ -50,3 +50,6 @@ Fabio ha approvato i pulsanti a piede foto. Il blocco testo PC deve avere più p
 
 ## Correzione home smartphone — 04/11/2026
 Fabio rifiuta il taglio verticale del panorama: devono vedersi piazza intera, Cattedrale e Palazzo Trigona con le sette finestre. Mostrare la foto completa nel suo rapporto originale sul telefono; mosaico più piccolo e separato dagli edifici. La composizione desktop approvata resta il riferimento stilistico.
+
+## Menu smartphone orizzontale
+Fabio vuole la fascia del menu fissa trasparente, anche scorrendo, per lasciare visibile la foto sottostante. Rimuovere anche la sfocatura in questo orientamento. Il pannello del menu quando aperto mantiene sfondo leggibile.

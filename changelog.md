@@ -81,3 +81,7 @@ Stato03/11/2026: commitvideo956c94c50350cd985e7e2c6b208848ad4c2e4eb4 + correzion
 - Foto mobile nel rapporto originale1672:941, senza ritaglio verticale; testo sopra e mosaico ridotto sotto il panorama.
 - Parole decorative e pulsanti disposti nella fascia inferiore; pulsante più compatto sotto360px.
 - Regole tablet e PC preservate.
+
+## Fascia menu telefono orizzontale
+- Header trasparente senza sfocatura durante lo scroll su viewport orizzontali fino1023x600px.
+- Build e verifica browser915x412 riuscite; pannello menu funzionante con sette collegamenti.
