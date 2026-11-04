@@ -11,7 +11,7 @@ export const CENTRO_SOURCES = {
 };
 
 export const CENTRO_PHOTOS = {
-  square: { src: "/img/centro/centro-storico-tramonto.jpg", width: 400, height: 320, alt: "Panorama del centro storico di Piazza Armerina con il Duomo sopra i tetti e il cielo al tramonto", credit: "Foto fornita per il sito", filter: "brightness(1.02) contrast(1.04) saturate(0.94)" },
+  square: { src: "/img/centro/centro-storico-panorama.webp", width: 1217, height: 694, alt: "Panorama del centro storico di Piazza Armerina con il Duomo sopra i tetti e il cielo al tramonto", credit: "Foto fornita per il sito", filter: "brightness(1.02) contrast(1.04) saturate(0.94)" },
   cathedral: { src: "/img/centro/duomo-pelagalli.jpg", width: 1280, height: 891, alt: "Facciata completa del Duomo di Piazza Armerina, campanile e monumento a Marco Trigona nella piazza", author: "Carlo Pelagalli", license: "CC BY-SA 3.0", licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/", source: "https://commons.wikimedia.org/wiki/File:Piazza_Armerina,_La_Cattedrale_-_panoramio.jpg", date: "2013" },
   palace: { src: "/img/centro/palazzo-trigona-pelagalli.jpg", width: 1280, height: 826, alt: "Facciata intera di Palazzo Trigona con portale centrale e balconi affacciati su Piazza Cattedrale", author: "Carlo Pelagalli", license: "CC BY-SA 3.0", licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/", source: "https://commons.wikimedia.org/wiki/File:Piazza_Armerina,_Palazzo_Trigona_della_Floresta_e_di_San_Cono._Museo_della_citt%C3%A0_e_del_territorio_-_panoramio.jpg", date: "2013" },
 };

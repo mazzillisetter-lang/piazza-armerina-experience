@@ -29,3 +29,6 @@ Valorizzazione in pagina: brightness(1.08) contrast(1.10) saturate(1.12), solo v
 
 ## centro-storico-tramonto.jpg
 Fotografia fornita daFabio il4novembre2026,400x320,63664byte. Autore/data/licenza non comunicati. Originale byte-identico; correzioneCSS solo inpagina brightness1.02 contrast1.04 saturate0.94. Sostituisce la panoramica notturna; asset precedenti conservati. Nessun upscaling generativo pubblicato.
+
+## centro-storico-panorama.webp — scelta finale
+FilePiazza-Armerina-2.webp fornito daFabio il4novembre2026,1217x694,101002byte, conservato byte-identico. Sostituisce il precedente400x320. Autore, data scatto, licenza non comunicati. CorrezioneCSS inpagina invariata:brightness1.02 contrast1.04 saturate0.94. Nessuna ricostruzione generativa.

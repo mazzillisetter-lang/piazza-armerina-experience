@@ -103,3 +103,6 @@ Valorizzazione lieve e reversibile della sola panoramica notturna: luminosità+8
 
 ## Nuova scelta panoramica Centro storico
 Sostituita veduta notturna con fotografia al tramonto fornita daFabio,400x320. Tono valorizzato senza ricostruzioni:luminosità1.02 contrasto1.04 saturazione0.94.
+
+## Panoramica finale Centro storico
+Scelto filePiazza-Armerina-2.webp1217x694 al posto del precedente400x320; inquadratura intera e trattamento cromatico leggero preservati.

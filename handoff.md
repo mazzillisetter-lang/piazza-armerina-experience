@@ -97,3 +97,6 @@ Pagina precedente797e61b pubblicata e verificata suff7d6f0f.pages.dev. Nuova ric
 
 ## Sostituzione panorama con tramonto — 04/11/2026
 55758cd pubblicato e verificato su3c00c880. Fabio sceglie nuovo panorama400x320. Originale salvato centro-storico-tramonto.jpg; filtro locale brightness1.02 contrast1.04 saturate0.94, proporzioni5:4 integre. ProvaAI esclusa perché modificava dettagli e cielo. Vecchia foto conservata, home e altre schede invariate. Limite definizione comunicato aFabio. Build/pubblicazione da verificare sul relativo commit.
+
+## Ultima sostituzione panoramica — 04/11/2026
+4c290c8 pubblicato e verificato. Fabio sceglie Piazza-Armerina-2.webp1217x694,101002byte, come ultima modifica. Copia originale centro-storico-panorama.webp, dimensioni aggiornate; medesima correzioneCSS leggera della versione precedente. Home, Duomo eTrigona invariati. Build/pubblicazione da verificare sul nuovo commit; poi fermarsi come richiesto.
