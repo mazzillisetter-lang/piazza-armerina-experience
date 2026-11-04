@@ -27,7 +27,7 @@ Usare ricerca web per nuovi comunicati con filtro dominio e anno effettivo. Apri
 ## Ambito editoriale
 Eventi culturali, musica/spettacoli, feste e tradizioni, sport e iniziative pubbliche di interesse per visitatori a Piazza Armerina. Non includere bandi, pagamenti SIAE, sedute del consiglio o scadenze amministrative come spettacoli. Un impegno di spesa prova un atto, non necessariamente un calendario confermato. L'agenda iniziale non contiene eventi scaduti di esempio.
 
-La data di ultimo aggiornamento di una pagina NON è quella della manifestazione: Barock 2025 e Summer Fest agosto-settembre 2026 sono conclusi anche se la pagina è stata aggiornata in ottobre 2026. Non rinnovare anno, tradizione, luogo o programma per deduzione. Non trasformare i 12–14 agosto tradizionali del Palio in conferma dell'edizione 2027. Per Palio pubblicare solo singoli appuntamenti ufficialmente confermati; l'automazione dedicata gestisce l'altro feed, qui non modificarlo.
+La data di ultimo aggiornamento di una pagina NON è quella della manifestazione: Barock 2025 e Summer Fest agosto-settembre 2026 sono conclusi anche se la pagina è stata aggiornata in ottobre 2026. Non rinnovare anno, tradizione, luogo o programma per deduzione. Non trasformare i 12–14 agosto tradizionali del Palio in conferma dell'edizione 2027. Per Palio pubblicare solo singoli appuntamenti ufficialmente confermati; il controllo dedicato gestisce l'altro feed, qui non modificarlo.
 
 ## Schema 1
 Campi top-level sempre presenti:
@@ -68,3 +68,6 @@ confirmed richiede startDate. Partial è un annuncio ufficiale incompleto; mostr
 4 novembre 2026: calendario comunale Nessun elemento presente, Vivere il Comune Nessun evento in programma. Nessun appuntamento futuro confermato trovato nelle fonti lette. Barock Off 2026 appare nella stampa ma il programma originale non è stato confermato: escluso. Dettagli, fonti e limiti in docs/events-research.json.
 
 Test locale: node frontend/scripts/test-events.mjs. Fixture sintetiche restano solo nei test e in anteprime QA temporanee; mai nell'agenda pubblica.
+
+## Automazione attiva
+Controllo incluso nell'attività `Eventi e Palio Piazza Armerina`, ID 6aeb0c3719648191beb63e43eac58a05, abilitata con cadenza quotidiana già esistente. Il piano ha rifiutato una sesta attività: per questo sono stati uniti due controlli dello stesso progetto, preservando integralmente la procedura Palio. Le restrizioni sul singolo JSON valgono per il rispettivo controllo. Nuove notifiche soltanto per modifiche salvate/verificate o blocchi operativi. La creazione/estensione del task non dimostra l'esecuzione di un controllo futuro.
