@@ -53,3 +53,6 @@ Fabio rifiuta il taglio verticale del panorama: devono vedersi piazza intera, Ca
 
 ## Menu smartphone orizzontale
 Fabio vuole la fascia del menu fissa trasparente, anche scorrendo, per lasciare visibile la foto sottostante. Rimuovere anche la sfocatura in questo orientamento. Il pannello del menu quando aperto mantiene sfondo leggibile.
+
+## Foto bivio aggiornata — 04/11/2026
+Usare la nuova foto del mattino fornita da Fabio per Come arrivare: cartelloVilla, divieto ramo sinistro e parcheggio/barriere visibili insieme. Una sola foto intera e ingrandibile sostituisce le precedenti StreetView e verticale; originale conservato senza filtri o ricostruzioni.

@@ -8,20 +8,11 @@ export const DirectionsInfo = () => (
     </ol>
     <p className="mt-4 border-l-2 border-[var(--gold)] pl-3 text-sm leading-relaxed"><strong className="text-white">Attenzione al navigatore:</strong> non imboccare il ramo sinistro, con divieto d’accesso, sopra le barriere. Segui sempre la segnaletica presente sul posto.</p>
     <figure className="mt-4">
-      <a href="/img/villa/bivio-sp90-streetview-2024.png" target="_blank" rel="noreferrer" aria-label="Ingrandisci la vista del bivio sulla SP90">
-        <img src="/img/villa/bivio-sp90-streetview-2024.png" alt="Bivio sulla SP90 arrivando da Piazza Armerina: la strada per il parcheggio scende sulla destra" loading="lazy" width="1445" height="924" className="h-auto w-full rounded-md border border-[var(--gold)]/20" />
+      <a href="/img/villa/bivio-ingresso-sgs-2026-11-04.jpg" target="_blank" rel="noreferrer" aria-label="Ingrandisci la foto del bivio e dei cartelli per la Villa Romana">
+        <img src="/img/villa/bivio-ingresso-sgs-2026-11-04.jpg" alt="Bivio sulla SP90: cartello Villa Romana del Casale con freccia d’ingresso verso destra, parcheggio e barriere in discesa; segnale di divieto sulla strada a sinistra" loading="lazy" width="2016" height="908" className="h-auto w-full rounded-md border border-[var(--gold)]/20" />
       </a>
-      <figcaption className="mt-2 text-xs leading-relaxed text-[var(--cream-dim)]">Il bivio da riconoscere · Google Street View, novembre 2024. Immagine condivisa dal gestore; tocca per ingrandire.</figcaption>
+      <figcaption className="mt-2 text-xs leading-relaxed text-[var(--cream-dim)]">Il bivio da riconoscere · Foto SGS Parcheggi del 4 novembre 2026. Segui a destra il cartello «Villa Romana del Casale – Ingresso» verso parcheggio e barriere; non imboccare la strada a sinistra con il segnale di divieto. Tocca la foto per ingrandire.</figcaption>
     </figure>
-    <details className="mt-3 text-sm leading-relaxed" data-testid="directions-sign-details">
-      <summary className="cursor-pointer text-[var(--gold-soft)]">Vedi il cartello con la direzione corretta</summary>
-      <figure className="mt-3">
-        <a href="/img/villa/ingresso-sgs-cartello.jpg" target="_blank" rel="noreferrer" aria-label="Ingrandisci la fotografia del cartello al bivio">
-          <img src="/img/villa/ingresso-sgs-cartello.jpg" alt="Cartello Villa Romana del Casale con freccia Ingresso 100 metri verso destra e segnale di divieto sul ramo sinistro" loading="lazy" width="691" height="1536" className="mx-auto max-h-80 w-full rounded-md object-contain" />
-        </a>
-        <figcaption className="mt-2 text-xs text-[var(--cream-dim)]">Foto fornita da SGS Parcheggi: segui la freccia verso destra. Tocca per ingrandire.</figcaption>
-      </figure>
-    </details>
     <p className="mt-3 text-xs leading-relaxed text-[var(--cream-dim)]">Indicazioni di accesso fornite dal gestore. Il collegamento alla mappa aiuta a trovare il parcheggio; verifica l’ultimo tratto con le indicazioni qui sopra.</p>
   </div>
 );

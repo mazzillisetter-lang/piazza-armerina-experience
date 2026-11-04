@@ -85,3 +85,7 @@ Stato03/11/2026: commitvideo956c94c50350cd985e7e2c6b208848ad4c2e4eb4 + correzion
 ## Fascia menu telefono orizzontale
 - Header trasparente senza sfocatura durante lo scroll su viewport orizzontali fino1023x600px.
 - Build e verifica browser915x412 riuscite; pannello menu funzionante con sette collegamenti.
+
+## Come arrivare — fotografia aggiornata
+- Unica foto originaleSGS del4novembre2026 al posto di StreetView e foto verticale.
+- Didascalia con direzione corretta e divieto; data scheda04/11/2026, ingrandimento disponibile.

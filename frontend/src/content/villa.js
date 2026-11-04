@@ -88,7 +88,7 @@ export const PRACTICAL = [
   { key: "parcheggio", icon: "SquareParking", title: "Parcheggio", text: "Tariffe e orari del parcheggio SGS Parcheggi", updated: "03/11/2026" },
   { key: "navetta", icon: "Bus", title: "Navetta", text: "Navetta stagionale SA.DA. Tours: fermate, orari e tariffe", link: "shuttle", updated: "03/11/2026" },
   { key: "accessibilita", icon: "Accessibility", title: "Accessibilità", text: "Accesso facilitato, contatti e gratuità", link: "accessibility", updated: "03/11/2026" },
-  { key: "arrivare", icon: "Navigation", title: "Come arrivare", text: "Accesso al parcheggio SGS dalla SP90", link: "maps", updated: "03/11/2026" },
+  { key: "arrivare", icon: "Navigation", title: "Come arrivare", text: "Accesso al parcheggio SGS dalla SP90", link: "maps", updated: "04/11/2026" },
 ];
 
 export const VILLA = { it };
