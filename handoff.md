@@ -106,3 +106,5 @@ Pagina precedente797e61b pubblicata e verificata suff7d6f0f.pages.dev. Nuova ric
 Implementata pagina/palio-dei-normanni sulbranchautorizzato, nessunamodificaamain. Fonti/assettimeline in docs/palio-2027.md. Build e pubblicazione da verificare sul commit finale; nessun programma ufficiale2027 confermato.
 
 Verifica locale 04/11/2026: build produzione riuscita; browser PC e iframe320/390/768px senza overflow orizzontale,6immagini caricate, pulsanti contenuti a320px, linkHomePalio eancoraquartieri funzionanti. Revisione indipendente contenuti favorevole, contrastoCTA ewrappingcorretti. Nessun test suhardware fisico. Pubblicazione finale da verificare.
+
+Verifica pubblicazione Palio: commit8a97f1d8c619a70b3c69fe1aac4f2a2fa32e5d5d, Cloudflare completed/success; pagina aperta nelbrowser su https://a263b1b7.piazza-armerina-experience.pages.dev/palio-dei-normanni con6immagini caricate. ScreenshotPC /workspace/scratch/palio-2027-anteprima.jpg. Buildlocale riuscita eproveiframe320/390/768 senzaoverflow; nessunhardwarefisico. Main preservato.
