@@ -26,3 +26,6 @@ La foto interna2025con watermark valutata durante la ricerca non è stata scelta
 File1483588_gd.jpg fornito daFabio il4novembre2026 per sostituire soltanto la panoramica delCentro storico. Originale1050x749 conservato byte per byte, filigrana park4night.com visibile. Autore, data scatto e licenza non comunicati: nessuna attribuzione Commons o licenza inventata. Foto precedente conservata come asset storico. Home e foto delle singole schede invariate.
 
 Valorizzazione in pagina: brightness(1.08) contrast(1.10) saturate(1.12), solo veduta notturna. File originale e filigrana invariati; provaAI esclusa dalla pubblicazione per alterazione dei dettagli.
+
+## centro-storico-tramonto.jpg
+Fotografia fornita daFabio il4novembre2026,400x320,63664byte. Autore/data/licenza non comunicati. Originale byte-identico; correzioneCSS solo inpagina brightness1.02 contrast1.04 saturate0.94. Sostituisce la panoramica notturna; asset precedenti conservati. Nessun upscaling generativo pubblicato.

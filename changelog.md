@@ -100,3 +100,6 @@ Sostituita sola foto introduttiva con veduta notturna fornita daFabio; proporzio
 
 ## Luce e colore panoramica Centro storico
 Valorizzazione lieve e reversibile della sola panoramica notturna: luminosità+8%, contrasto+10%, saturazione+12% tramiteCSS. Nessuna ricostruzione fotografica.
+
+## Nuova scelta panoramica Centro storico
+Sostituita veduta notturna con fotografia al tramonto fornita daFabio,400x320. Tono valorizzato senza ricostruzioni:luminosità1.02 contrasto1.04 saturazione0.94.

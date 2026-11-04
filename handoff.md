@@ -94,3 +94,6 @@ Pagina precedente797e61b pubblicata e verificata suff7d6f0f.pages.dev. Nuova ric
 
 ## Valorizzazione panoramica notturna — 04/11/2026
 1373f9d pubblicato con successo e verificato. Fabio richiede miglioramento delle foto. ProvaAI scartata per ricostruzione architettura; valorizzazione non generativa mediante filtroCSS solo sulla panoramica:brightness1.08 contrast1.10 saturate1.12. File originale non alterato; foto singole ehome invariate. Collegamento ingrandimento apre originale. Build e pubblicazione correzione da verificare sul nuovo commit.
+
+## Sostituzione panorama con tramonto — 04/11/2026
+55758cd pubblicato e verificato su3c00c880. Fabio sceglie nuovo panorama400x320. Originale salvato centro-storico-tramonto.jpg; filtro locale brightness1.02 contrast1.04 saturate0.94, proporzioni5:4 integre. ProvaAI esclusa perché modificava dettagli e cielo. Vecchia foto conservata, home e altre schede invariate. Limite definizione comunicato aFabio. Build/pubblicazione da verificare sul relativo commit.

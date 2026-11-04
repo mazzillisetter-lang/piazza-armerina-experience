@@ -65,3 +65,6 @@ Fabio sceglie la veduta notturna fornita1483588_gd.jpg al posto della panoramica
 
 ## Miglioramento foto — 04/11/2026
 Fabio richiede sempre valorizzazione fotografica prima di inserire le foto: luce, contrasto e colori curati, conservando architettura e dettagli reali. Sulla panoramica notturna applicato filtro CSS locale brightness1.08 contrast1.10 saturate1.12. Prova generativa scartata perché ricostruiva dettagli. Originale e filigrana preservati.
+
+## Nuova panoramica tramonto — 04/11/2026
+Fabio preferisce il nuovo scatto400x320, fornito con filenameb9c92bc0ab95f840cf637c37c7b9a7978a7b430d9a9884cad98189ad75c7df25.jpg, alla veduta notturna. Usare originale integrale con brightness1.02 contrast1.04 saturate0.94: colori già intensi, evitare eccesso. Non inventare dettagli tramite upscaling generativo. Autore/data/licenza non forniti.
