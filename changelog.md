@@ -110,3 +110,7 @@ Scelto filePiazza-Armerina-2.webp1217x694 al posto del precedente400x320; inquad
 
 ## Palio stagione2027
 Nuova pagina/ palio-dei-normanni con2scene,4quartieri,sequenzatradizionale3giorni econtattiufficiali. Collegata daHome,WebPleggeri ecredititrasparenti.
+
+
+## Aggiornamento automatico Palio — 04/11/2026
+Fabio autorizza aggiornamento pagina dai comunicati ufficiali delComune. Implementato feedJSON2027 con stato/date/notizie/fonti/data verifica, frontend legge alcaricamento eogni5min convalidazione eultimo dataset valido. Controllo fonti giornaliero previsto: nonpush istantaneo. Schema/procedura in docs/palio-auto-updates.md; stato iniziale pending senza dati inventati. Attivazione automazione e verifica deploy da completare.

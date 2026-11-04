@@ -75,3 +75,7 @@ Fabio sceglie definitivamente Piazza-Armerina-2.webp1217x694, migliore inquadrat
 
 ## Palio — 04/11/2026
 Fabio richiede sezionePalio stagione2027, usando foto/bandiere già scelte inGit. Recuperate6immagini dalmain storico, integrate come elaborazioni artistiche/graphichelmamente nonufficiali, compresseWebP. Date12–14agosto indicate tradizionali e2027daconfermare; dettaglioperativi noninventati. Fonti e limiti diritti in docs/palio-2027.md.
+
+
+## Aggiornamento automatico Palio — 04/11/2026
+Fabio autorizza aggiornamento pagina dai comunicati ufficiali delComune. Implementato feedJSON2027 con stato/date/notizie/fonti/data verifica, frontend legge alcaricamento eogni5min convalidazione eultimo dataset valido. Controllo fonti giornaliero previsto: nonpush istantaneo. Schema/procedura in docs/palio-auto-updates.md; stato iniziale pending senza dati inventati. Attivazione automazione e verifica deploy da completare.

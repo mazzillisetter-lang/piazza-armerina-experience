@@ -108,3 +108,7 @@ Implementata pagina/palio-dei-normanni sulbranchautorizzato, nessunamodificaamai
 Verifica locale 04/11/2026: build produzione riuscita; browser PC e iframe320/390/768px senza overflow orizzontale,6immagini caricate, pulsanti contenuti a320px, linkHomePalio eancoraquartieri funzionanti. Revisione indipendente contenuti favorevole, contrastoCTA ewrappingcorretti. Nessun test suhardware fisico. Pubblicazione finale da verificare.
 
 Verifica pubblicazione Palio: commit8a97f1d8c619a70b3c69fe1aac4f2a2fa32e5d5d, Cloudflare completed/success; pagina aperta nelbrowser su https://a263b1b7.piazza-armerina-experience.pages.dev/palio-dei-normanni con6immagini caricate. ScreenshotPC /workspace/scratch/palio-2027-anteprima.jpg. Buildlocale riuscita eproveiframe320/390/768 senzaoverflow; nessunhardwarefisico. Main preservato.
+
+
+## Aggiornamento automatico Palio — 04/11/2026
+Fabio autorizza aggiornamento pagina dai comunicati ufficiali delComune. Implementato feedJSON2027 con stato/date/notizie/fonti/data verifica, frontend legge alcaricamento eogni5min convalidazione eultimo dataset valido. Controllo fonti giornaliero previsto: nonpush istantaneo. Schema/procedura in docs/palio-auto-updates.md; stato iniziale pending senza dati inventati. Attivazione automazione e verifica deploy da completare.
