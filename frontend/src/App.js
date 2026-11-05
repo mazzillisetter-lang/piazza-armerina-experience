@@ -59,7 +59,7 @@ const Shell = ({ lang, setLang, t }) => {
         <Route path="/mappe-e-navette" element={<MappeNavette lang={lang} />} />
         <Route path="*" element={<Home t={t} />} />
       </Routes>
-      <Footer t={t} />
+      <Footer t={t} lang={lang} />
       <Toaster position="bottom-center" />
     </div>
   );
