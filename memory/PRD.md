@@ -38,3 +38,6 @@ Pagina/centro-storico con fotoCommons reali,Duomo ePalazzoTrigona come schede pr
 
 ## Prodotti tipici — 05/11/2026
 Nuova pagina/prodotti-tipici: cinque specialità, quattro fotografie reali con crediti e lievi filtriCSS, distinzioneEnnese/Sicilia. Collegata daCategoryBand eExplore; linkMappe resta segnaposto. Fonti in docs/prodotti-tipici.md. Nessuna disponibilità o prezzo inventati. TestiIT con nota fallback, CTAhome5lingue. Build produzione riuscita; verifica browser/pubblicazione da completare sul nuovo commit.
+
+## Ampliamento visivo Prodotti — 05/11/2026
+Fabio considera la prima versione scarna, approva i collegamenti e chiede pane fotografato/più dolci e formaggi. Aggiunti sei nuovi scatti reali (guastedda, pane neroCastelvetrano, PecorinoSicilianoDOP, cassata, Martorana, granita/brioche) più arancini dalcatalogo esistente: undici fotografie uniche inpagina. PaneDittainoDOP conservato inrichiamo testuale; nessuna immagine generica etichettata DOP. Differenziate originiTrapani/Sicilia/Ennese e conservati linkbotteghe/ristoranti.

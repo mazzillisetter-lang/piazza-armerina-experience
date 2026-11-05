@@ -45,5 +45,88 @@
     "source": "https://commons.wikimedia.org/wiki/File:Pasta_di_mandorle_1.jpg",
     "date": "2024",
     "filter": "brightness(1.025) contrast(1.04) saturate(1.025)"
+  },
+  "pane": {
+    "src": "/img/products/pane.jpg",
+    "width": 960,
+    "height": 1279,
+    "alt": "Guastedde, pani siciliani piatti e rotondi su un piatto",
+    "author": "Auregann",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Guastedda,_Sicilian_bread.jpg",
+    "date": "2025",
+    "filter": "brightness(1.045) contrast(1.045) saturate(1.025)"
+  },
+  "pane-nero": {
+    "src": "/img/products/pane-nero.jpg",
+    "width": 960,
+    "height": 1280,
+    "alt": "Pane nero di Castelvetrano con sesamo, tagliato per mostrare la mollica",
+    "author": "HaguardDuNord",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Pain_noir_de_Castelvetrano.jpg",
+    "date": "2020",
+    "filter": "brightness(1.045) contrast(1.045) saturate(1.025)"
+  },
+  "pecorino-alt": {
+    "src": "/img/products/pecorino-alt.jpg",
+    "width": 960,
+    "height": 720,
+    "alt": "Fetta di Pecorino Siciliano DOP stagionato con crosta e pasta in vista",
+    "author": "HaguardDuNord",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Pecorino_siciliano_DOP_2.jpg",
+    "date": "2022",
+    "filter": "brightness(1.045) contrast(1.045) saturate(1.025)"
+  },
+  "cassata": {
+    "src": "/img/products/cassata.jpg",
+    "width": 960,
+    "height": 720,
+    "alt": "Cassata siciliana decorata con glassa bianca e frutta candita",
+    "author": "Dedda71",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Cassata_1.jpg",
+    "date": "",
+    "filter": "brightness(1.045) contrast(1.045) saturate(1.025)"
+  },
+  "martorana": {
+    "src": "/img/products/martorana.jpg",
+    "width": 960,
+    "height": 960,
+    "alt": "Frutti di Martorana colorati a forma di ciliegie, pera e arancia",
+    "author": "8w9d",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Frutta_Martorana.jpg",
+    "date": "2024",
+    "filter": "brightness(1.045) contrast(1.045) saturate(1.025)"
+  },
+  "granita": {
+    "src": "/img/products/granita.jpg",
+    "width": 960,
+    "height": 720,
+    "alt": "Granita al limone e brioche con il tuppo su un tavolo",
+    "author": "Sebastian Fischer",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Granita_brioche.JPG",
+    "date": "2006",
+    "filter": "brightness(1.045) contrast(1.045) saturate(1.025)"
+  },
+  "arancini": {
+    "src": "/img/food/arancini.webp",
+    "width": 1600,
+    "height": 1200,
+    "alt": "Arancini siciliani con panatura dorata e croccante",
+    "author": "Jeffrey_Allen",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arancini_(2009).jpg",
+    "filter": "brightness(1.025) contrast(1.025)"
   }
 }
