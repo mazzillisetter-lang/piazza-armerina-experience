@@ -1,0 +1,49 @@
+{
+  "cannoli": {
+    "src": "/img/food/cannoli.webp",
+    "width": 1600,
+    "height": 737,
+    "alt": "Cannoli siciliani ripieni di ricotta con scorza d’arancia e zucchero a velo",
+    "author": "AnnaVie",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Cannoli_sicily.jpg",
+    "filter": "brightness(1.025) contrast(1.035)"
+  },
+  "cassatelle": {
+    "src": "/img/products/cassatelle-agira.jpg",
+    "width": 1280,
+    "height": 829,
+    "alt": "Cassatelle di Agira a mezzaluna, spolverate di zucchero",
+    "author": "Auregann",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Cassatelle_di_Agira_1.jpg",
+    "date": "2024",
+    "filter": "brightness(1.035) contrast(1.045) saturate(1.025)"
+  },
+  "piacentinu": {
+    "src": "/img/products/piacentinu.jpg",
+    "width": 960,
+    "height": 1280,
+    "alt": "Fetta di Piacentinu ennese: pasta gialla con grani di pepe nero",
+    "author": "HaguardDuNord",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Tranche_de_Piacentinu_ennese.jpg",
+    "date": "2022",
+    "filter": "brightness(1.025) contrast(1.04) saturate(1.025)"
+  },
+  "mandorle": {
+    "src": "/img/products/mandorle.jpg",
+    "width": 1280,
+    "height": 900,
+    "alt": "Paste di mandorle siciliane su un piatto, spolverate di zucchero",
+    "author": "Auregann",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Pasta_di_mandorle_1.jpg",
+    "date": "2024",
+    "filter": "brightness(1.025) contrast(1.04) saturate(1.025)"
+  }
+}

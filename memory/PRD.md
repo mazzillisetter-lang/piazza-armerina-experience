@@ -35,3 +35,6 @@ User choices: lingue IT/EN/DE/FR/ES; schede senza foto (icone, numeri, tipografi
 
 ## Update — 2026-11-04: Centro storico
 Pagina/centro-storico con fotoCommons reali,Duomo ePalazzoTrigona come schede principali, passeggiata suggerita e fonti. Link daHome(CategoryBand,Explore) eDopoVilla. TestiIT con notafallback nelle altre lingue, coerente conVilla. Fotografie intere, nessuna ricostruzione; crediti/licenze/date inpagina.
+
+## Prodotti tipici — 05/11/2026
+Nuova pagina/prodotti-tipici: cinque specialità, quattro fotografie reali con crediti e lievi filtriCSS, distinzioneEnnese/Sicilia. Collegata daCategoryBand eExplore; linkMappe resta segnaposto. Fonti in docs/prodotti-tipici.md. Nessuna disponibilità o prezzo inventati. TestiIT con nota fallback, CTAhome5lingue. Build produzione riuscita; verifica browser/pubblicazione da completare sul nuovo commit.
