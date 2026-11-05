@@ -21,6 +21,7 @@ import DoveDormire from "@/pages/DoveDormire";
 import NaturaItinerari from "@/pages/NaturaItinerari";
 import Eventi from "@/pages/Eventi";
 import ProdottiTipici from "@/pages/ProdottiTipici";
+import ServiziUtili from "@/pages/ServiziUtili";
 import MappeNavette from "@/pages/MappeNavette";
 
 const initialLang = () => {
@@ -54,6 +55,7 @@ const Shell = ({ lang, setLang, t }) => {
         <Route path="/natura-e-itinerari" element={<NaturaItinerari lang={lang} />} />
         <Route path="/eventi" element={<Eventi lang={lang} />} />
         <Route path="/prodotti-tipici" element={<ProdottiTipici lang={lang} />} />
+        <Route path="/servizi-utili" element={<ServiziUtili lang={lang} />} />
         <Route path="/mappe-e-navette" element={<MappeNavette lang={lang} />} />
         <Route path="*" element={<Home t={t} />} />
       </Routes>

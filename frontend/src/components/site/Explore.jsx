@@ -53,6 +53,7 @@ export const Explore = ({ t }) => (
       <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-px bg-[var(--line)] border border-[var(--line)]">
         {t.cards.map((c, i) => <Card key={KEYS[i]} data={c} i={i} soon={i === 1 ? t.discoverCentre : i === 2 ? t.discoverPalio : i === 3 ? t.discoverFood : i === 4 ? t.discoverStay : i === 5 ? t.discoverNature : i === 6 ? t.discoverEvents : i === 7 ? t.discoverProducts : i === 8 ? t.discoverMobility : t.soon} />)}
       </div>
+      <a href="/servizi-utili" className="mt-8 p-6 border border-[var(--gold)]/40 flex flex-wrap items-center justify-between gap-4 text-[var(--gold-soft)] font-body text-xl" data-testid="home-services-link"><span>Servizi utili · Farmacie, spesa e assistenza</span><span className="inline-flex items-center gap-2">Trova ciò che ti serve<ArrowUpRight className="w-5 h-5" /></span></a>
     </div>
   </section>
 );
