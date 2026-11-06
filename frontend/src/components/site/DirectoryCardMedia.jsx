@@ -1,5 +1,4 @@
-import foodPhotos from "@/content/foodPhotos.json";
-import productPhotos from "@/content/productPhotos.json";
+import venuePhotos from "@/content/foodVenuePhotos.json";
 import "@/pages/directory-cards.css";
 
 const territory = {
@@ -17,20 +16,17 @@ export function directoryPhoto(kind, item) {
     const index = Array.from(item.id).reduce((sum, character) => sum + character.charCodeAt(0), 0) % 3;
     return [territory.square, territory.duomo, territory.trigona][index];
   }
-  const categories = item.categories || [];
-  if (categories.includes("pizza") && !categories.includes("ristorante")) return { ...territory.square, territory: true };
-  if (categories.includes("panificio")) return { ...productPhotos.pane, title: "Pani della tradizione siciliana" };
-  if (categories.includes("dolci")) return { ...foodPhotos.cannoli, alt: "Cannoli siciliani, immagine illustrativa e non del locale", title: "Dolce Sicilia" };
-  if (categories.includes("bar")) return { ...productPhotos.granita, title: "Una pausa siciliana" };
-  if (categories.includes("veloce")) return { ...foodPhotos.arancini, alt: "Arancini, immagine illustrativa dei sapori siciliani e non del locale", title: "Sapori siciliani" };
-  return { ...foodPhotos.pasta, alt: "Pasta con pomodoro e ricotta salata, immagine illustrativa e non del locale", title: "A tavola in Sicilia" };
+  // No category fallback: a venue may only show its own verified photograph.
+  const photo = venuePhotos[item.id];
+  return photo?.venueId === item.id && photo?.rightsEvidence && photo?.src && photo?.author && photo?.sourceUrl ? photo : null;
 }
 
 export default function DirectoryCardMedia({ kind, item }) {
   const photo = directoryPhoto(kind, item);
+  if (!photo) return null;
   const isStay = kind === "stay";
   const isTerritory = isStay || photo.territory;
-  const context = isStay ? "Foto del territorio · non della struttura" : isTerritory ? "Foto del territorio · non del locale" : "Foto illustrativa · non del locale";
+  const context = isStay ? "Foto del territorio · non della struttura" : `Foto del locale · ${item.name}`;
   return <figure className={`directory-card-media ${isTerritory ? "directory-territory" : "directory-taste"}`}>
     <a className="directory-photo-link" href={photo.src} target="_blank" rel="noreferrer" aria-label={`Ingrandisci: ${photo.title}. ${context}`}>
       <img src={photo.src} width={photo.width} height={photo.height} alt={photo.alt} loading="lazy" decoding="async" />

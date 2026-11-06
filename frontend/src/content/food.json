@@ -17,7 +17,9 @@
       "sources": [
         "https://www.agritrinacria.it/homepage.htm",
         "https://www.tripadvisor.it/Restaurant_Review-g580232-d7008777-Reviews-Agriturismo_Trinacria_di_Cammarata_Ugo-Piazza_Armerina_Province_of_Enna_Sicily.html"
-      ]
+      ],
+      "photoGalleryUrl": "https://www.agritrinacria.it/homepage.htm",
+      "photoGalleryLabel": "Foto e sito del locale"
     },
     {
       "id": "bar-restaurant-imperial",
@@ -36,7 +38,9 @@
       "sources": [
         "https://restaurantguru.it/Bar-Restaurant-Imperial-Piazza-Armerina",
         "https://www.tripadvisor.it/Restaurant_Review-g580232-d27739024-Reviews-Bar_Restaurant_Imperial-Piazza_Armerina_Province_of_Enna_Sicily.html"
-      ]
+      ],
+      "photoGalleryUrl": "https://www.tripadvisor.com/Restaurant_Review-g580232-d27739024-Reviews-Bar_Restaurant_Imperial-Piazza_Armerina_Province_of_Enna_Sicily.html",
+      "photoGalleryLabel": "Foto del locale · Tripadvisor"
     },
     {
       "id": "memory-food",
@@ -55,7 +59,9 @@
       "sources": [
         "https://www.tripadvisor.com/Restaurant_Review-g580232-d27994228-Reviews-Memoryfood-Piazza_Armerina_Province_of_Enna_Sicily.html",
         "https://restaurantguru.com/Memoryfood-Piazza-Armerina"
-      ]
+      ],
+      "photoGalleryUrl": "https://www.tripadvisor.it/Restaurant_Review-g580232-d27994228-Reviews-Memoryfood-Piazza_Armerina_Province_of_Enna_Sicily.html",
+      "photoGalleryLabel": "Foto del locale · Tripadvisor"
     },
     {
       "id": "siciliamo-cafe-food-beverage",
@@ -92,7 +98,9 @@
       "sources": [
         "https://www.trattorialaruota.it/",
         "https://www.sluurpy.it/piazza-armerina/ristorante/65094/la-ruota"
-      ]
+      ],
+      "photoGalleryUrl": "https://www.trattorialaruota.it/",
+      "photoGalleryLabel": "Foto e sito del locale"
     },
     {
       "id": "al-fogher",
@@ -110,7 +118,9 @@
       "sources": [
         "https://guide.michelin.com/it/it/sicilia/piazza-armerina/ristorante/al-fogher",
         "https://accademiaitalianadellacucina.it/it/ristoranti/ristorante/1979-fogher"
-      ]
+      ],
+      "photoGalleryUrl": "https://www.viamichelin.com/maps/restaurants/poi/piazza_armerina-94015-3caunl9",
+      "photoGalleryLabel": "Foto del locale · ViaMichelin"
     },
     {
       "id": "amici-miei",
