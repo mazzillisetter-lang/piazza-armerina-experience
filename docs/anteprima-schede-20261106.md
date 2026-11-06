@@ -1,0 +1,7 @@
+# Prova grafica schede soggiorni — 6 novembre 2026
+
+Richiesta Fabio: mostrare come rendere le schede più affascinanti; prova limitata a Suite d’Autore, Villa Bentivoglio, Kimera. Pagina statica isolata frontend/public/anteprima-schede/index.html, mai integrata in DoveDormire.jsx. Branch separato anteprima-schede-20261106; visita, lavoro e main invariati. Tre schede con fotografie di contesto dichiarate sopra la griglia e in ogni didascalia. Non sono foto delle strutture; nessuna immagine degli hotel copiata senza autorizzazione.
+
+Foto riutilizzate con attribuzioni, fonte e licenza nel footer apribile: Piazza_Armerina_Cathedral_0802.jpg Ludvig14 CC BY-SA4.0, Monte_Altesina.jpg DavideMauro CC BY-SA4.0, Piazza_Garibaldi_At_Night_(122556433).jpeg StefanoLiMoli CC BY-SA3.0. Copie esistenti del progetto, proporzioni intere e nessuna nuova manipolazione. Nessun prezzo/disponibilità/recensione inventati. Fonti e contatti delle strutture dal catalogo verificato; nessuna chiamata inviata.
+
+HTML circa14,6kB, zero librerieJS, immagini circa0,92MB complessivi e seconde/terze lazy. Font Google come nel progetto; nessun nuovo tracciamento. Filtri3→1Hotel, ricercaKimera1, nessunrisultato verificati; viste320/390/768/1280 senza overflow orizzontale. Anteprima interna osservata; pubblicazione separata e URL da registrare prima di consegnare. La proposta non autorizza modifica del catalogo pubblico completo. Dopo approvazione dello stile servono foto autorizzate delle strutture per applicare il modello definitivo.
