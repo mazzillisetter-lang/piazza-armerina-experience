@@ -16,3 +16,5 @@
 - Tariffe: una pagina aggiornata per mostre non equivale al prezzo ordinario della home. Separare voci e applicabilità; rendere esplicito l'anno di tariffari più vecchi e non inventare validità dei cumulativi.
 
 - Audit: il nome di un ente su un portale ospitato da terzi non conferma ufficialità; qualificare le fonti. Un inventario URL non è un collaudo di tutti i link. Verificare il ripristino del backup, non soltanto la creazione o git bundle verify.
+
+- Cataloghi a caricamento progressivo: prima di creare una scheda cercare su tutti gli elementi, non soltanto sui primi18 visibili. Suite d’Autore era già presente in posizione35; migliorare visibilità e dati senza duplicati.

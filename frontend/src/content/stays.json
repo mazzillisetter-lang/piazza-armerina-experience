@@ -2,6 +2,25 @@
   "verifiedAt": "2026-11-04",
   "places": [
     {
+      "name": "Suite d’Autore – Art Design Gallery Hotel",
+      "zone": "centro",
+      "address": "Via Monte 1 (Piazza Duomo), Piazza Armerina",
+      "phone": "+390935688553",
+      "website": "https://www.suitedautore.it/",
+      "bookingUrl": null,
+      "whatsapp": null,
+      "description": "In Piazza Duomo, un hotel-galleria dove arte e ospitalità si incontrano. Suite a tema raccontano il design dal Novecento a oggi, tra opere d’arte e arredi d’autore.",
+      "sources": [
+        "https://www.suitedautore.it/",
+        "https://www.suitedautore.it/art-hotel"
+      ],
+      "id": "suite-dautore",
+      "types": [
+        "hotel"
+      ],
+      "verifiedAt": "2026-11-06"
+    },
+    {
       "name": "Agriresort Villa Bentivoglio",
       "zone": "campagna",
       "address": "Contrada Vallone di Sarro snc, Piazza Armerina",
@@ -597,23 +616,6 @@
         "https://www.booking.com/hotel/it/park-paradiso.it.html"
       ],
       "id": "park-hotel-paradiso",
-      "types": [
-        "hotel"
-      ]
-    },
-    {
-      "name": "Suite d’Autore",
-      "zone": "centro",
-      "address": "Via Monte 1 (Piazza Duomo), Piazza Armerina",
-      "phone": "+390935688553",
-      "website": "https://www.suitedautore.it/",
-      "bookingUrl": null,
-      "whatsapp": null,
-      "description": "Hotel-galleria di arte e design in Piazza Duomo.",
-      "sources": [
-        "https://www.suitedautore.it/"
-      ],
-      "id": "suite-dautore",
       "types": [
         "hotel"
       ]
