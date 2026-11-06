@@ -14,3 +14,5 @@
 - Per mosaici documentari, una foto con dominante cromatica più naturale e regolazioni CSS minime consentono di preservare integralmente il file sorgente. Registrare parametri e licenza e non applicare il filtro globalmente.
 - Orari turistici stagionali: usare il fuso del luogo e testare gli istanti limite delle ultime domeniche, non solo i mesi. Data di revisione distinta dalla data del cambio automatico. Documentare fonti ufficiali non allineate senza promettere sincronizzazione live.
 - Tariffe: una pagina aggiornata per mostre non equivale al prezzo ordinario della home. Separare voci e applicabilità; rendere esplicito l'anno di tariffari più vecchi e non inventare validità dei cumulativi.
+
+- Audit: il nome di un ente su un portale ospitato da terzi non conferma ufficialità; qualificare le fonti. Un inventario URL non è un collaudo di tutti i link. Verificare il ripristino del backup, non soltanto la creazione o git bundle verify.

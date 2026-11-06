@@ -26,7 +26,7 @@ export const VillaHero = ({ c, ui }) => (
         <a href="#mosaici" className="btn-hero mt-8" data-testid="villa-hero-cta">{ui.nav[1]}<ArrowDown className="w-5 h-5" /></a>
       </div>
       <motion.div initial={{ opacity: 0, scale: 0.97 }} animate={{ opacity: 1, scale: 1 }} transition={{ duration: 1.2, ease, delay: 0.3 }} className="lg:col-span-6">
-        <PhotoSlot photo={{ src: "https://raw.githubusercontent.com/mazzillisetter-lang/piazza-armerina-experience/armerina-experience-20261101/villa-romana-panoramica-ritocco-leggero.jpg", credit: "Panoramica della Villa Romana del Casale" }} label={c.heroPhoto} className="aspect-[16/10] w-full rounded-[2px]" testId="villa-hero-photo-slot" />
+        <PhotoSlot photo={{ src: "https://raw.githubusercontent.com/mazzillisetter-lang/piazza-armerina-experience/armerina-experience-20261101/villa-romana-panoramica-ritocco-leggero.jpg", credit: "Panoramica della Villa Romana del Casale" }} alt={c.heroPhoto} label={c.heroPhoto} className="aspect-[16/10] w-full rounded-[2px]" testId="villa-hero-photo-slot" />
       </motion.div>
     </div>
   </section>

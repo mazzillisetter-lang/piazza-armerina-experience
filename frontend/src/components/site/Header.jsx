@@ -1,7 +1,7 @@
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Search, Menu, X, ChevronDown } from "lucide-react";
-import { toast } from "sonner";
+import { Menu, X, ChevronDown } from "lucide-react";
+import { SiteSearch } from "./SiteSearch";
 import { Logo } from "./Logo";
 import { Flag } from "./Flag";
 import { LANGS } from "@/i18n";
@@ -25,6 +25,8 @@ const LangMenu = ({ lang, setLang }) => (
 );
 
 export const Header = ({ lang, setLang, t, base = "" }) => {
+  const menuButton = useRef(null);
+  const panel = useRef(null);
   const [scrolled, setScrolled] = useState(false);
   const [open, setOpen] = useState(false);
   useEffect(() => {
@@ -32,6 +34,15 @@ export const Header = ({ lang, setLang, t, base = "" }) => {
     window.addEventListener("scroll", on, { passive: true });
     return () => window.removeEventListener("scroll", on);
   }, []);
+
+  useEffect(() => {
+    if (!open) return;
+    const escape = (e) => { if (e.key === "Escape") { setOpen(false); menuButton.current?.focus(); } };
+    const outside = (e) => { if (!panel.current?.contains(e.target) && !menuButton.current?.contains(e.target)) setOpen(false); };
+    window.addEventListener("keydown", escape);
+    document.addEventListener("pointerdown", outside);
+    return () => { window.removeEventListener("keydown", escape); document.removeEventListener("pointerdown", outside); };
+  }, [open]);
 
   return (
     <motion.header
@@ -49,11 +60,9 @@ export const Header = ({ lang, setLang, t, base = "" }) => {
           ))}
         </nav>
         <div className="flex items-center gap-2 sm:gap-3">
-          <button data-testid="header-search-btn" aria-label="Search" onClick={() => toast(t.searchSoon)} className="hidden sm:grid place-items-center w-12 h-12 rounded-full bg-[rgba(20,10,8,0.82)] text-white hover:text-[var(--gold)] transition-colors">
-            <Search className="w-5 h-5" />
-          </button>
+          <SiteSearch t={t} lang={lang} />
           <LangMenu lang={lang} setLang={setLang} />
-          <button data-testid="header-menu-btn" aria-label={t.menuLabel} onClick={() => setOpen((o) => !o)} className="grid place-items-center w-11 h-11 sm:w-12 sm:h-12 rounded-full bg-gradient-to-b from-[#f0c45a] to-[#c98f22] text-white shadow-[0_6px_20px_-6px_rgba(240,180,60,.7)] hover:scale-105 transition-transform">
+          <button ref={menuButton} data-testid="header-menu-btn" aria-expanded={open} aria-controls="site-menu-panel" aria-label={t.menuLabel} onClick={() => setOpen((o) => !o)} className="grid place-items-center w-11 h-11 sm:w-12 sm:h-12 rounded-full bg-gradient-to-b from-[#f0c45a] to-[#c98f22] text-[#241509] shadow-[0_6px_20px_-6px_rgba(240,180,60,.7)] hover:scale-105 transition-transform">
             {open ? <X className="w-5 h-5" /> : <Menu className="w-5 h-5" />}
           </button>
         </div>
@@ -61,7 +70,7 @@ export const Header = ({ lang, setLang, t, base = "" }) => {
       <AnimatePresence>
         {open && (
           <motion.nav
-            data-testid="header-menu-panel"
+            ref={panel} id="site-menu-panel" data-testid="header-menu-panel"
             initial={{ opacity: 0, y: -10 }}
             animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0, y: -10 }}

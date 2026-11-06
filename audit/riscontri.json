@@ -1,0 +1,31 @@
+{
+  "baseline": "b496d514451dd024d13a210d635f2407be9ae363",
+  "publicRoutes": 11,
+  "responsiveCases": 44,
+  "frameWidths": [
+    320,
+    390,
+    768,
+    1280
+  ],
+  "horizontalOverflowObserved": 0,
+  "existingTestsPassed": 13,
+  "catalogues": {
+    "food": 43,
+    "stays": 41
+  },
+  "urlsInventoried": 495,
+  "externalUrlsInventoried": 373,
+  "allExternalUrlsVerified": false,
+  "applicationChanges": false,
+  "deployed": false,
+  "findings": {
+    "alt": "frontend/src/components/villa/VillaHero.jsx",
+    "dialog": "frontend/src/components/villa/VillaMap.jsx",
+    "contrast": "frontend/src/App.css:.btn-hero",
+    "language": "frontend/src/App.js and pages fallback IT",
+    "privacy": "frontend/public/index.html",
+    "placeholder": "frontend/src/components/site/Header.jsx and Explore.jsx",
+    "rights": "docs/palio-2027.md, frontend/public/img/centro/SOURCES.md, frontend/src/content/villa.js"
+  }
+}

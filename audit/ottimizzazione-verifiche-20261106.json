@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-06",
+  "baseline": "b496d514451dd024d13a210d635f2407be9ae363",
+  "mainGzipKB": 188.66,
+  "previousMainGzipKB": 245.91,
+  "cssMainGzipKB": 16.26,
+  "testsPassed": 13,
+  "responsiveCases": 14,
+  "horizontalOverflowObserved": 0,
+  "checks": [
+    "search parking",
+    "search pharmacies",
+    "empty search result",
+    "search focus and escape return",
+    "menu expanded and Escape",
+    "map dialog name and focus",
+    "map zoom200",
+    "map Escape return focus",
+    "YouTube player rendered; playback untested"
+  ],
+  "applicationDeployed": false
+}
