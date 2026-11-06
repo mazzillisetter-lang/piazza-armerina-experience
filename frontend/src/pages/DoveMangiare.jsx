@@ -2,6 +2,7 @@ import { useEffect, useMemo, useState } from "react";
 import { ArrowLeft, ArrowRight, ArrowUpRight, Search, MapPin, Phone, MessageCircle, UtensilsCrossed, Coffee, Pizza, Croissant, SlidersHorizontal, X } from "lucide-react";
 import directory from "@/content/food.json";
 import photos from "@/content/foodPhotos.json";
+import DirectoryCardMedia from "@/components/site/DirectoryCardMedia";
 import { FOOD_CATEGORIES, FOOD_ZONES, filterFoodVenues, foodMapUrl } from "@/lib/foodDirectory";
 import "@/pages/food.css";
 
@@ -15,7 +16,9 @@ const HeroPhoto = ({ id, alt, eager=false }) => {
   const photo=photos[id];
   return <figure className={`food-hero-photo food-photo-${id}`}><img src={photo.src} width={photo.width} height={photo.height} alt={alt} loading={eager?"eager":"lazy"} style={{filter:photo.filter}} /><figcaption><Credit photo={photo} /></figcaption></figure>;
 };
-const VenueCard = ({ venue }) => <article className="food-venue" data-testid="food-venue" id={`locale-${venue.id}`}>
+const VenueCard = ({ venue }) => <article className="food-venue directory-card" data-testid="food-venue" id={`locale-${venue.id}`}>
+  <DirectoryCardMedia kind="food" item={venue}/>
+  <div className="directory-card-body">
   <div className="food-venue-top"><div className="food-venue-symbol"><Icon venue={venue}/></div><p className="food-zone"><MapPin size={13}/>{FOOD_ZONES[venue.zone]}</p></div>
   <div className="food-venue-copy"><p className="food-venue-type">{venue.categories.slice(0,2).map(categoryLabel).join(" · ")}</p><h3>{venue.name}</h3><p className="food-venue-description">{venue.description}</p><p className="food-address">{venue.address.replace(/, Piazza Armerina$/," ").trim()}</p></div>
   <div className="food-contact-actions">
@@ -26,6 +29,7 @@ const VenueCard = ({ venue }) => <article className="food-venue" data-testid="fo
     {venue.booking && <a className="food-secondary-action" href={venue.booking} target="_blank" rel="noreferrer">Prenota online<ArrowUpRight size={15}/></a>}
   </div>
   <details className="food-card-sources"><summary>Fonti della scheda</summary><ul>{venue.sources.map((source,i)=><li key={source}><a href={source} target="_blank" rel="noreferrer">{i===0?"Pagina di riferimento":"Altra fonte"}<ArrowUpRight size={12}/></a></li>)}</ul></details>
+  </div>
 </article>;
 
 export default function DoveMangiare({ lang }) {
