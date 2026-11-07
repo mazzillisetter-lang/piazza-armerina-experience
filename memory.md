@@ -161,3 +161,7 @@ Fabio ha scelto l’ultimo allegato «Logo Barocco di Piazza Armerina(1).png», 
 
 ## 7 novembre 2026 · Logo con sfondo trasparente
 Fabio ha approvato la prova del logo barocco scontornato. La testata usa il WebP con canale alfa e lascia vedere il panorama attorno alla cupola e alla scritta.
+
+
+## 7 novembre 2026 · Copertina per la condivisione
+I metadati Open Graph e Twitter puntano alla copertina JPEG da 1200 × 630 pixel composta con panorama, mosaico e logo già usati nella home. Il link di condivisione resta quello dell’anteprima visita. La resa finale in WhatsApp si verifica incollando il link in chat.
