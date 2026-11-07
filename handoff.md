@@ -216,3 +216,7 @@ Fabio ha approvato la prova del logo barocco scontornato. La testata usa il WebP
 
 ## 7 novembre 2026 · Copertina per la condivisione
 I metadati Open Graph e Twitter puntano alla copertina JPEG da 1200 × 630 pixel composta con panorama, mosaico e logo già usati nella home. Il link di condivisione resta quello dell’anteprima visita. La resa finale in WhatsApp si verifica incollando il link in chat.
+
+## 7 novembre 2026 · Copertina social approvata e pubblicata
+
+Fabio ha approvato la versione con il fianco e la figura del mosaico più visibili. Il JPEG 1200 × 630 è composto con il panorama, il mosaico originale e il logo del progetto. La modifica pubblica riguarda soltanto frontend/public/img/condivisione/piazza-armerina-social.jpg e i tag Open Graph e Twitter in frontend/public/index.html. Commit 343b322f75f5a979b5a02f37d629de2a35a9cd96 su visita, check Cloudflare Pages riuscito. Il link https://visita.piazza-armerina-experience.pages.dev/ espone i metadati nell’HTML iniziale. Richieste con user agent WhatsApp e Facebook hanno restituito HTTP 200 e i tag attesi. Il JPEG pubblico è identico al file approvato. Il test nell’app social resta da eseguire. Per una prova con URL nuovo usare https://visita.piazza-armerina-experience.pages.dev/?anteprima=mosaico-v3 . Punto di ripristino pubblico precedente 7e898da8cc67eb2ba3de091921a2980e222d50c6.

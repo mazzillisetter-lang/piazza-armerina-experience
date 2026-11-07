@@ -38,3 +38,7 @@ Eliminata l’assegnazione automatica per categoria nel componente condiviso. Re
 Fonti e candidati documentati in docs/fonti-foto-locali-20261106.md. Nessuna licenza o autorizzazione di riutilizzo riscontrata; nessun ritocco eseguito e nessuna fotografia specifica importata. Siciliamo ha due profiliTripadvisor da riconciliare: non scegliere una foto a caso. Google permette collegamenti/embed nei limiti delle proprie condizioni, non una generica autorizzazione a scaricare e ritoccare le foto dei contributori (fonti: https://www.google.com/intl/en/help/terms_maps/ e https://about.google/brand-resource-center/products-and-services/geo-guidelines/).
 
 Base pubblica72fe5f904a3a0577b2ffc1a34ba6e3715b8dfd28; punto Git remoto ripristino-prima-foto-locali-20261106 allo stessoSHA. Build riuscita. Pubblicazione/collaudo pubblico da riportare nella memoria consolidata finale; richiesta completa di fotografie proprie dei locali resta bloccata sui diritti. Non dichiarare completata la sostituzione con foto autentiche delle attività.
+
+## 7 novembre 2026 · Copertina social approvata e pubblicata
+
+Versionare il percorso del JPG quando cambia la copertina condivisa. Verificare i metadati nell’HTML pubblico e confrontare il JPEG scaricato con il file approvato. Le richieste HTTP con user agent social non verificano la resa nelle rispettive app.
