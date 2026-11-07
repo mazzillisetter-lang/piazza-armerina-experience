@@ -13,9 +13,13 @@ export const LogoMark = ({ className = "w-9 h-9" }) => (
 );
 
 export const Logo = ({ href = "#top" }) => (
-  <a href={href} data-testid="header-logo-link" className="flex flex-col items-center text-[var(--gold)] group shrink-0">
-    <LogoMark className="w-9 h-8 sm:w-12 sm:h-10 lg:w-[calc(var(--u)*3)] lg:h-[calc(var(--u)*2.5)] transition-transform duration-700 group-hover:-translate-y-0.5" />
-    <span className="font-display font-bold text-[0.95rem] sm:text-[1.45rem] lg:text-[calc(var(--u)*1.5)] leading-none tracking-[0.02em] text-white uppercase mt-1 text-shadow-soft whitespace-nowrap">Piazza Armerina</span>
-    <span className="text-[0.55rem] sm:text-[0.72rem] lg:text-[max(0.55rem,calc(var(--u)*0.7))] uppercase tracking-[0.42em] text-[var(--gold)] mt-1 pl-[0.42em] font-body">Experience</span>
+  <a href={href} data-testid="header-logo-link" className="header-brand">
+    <img
+      src="/img/brand/logo-barocco.webp"
+      width="640"
+      height="280"
+      alt="Piazza Armerina Experience"
+      className="header-brand-image"
+    />
   </a>
 );

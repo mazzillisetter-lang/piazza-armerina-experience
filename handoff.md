@@ -204,3 +204,7 @@ Eliminata l’assegnazione automatica per categoria nel componente condiviso. Re
 Fonti e candidati documentati in docs/fonti-foto-locali-20261106.md. Nessuna licenza o autorizzazione di riutilizzo riscontrata; nessun ritocco eseguito e nessuna fotografia specifica importata. Siciliamo ha due profiliTripadvisor da riconciliare: non scegliere una foto a caso. Google permette collegamenti/embed nei limiti delle proprie condizioni, non una generica autorizzazione a scaricare e ritoccare le foto dei contributori (fonti: https://www.google.com/intl/en/help/terms_maps/ e https://about.google/brand-resource-center/products-and-services/geo-guidelines/).
 
 Base pubblica72fe5f904a3a0577b2ffc1a34ba6e3715b8dfd28; punto Git remoto ripristino-prima-foto-locali-20261106 allo stessoSHA. Build riuscita. Pubblicazione/collaudo pubblico da riportare nella memoria consolidata finale; richiesta completa di fotografie proprie dei locali resta bloccata sui diritti. Non dichiarare completata la sostituzione con foto autentiche delle attività.
+
+
+## 7 novembre 2026 · Logo della testata
+Fabio ha scelto l’ultimo allegato «Logo Barocco di Piazza Armerina(1).png», con cupola centrale, facciata dorata e scritta completa. La testata usa una copia WebP da 640 × 280 pixel e circa 24 kB, con inquadratura dei margini laterali e spazio sopra il testo introduttivo. La scelta si applica all’anteprima visita e al ramo di lavoro.
