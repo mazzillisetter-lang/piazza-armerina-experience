@@ -242,9 +242,6 @@ body { font-family: "Crimson Pro", serif; color: var(--cream); font-size: 1.06re
   display: block;
   width: clamp(148px, 22vw, 184px);
   min-width: 0;
-  border-radius: 8px;
-  overflow: hidden;
-  background: #050302;
 }
 
 .header-brand-image {

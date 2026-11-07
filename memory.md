@@ -157,3 +157,7 @@ Base pubblica72fe5f904a3a0577b2ffc1a34ba6e3715b8dfd28; punto Git remoto ripristi
 
 ## 7 novembre 2026 · Logo della testata
 Fabio ha scelto l’ultimo allegato «Logo Barocco di Piazza Armerina(1).png», con cupola centrale, facciata dorata e scritta completa. La testata usa una copia WebP da 640 × 280 pixel e circa 24 kB, con inquadratura dei margini laterali e spazio sopra il testo introduttivo. La scelta si applica all’anteprima visita e al ramo di lavoro.
+
+
+## 7 novembre 2026 · Logo con sfondo trasparente
+Fabio ha approvato la prova del logo barocco scontornato. La testata usa il WebP con canale alfa e lascia vedere il panorama attorno alla cupola e alla scritta.

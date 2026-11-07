@@ -15,7 +15,7 @@ export const LogoMark = ({ className = "w-9 h-9" }) => (
 export const Logo = ({ href = "#top" }) => (
   <a href={href} data-testid="header-logo-link" className="header-brand">
     <img
-      src="/img/brand/logo-barocco.webp"
+      src="/img/brand/logo-barocco-trasparente.webp"
       width="640"
       height="280"
       alt="Piazza Armerina Experience"
