@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-04T18:43:14Z",
-  "verifiedAt": "2026-11-04",
-  "summary": "Nelle fonti comunali consultate non sono stati individuati nuovi appuntamenti futuri confermati. La sezione Vivere il Comune non mostra eventi in programma; i programmi delle edizioni passate non vengono riproposti come attuali.",
+  "updatedAt": "2026-11-12T10:22:09Z",
+  "verifiedAt": "2026-11-12",
+  "summary": "L’agenda raccoglie gli appuntamenti verificati nelle fonti comunali. L’ordinanza n. 129 dell’11 novembre 2026 conferma la sfilata della delegazione maltese con bande musicali e indica le modifiche alla viabilità del 15 novembre.",
   "sources": [
     {
       "label": "Comune · Calendario eventi",
@@ -17,5 +17,31 @@
       "url": "https://servizi.comune.piazzaarmerina.en.it/zf/index.php/atti-amministrativi/ordinanze/index"
     }
   ],
-  "events": []
+  "events": [
+    {
+      "id": "2026-11-15-sfilata-delegazione-maltese",
+      "title": "Sfilata della delegazione maltese con bande musicali",
+      "description": "Sfilata istituzionale per il gemellaggio tra Piazza Armerina e San Ġiljan (Malta). Da Piazza Garibaldi il corteo percorre via Marconi, via Garibaldi, Discesa Santo Stefano, Piazza Gen. Cascino, via Gen. Ciancio, via R. Roccella e via Gen. Muscarà. Torna per Piazza Gen. Cascino e Discesa Santo Stefano e arriva alla Commenda dei Cavalieri di Malta, dove si tiene la manifestazione finale.",
+      "category": "cultura",
+      "status": "confirmed",
+      "startDate": "2026-11-15",
+      "endDate": null,
+      "startTime": "10:00",
+      "endTime": null,
+      "location": "Piazza Garibaldi (partenza) e Commenda dei Cavalieri di Malta (arrivo)",
+      "ticketsText": null,
+      "accessibility": null,
+      "transport": "Lungo il percorso, divieto di sosta con rimozione forzata dalle 09:00 alle 13:00 e divieto di transito per il tempo necessario al passaggio del corteo. La Polizia Locale può disporre sul posto ulteriori divieti o sensi unici.",
+      "notice": null,
+      "updatedAt": "2026-11-12T10:22:09Z",
+      "sources": [
+        {
+          "title": "Comune di Piazza Armerina · Ordinanza di Polizia Locale n. 129 dell’11 novembre 2026",
+          "url": "https://servizi.comune.piazzaarmerina.en.it/zf/index.php/atti-amministrativi/ordinanze/dettaglio/atto/GTVRZeEq1Zz0-H",
+          "publishedAt": "2026-11-11",
+          "checkedAt": "2026-11-12"
+        }
+      ]
+    }
+  ]
 }
