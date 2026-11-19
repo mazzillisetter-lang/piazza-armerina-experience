@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-12T10:22:09Z",
-  "verifiedAt": "2026-11-12",
-  "summary": "L’agenda raccoglie gli appuntamenti verificati nelle fonti comunali. L’ordinanza n. 129 dell’11 novembre 2026 conferma la sfilata della delegazione maltese con bande musicali e indica le modifiche alla viabilità del 15 novembre.",
+  "updatedAt": "2026-11-19T10:26:16Z",
+  "verifiedAt": "2026-11-19",
+  "summary": "Appuntamenti e avvisi verificati nelle fonti comunali. L’ordinanza n. 132 del 17 novembre 2026 conferma il corteo studentesco International Youth Strike del 20 novembre e le modifiche alla viabilità lungo il percorso.",
   "sources": [
     {
       "label": "Comune · Calendario eventi",
@@ -40,6 +40,31 @@
           "url": "https://servizi.comune.piazzaarmerina.en.it/zf/index.php/atti-amministrativi/ordinanze/dettaglio/atto/GTVRZeEq1Zz0-H",
           "publishedAt": "2026-11-11",
           "checkedAt": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20-international-youth-strike",
+      "title": "International Youth Strike · Corteo studentesco e viabilità",
+      "description": "Il corteo studentesco comunicato dalla Rete della Conoscenza parte dal Piano Sant’Ippolito alle 10:00. Il percorso attraversa via Libertà, via Mons. Sturzo, Piazza Gen. Cascino e via Gen. Ciancio, fino a Piazza Sen. Marescalchi, dove è previsto un breve sit-in.",
+      "category": "altro",
+      "status": "confirmed",
+      "startDate": "2026-11-20",
+      "endDate": null,
+      "startTime": "10:00",
+      "endTime": null,
+      "location": "Piano Sant’Ippolito (partenza) e Piazza Sen. Marescalchi (arrivo)",
+      "ticketsText": null,
+      "accessibility": null,
+      "transport": "Lungo il percorso, divieto di sosta con rimozione forzata dalle 09:00 alle 13:00 del 20 novembre e divieto di transito per il tempo necessario al passaggio del corteo. La Polizia Locale può istituire sul posto ulteriori divieti o sensi unici.",
+      "notice": null,
+      "updatedAt": "2026-11-19T10:26:16Z",
+      "sources": [
+        {
+          "title": "Comune di Piazza Armerina · Ordinanza di Polizia Locale n. 132 del 17 novembre 2026",
+          "url": "https://servizi.comune.piazzaarmerina.en.it/zf/index.php/atti-amministrativi/ordinanze/dettaglio/atto/GTVRZeUU1TT0-H",
+          "publishedAt": "2026-11-17",
+          "checkedAt": "2026-11-19"
         }
       ]
     }
